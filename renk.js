@@ -58,14 +58,14 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>JavaScript/index.html at master · erdemgocen44/JavaScript</title>
+  <title>JavaScript/renk.js at master · erdemgocen44/JavaScript</title>
     <meta name="description" content="Contribute to erdemgocen44/JavaScript development by creating an account on GitHub.">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
   <meta property="fb:app_id" content="1401488693436528">
   <meta name="apple-itunes-app" content="app-id=1477376905" />
-    <meta name="twitter:image:src" content="https://opengraph.githubassets.com/9d14572404163dfcb9274a031e42e29f4fa336804b8e3a5e5f36dbe7daeab1fd/erdemgocen44/JavaScript" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="JavaScript/index.html at master · erdemgocen44/JavaScript" /><meta name="twitter:description" content="Contribute to erdemgocen44/JavaScript development by creating an account on GitHub." />
-    <meta property="og:image" content="https://opengraph.githubassets.com/9d14572404163dfcb9274a031e42e29f4fa336804b8e3a5e5f36dbe7daeab1fd/erdemgocen44/JavaScript" /><meta property="og:image:alt" content="Contribute to erdemgocen44/JavaScript development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="JavaScript/index.html at master · erdemgocen44/JavaScript" /><meta property="og:url" content="https://github.com/erdemgocen44/JavaScript" /><meta property="og:description" content="Contribute to erdemgocen44/JavaScript development by creating an account on GitHub." />
+    <meta name="twitter:image:src" content="https://opengraph.githubassets.com/9d14572404163dfcb9274a031e42e29f4fa336804b8e3a5e5f36dbe7daeab1fd/erdemgocen44/JavaScript" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="JavaScript/renk.js at master · erdemgocen44/JavaScript" /><meta name="twitter:description" content="Contribute to erdemgocen44/JavaScript development by creating an account on GitHub." />
+    <meta property="og:image" content="https://opengraph.githubassets.com/9d14572404163dfcb9274a031e42e29f4fa336804b8e3a5e5f36dbe7daeab1fd/erdemgocen44/JavaScript" /><meta property="og:image:alt" content="Contribute to erdemgocen44/JavaScript development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="JavaScript/renk.js at master · erdemgocen44/JavaScript" /><meta property="og:url" content="https://github.com/erdemgocen44/JavaScript" /><meta property="og:description" content="Contribute to erdemgocen44/JavaScript development by creating an account on GitHub." />
     
 
 
@@ -73,11 +73,11 @@
     
 
   <link rel="assets" href="https://github.githubassets.com/">
-    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/89189253/ws?session=eyJ2IjoiVjMiLCJ1Ijo4OTE4OTI1MywicyI6ODI4NTEwODYwLCJjIjo0MTQ4NDYwNDY2LCJ0IjoxNjQ2NDM0MDgyfQ==--9187184c1cab13c9cd237fd40078631e6a240601559e557471a3f680526a571a" data-refresh-url="/_alive" data-session-id="149fb31a40c2b8b7113f225f72bde9d753a783c2d65df77459cd24d8b4160f69">
+    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/89189253/ws?session=eyJ2IjoiVjMiLCJ1Ijo4OTE4OTI1MywicyI6ODI4NTEwODYwLCJjIjozMTk2ODk2MzIyLCJ0IjoxNjQ2NDM0MTAxfQ==--566eaaf7e74125a4b5d34f7a5e6b28e078d955ffc12cc899a14df691996684e7" data-refresh-url="/_alive" data-session-id="149fb31a40c2b8b7113f225f72bde9d753a783c2d65df77459cd24d8b4160f69">
     <link rel="shared-web-socket-src" href="/assets-cdn/worker/socket-worker-22a4eda703748fc3479d.js">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
 
-  <meta name="request-id" content="5C2D:B42C:3A00F53:3CFC635:6222971E" data-pjax-transient="true" /><meta name="html-safe-nonce" content="04bb07d5c5988cf8fce2da264ba6214efca4577cd214b036bc9c97bc58fe8389" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9lcmRlbWdvY2VuNDQvSmF2YVNjcmlwdC90cmVlL21hc3Rlci8wNV9EaXppbGVyLzAxX09ybmVrMDFfRGl6aU1ldG9kbGFyaSIsInJlcXVlc3RfaWQiOiI1QzJEOkI0MkM6M0EwMEY1MzozQ0ZDNjM1OjYyMjI5NzFFIiwidmlzaXRvcl9pZCI6IjMzMzU5MTM2MTE2NzcwODI0MDQiLCJyZWdpb25fZWRnZSI6ImZyYSIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-pjax-transient="true" /><meta name="visitor-hmac" content="d4f1d1556025aab69e8f9357fe3092c51b8eb1e48a218c577696b0876f4e8953" data-pjax-transient="true" />
+  <meta name="request-id" content="5C2D:B42C:3A024EC:3CFDCED:6222972F" data-pjax-transient="true" /><meta name="html-safe-nonce" content="04bb07d5c5988cf8fce2da264ba6214efca4577cd214b036bc9c97bc58fe8389" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9lcmRlbWdvY2VuNDQvSmF2YVNjcmlwdC90cmVlL21hc3Rlci8wNV9EaXppbGVyLzAyX09ybmVrMDJfUHJvamVSZW5rIiwicmVxdWVzdF9pZCI6IjVDMkQ6QjQyQzozQTAyNEVDOjNDRkRDRUQ6NjIyMjk3MkYiLCJ2aXNpdG9yX2lkIjoiMzMzNTkxMzYxMTY3NzA4MjQwNCIsInJlZ2lvbl9lZGdlIjoiZnJhIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-pjax-transient="true" /><meta name="visitor-hmac" content="75910af54f0d2d8ca30c67cd05a654af4885112a25deb37ccbc14cc24b2017bd" data-pjax-transient="true" />
 
     <meta name="hovercard-subject-tag" content="repository:409684841" data-pjax-transient>
 
@@ -110,7 +110,7 @@
 
       <meta name="expected-hostname" content="github.com">
 
-      <meta name="js-proxy-site-detection-payload" content="N2JlNWFiM2I3YmRjNTBkNDRkM2VhMjc3NWVhYjlmZDJlMDdhNGUwZDBkMGMzYzA2OWU1ODViNTIxM2IyY2I5M3x7InJlbW90ZV9hZGRyZXNzIjoiNS4xNzMuMTM2LjY2IiwicmVxdWVzdF9pZCI6IjVDMkQ6QjQyQzozQTAwRjUzOjNDRkM2MzU6NjIyMjk3MUUiLCJ0aW1lc3RhbXAiOjE2NDY0MzQwODIsImhvc3QiOiJnaXRodWIuY29tIn0=">
+      <meta name="js-proxy-site-detection-payload" content="OTQyNDkyOGNlNDViM2IwNTFiMzMxMGU2NDhkOTEzZmYxN2I0NGFjOGYxNjI5ZWNlYjI1OGM5NGI4YTAzZWU2OHx7InJlbW90ZV9hZGRyZXNzIjoiNS4xNzMuMTM2LjY2IiwicmVxdWVzdF9pZCI6IjVDMkQ6QjQyQzozQTAyNEVDOjNDRkRDRUQ6NjIyMjk3MkYiLCJ0aW1lc3RhbXAiOjE2NDY0MzQxMDEsImhvc3QiOiJnaXRodWIuY29tIn0=">
       <meta name="keyboard-shortcuts-preference" content="all">
       <script type="application/json" id="memex_keyboard_shortcuts_preference">"all"</script>
 
@@ -130,7 +130,7 @@
 
 
 
-    <link rel="canonical" href="https://github.com/erdemgocen44/JavaScript/blob/master/05_Diziler/01_Ornek01_DiziMetodlari/index.html" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/erdemgocen44/JavaScript/blob/master/05_Diziler/02_Ornek02_ProjeRenk/renk.js" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -174,7 +174,7 @@
   href="https://github.com/"
   data-hotkey="g d"
   aria-label="Homepage "
-  data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/05_Diziler/01_Ornek01_DiziMetodlari/index.html&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="b4ef2fdea447ae6d7ffd1e00af14918dcf9c7df124dd672d8e9fbf7806f3c3a0" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;}"
+  data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/05_Diziler/02_Ornek02_ProjeRenk/renk.js&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="03b90e5a8611f8adaa8fe09a839fbdd7a3b2da122054183a6183a36a46f3f182" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;}"
 >
   <svg height="32" aria-hidden="true" viewBox="0 0 16 16" version="1.1" width="32" data-view-component="true" class="octicon octicon-mark-github v-align-middle">
     <path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path>
@@ -218,7 +218,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" value="9Q3X3_WXfg0VXzVO27GlIg61OyQuoXlPOoWyf2JHZWV5q49iB4kWjYVWiY8tfn6sVXbyiG7-KVApHoyq67os0g" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+        <input type="hidden" value="SMN0tT88H91z5iOQkigPOjLeDjd0s3RskkBXORSQGB7EZSwIzSJ3XePvn1Fk59S0aR3HmzTsJHOB22nsnW1RqQ" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -422,7 +422,7 @@
     <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:workspaces context:user" data-selected-links="/codespaces /codespaces" href="/codespaces">
       Codespaces
 </a>
-      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;Korkmaz29&quot;,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/05_Diziler/01_Ornek01_DiziMetodlari/index.html&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="e075433b2bd1863a69d1e99fa75ed712f19cface8b7bc990971e773b11b41049" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
+      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;Korkmaz29&quot;,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/05_Diziler/02_Ornek02_ProjeRenk/renk.js&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="64feb1b162b6699d204208ce5b5e2cd3a0e131f04a6c03f1570c84f6edc95365" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
 
     <a class="Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade" href="/settings/profile">
       Settings
@@ -431,12 +431,12 @@
       <img class="avatar avatar-user" loading="lazy" decoding="async" src="https://avatars.githubusercontent.com/u/89189253?s=40&amp;v=4" width="20" height="20" alt="@Korkmaz29" />
       Korkmaz29
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="ee40f03ZULp6C1IBDY6B8Jt_tqvouX0-k24IhsgTr5UrH56AEo83AIbck6TSaFwiZcEV4O1PYa-4-ucPVbSSlw" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="NcDIeAoLNx65CBEzKAQ4c8VukHwyuY5BWSDgeexX8qJnMWKHVV1QpEXf0Jb34uWhO9AzNzdPktBytA_wcfDPoA" />
       <button
         type="submit"
         class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade d-md-none btn-link d-block width-full text-left"
         style="padding-left: 2px;"
-        data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;sign out&quot;,&quot;label&quot;:&quot;icon:logout&quot;,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/05_Diziler/01_Ornek01_DiziMetodlari/index.html&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="97c0fb65434656c6dcfab5bb8c96c390c989b01082f6f75d0fd895a2332d5b61" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;sign out&quot;,&quot;label&quot;:&quot;icon:logout&quot;}"
+        data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;sign out&quot;,&quot;label&quot;:&quot;icon:logout&quot;,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/05_Diziler/02_Ornek02_ProjeRenk/renk.js&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="645f2809ff8a23a5b86affd35e1455c39e986e7110c0cf362a2e332ef4992663" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;sign out&quot;,&quot;label&quot;:&quot;icon:logout&quot;}"
       >
         <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-sign-out v-align-middle">
     <path fill-rule="evenodd" d="M2 2.75C2 1.784 2.784 1 3.75 1h2.5a.75.75 0 010 1.5h-2.5a.25.25 0 00-.25.25v10.5c0 .138.112.25.25.25h2.5a.75.75 0 010 1.5h-2.5A1.75 1.75 0 012 13.25V2.75zm10.44 4.5H6.75a.75.75 0 000 1.5h5.69l-1.97 1.97a.75.75 0 101.06 1.06l3.25-3.25a.75.75 0 000-1.06l-3.25-3.25a.75.75 0 10-1.06 1.06l1.97 1.97z"></path>
@@ -453,7 +453,7 @@
   href="https://github.com/"
   data-hotkey="g d"
   aria-label="Homepage "
-  data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/05_Diziler/01_Ornek01_DiziMetodlari/index.html&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="b4ef2fdea447ae6d7ffd1e00af14918dcf9c7df124dd672d8e9fbf7806f3c3a0" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;}"
+  data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/05_Diziler/02_Ornek02_ProjeRenk/renk.js&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="03b90e5a8611f8adaa8fe09a839fbdd7a3b2da122054183a6183a36a46f3f182" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;}"
 >
   <svg height="32" aria-hidden="true" viewBox="0 0 16 16" version="1.1" width="32" data-view-component="true" class="octicon octicon-mark-github v-align-middle">
     <path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path>
@@ -469,7 +469,7 @@
       <notification-indicator
         class="js-socket-channel"
         data-test-selector="notifications-indicator"
-        data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6ODkxODkyNTMiLCJ0IjoxNjQ2NDM0MDgyfQ==--952896aa1d1f2141c8efa980da1b76c4e266a1956c1ae80ea84fa8007b422ab7">
+        data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6ODkxODkyNTMiLCJ0IjoxNjQ2NDM0MTAxfQ==--fd22e1ddb31baec0d6cbf07d9e66b41fa6d4734c932f7a91d4dd635ebfb971dc">
         <a href="/notifications"
           class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
           
@@ -492,7 +492,7 @@
   <summary
     class="Header-link"
     aria-label="Create new…"
-    data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;create new&quot;,&quot;label&quot;:&quot;icon:add&quot;,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/05_Diziler/01_Ornek01_DiziMetodlari/index.html&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="5888b1abe15347e1885229e4c3d6d6034737520dbb067384ae44ac85ca06520c" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;create new&quot;,&quot;label&quot;:&quot;icon:add&quot;}"
+    data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;create new&quot;,&quot;label&quot;:&quot;icon:add&quot;,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/05_Diziler/02_Ornek02_ProjeRenk/renk.js&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="edaed07575538c286bf647ea692a55c9345399bed2731b12e62a923c3c17d116" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;create new&quot;,&quot;label&quot;:&quot;icon:add&quot;}"
   >
       <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-plus">
     <path fill-rule="evenodd" d="M7.75 2a.75.75 0 01.75.75V7h4.25a.75.75 0 110 1.5H8.5v4.25a.75.75 0 11-1.5 0V8.5H2.75a.75.75 0 010-1.5H7V2.75A.75.75 0 017.75 2z"></path>
@@ -530,7 +530,7 @@
   <summary
     class="Header-link"
     aria-label="View profile and more"
-    data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;show menu&quot;,&quot;label&quot;:&quot;icon:avatar&quot;,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/05_Diziler/01_Ornek01_DiziMetodlari/index.html&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="bc6f42fa94ec2bc5d65968f99b8c673965d335b10348a3c0eedffe672da78323" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;show menu&quot;,&quot;label&quot;:&quot;icon:avatar&quot;}"
+    data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;show menu&quot;,&quot;label&quot;:&quot;icon:avatar&quot;,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/05_Diziler/02_Ornek02_ProjeRenk/renk.js&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="c8467d7555e45f126f5aa374a558083cb7ef248639f50c884b6681ec30aed2bb" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;show menu&quot;,&quot;label&quot;:&quot;icon:avatar&quot;}"
   >
     <img src="https://avatars.githubusercontent.com/u/89189253?s=40&amp;v=4" alt="@Korkmaz29" size="20" height="20" width="20" data-view-component="true" class="avatar avatar-small circle" />
       <span class="feature-preview-indicator js-feature-preview-indicator" style="top: 1px;" hidden></span>
@@ -605,14 +605,14 @@
   <details-dialog class="command-palette-details-dialog d-flex flex-column flex-justify-center height-fit" aria-label="command palette">
     <command-palette
       class="command-palette color-bg-default rounded-3"
-      data-return-to=/erdemgocen44/JavaScript/blob/master/05_Diziler/01_Ornek01_DiziMetodlari/index.html
+      data-return-to=/erdemgocen44/JavaScript/blob/master/05_Diziler/02_Ornek02_ProjeRenk/renk.js
       data-user-id="89189253"
       data-activation-hotkey="Mod+k,Mod+Alt+k"
       data-command-mode-hotkey="Mod+Shift+k"
       >
 
       <input type="hidden" name="color-mode-path" id="color-mode-path" value="/settings/appearance/color_mode" class="js-color-mode-path" autocomplete="off" />
-      <input type="hidden" value="lYkwrSNjDhsxP0VLBdhEtexG-P-eM1F7UMRcJio3Mz1UUO5U4zZRnCItL8FasADIEsBP_3DgKgeKtZFOXMF9hw" data-csrf="true" class="js-color-mode-csrf" />
+      <input type="hidden" value="EO9R3GVT2gptuI4SwoL54j4n1fQS9AJfV_MFjrbR0hrRNo8lpQaFjX6q5Jid6r2fwKFi9PwneSONgsjmwCecoA" data-csrf="true" class="js-color-mode-csrf" />
 
         <command-palette-mode
           data-char="#"
@@ -1474,7 +1474,7 @@
         data-action="toggle:notifications-list-subscription-form#detailsToggled"
       >
 
-      <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:409684841,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/05_Diziler/01_Ornek01_DiziMetodlari/index.html&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="4d059393e24d420655b64df8628246ffea6f8c8a3aad2b754a1434d190f51dcc" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">  <span data-menu-button>
+      <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:409684841,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/05_Diziler/02_Ornek02_ProjeRenk/renk.js&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="76aa06653679f2575464f6b7da8ddbb7cbd728fe17ab71b2c82c9f12d2e5fc97" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">  <span data-menu-button>
             <span
               hidden
               
@@ -1526,7 +1526,7 @@
             </header>
 
             <div class="SelectMenu-list">
-              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="i8FFutG0xe0M_SI553g5Ov6ReSVsnaoLslIe0q1Skm__Zdlog8PGrcaPYOidDZGDfcR9b8Wd26jjKaZ4pknGBQ" autocomplete="off" />
+              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="yUFbWL8QZgRLyHw3RXZ2ynJ_ZH0K0fD0M_YzI4y9-nu95ceK7WdlRIG6PuY_A95z8SpgN6PRgVdijYuJh6auEQ" autocomplete="off" />
 
                 <input type="hidden" name="repository_id" value="409684841">
 
@@ -1654,7 +1654,7 @@
           hidden
         >
           <div class="SelectMenu-modal notifications-component-dialog-modal overflow-visible">
-            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="qjmZBktjp8kJJtwrhx_Qyk2AjP1Yjl0jxB1ZUN98DezenQXUGRSkicNUnvr9anhzztWIt_GOLICVZuH61GdZhg" autocomplete="off" />
+            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="DGnTO1FzAkByqfACBGc-05BPBgkrSNC-9Y9yklqXYpV4zU_pAwQBALjbstN-EpZqExoCQ4JIoR2k9Mo4UYw2_w" autocomplete="off" />
 
               <input type="hidden" name="repository_id" value="409684841">
 
@@ -1799,8 +1799,8 @@
   </li>
 
   <li>
-            <form class="btn-with-count" action="/erdemgocen44/JavaScript/fork" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="PRMDXq4Y3wzCB9C8O1O2OtXN7rtLeVZbgjcHVs8a8Xnfrb0yrhLO6z__Hheu7vlsjjs43m-F3wDJPIzULmY8uQ" autocomplete="off" />
-        <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:409684841,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/05_Diziler/01_Ornek01_DiziMetodlari/index.html&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="15c9ebb80277ce6f23ae2fcd80e97dbd1495ad2f950d992e45afd16e1633edcc" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" aria-label="Fork your own copy of erdemgocen44/JavaScript to your account" type="submit" data-view-component="true" class="btn-sm btn">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
+            <form class="btn-with-count" action="/erdemgocen44/JavaScript/fork" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="fz0qo23YpRFrkog6H-GJvwkG8t1AgzZ_LMkGrQ9PXgSdg5TPbdK09pZqRpGKXMbpUvAkuGR_vyRnwo0v7jOTxA" autocomplete="off" />
+        <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:409684841,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/05_Diziler/02_Ornek02_ProjeRenk/renk.js&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="fc118e0b37b0bd1b13ea9c506a5e00cf05ddf7ffb124dd0b2318a165fb46828a" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" aria-label="Fork your own copy of erdemgocen44/JavaScript to your account" type="submit" data-view-component="true" class="btn-sm btn">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
     <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path>
 </svg>Fork
           <span id="repo-network-counter" data-pjax-replace="true" title="0" data-view-component="true" class="Counter">0</span>
@@ -1827,24 +1827,24 @@
 </template>
 
   <div data-view-component="true" class="js-toggler-container js-social-container starring-container BtnGroup d-flex">
-    <form class="starred js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" action="/erdemgocen44/JavaScript/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="hzJGVKEYE3iiUzN5Yax3S_ufZSFCp1VGdDrxaSw4BOmoh8X3zN1Xo2VvuU0EC5u-VOwtHlsUBvqZUFCJQi8-jw" autocomplete="off" />
-        <input type="hidden" value="qS_ETCkna2DcBkEJJpAMvMAyLucJCWmoeNqYQZ19KviGmkfvROIvuxs6yz1DN-BJb0Fm2BC6OhSVsDmh82oQng" data-csrf="true" class="js-confirm-csrf-token" />
+    <form class="starred js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" action="/erdemgocen44/JavaScript/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="DbI4L8_BQ9GmxaTq_jQ8rfx_EdeS3kq64BENP0ES11AiB7uMogQHCmH5Lt6bk9BYUwxZ6IttGQYNe6zfLwXtNg" autocomplete="off" />
+        <input type="hidden" value="AhXilxchBDp-5LhqJ247DmRDF98guvaGjLJoB5EVdFwtoGE0euRA4bnYMl5Cydf7yzBf4DkJpTph2Mnn_wJOOg" data-csrf="true" class="js-confirm-csrf-token" />
       <input type="hidden" name="context" value="repository">
-      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:409684841,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/05_Diziler/01_Ornek01_DiziMetodlari/index.html&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="5571773ad4235490dab34d79afae37ce0a9d9dd593c8d618d48defb1b349836d" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository" type="submit" data-view-component="true" class="rounded-left-2 border-right-0 btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
+      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:409684841,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/05_Diziler/02_Ornek02_ProjeRenk/renk.js&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="ffec79dd07adff47f626ed3ca716c15accf09ddf7311c506d380dcd994a50c62" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository" type="submit" data-view-component="true" class="rounded-left-2 border-right-0 btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path>
 </svg><span data-view-component="true" class="d-inline">
           Starred
 </span>          <span id="repo-stars-counter-unstar" aria-label="0 users starred this repository" data-singular-suffix="user starred this repository" data-plural-suffix="users starred this repository" data-pjax-replace="true" title="0" data-view-component="true" class="Counter js-social-count">0</span>
 </button></form>
-    <form class="unstarred js-social-form BtnGroup-parent flex-auto" action="/erdemgocen44/JavaScript/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="H566bZ5RMEX7PHjZ8Ai5QufT5Zm3o4ZJ4e_WifXBvo0ktQv_-kFTUHNeRpIgqxfl_nMjNx2ICCkV3tEGYYmggQ" autocomplete="off" />
+    <form class="unstarred js-social-form BtnGroup-parent flex-auto" action="/erdemgocen44/JavaScript/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="PewY1NiksrlNY3msTst8D7cgv6wdJ3O_xe66IqEdjmQGx6lGvLTRrMUBR-eeaNKoroB5ArcM_d8x372tNVWQaA" autocomplete="off" />
       <input type="hidden" name="context" value="repository">
-      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:409684841,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/05_Diziler/01_Ornek01_DiziMetodlari/index.html&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="7a28b4481df9ad31dafe33113403f44ad10c1c45ae30e68fbc0e85e04530337a" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
+      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:409684841,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/05_Diziler/02_Ornek02_ProjeRenk/renk.js&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="25af095e7cc3c630032b35e33d067bd38624e52550bb78216c6933802b006a66" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path>
 </svg><span data-view-component="true" class="d-inline">
           Star
 </span>          <span id="repo-stars-counter-star" aria-label="0 users starred this repository" data-singular-suffix="user starred this repository" data-plural-suffix="users starred this repository" data-pjax-replace="true" title="0" data-view-component="true" class="Counter js-social-count">0</span>
 </button></form>
-      <details id="details-81331b" data-view-component="true" class="details-reset details-overlay BtnGroup-parent js-user-list-menu d-inline-block position-relative">
+      <details id="details-a1bedd" data-view-component="true" class="details-reset details-overlay BtnGroup-parent js-user-list-menu d-inline-block position-relative">
       <summary aria-label="Add this repository to a list" data-view-component="true" class="btn-sm btn BtnGroup-item px-2 float-none">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-triangle-down">
     <path d="M4.427 7.427l3.396 3.396a.25.25 0 00.354 0l3.396-3.396A.25.25 0 0011.396 7H4.604a.25.25 0 00-.177.427z"></path>
 </svg>
@@ -1857,13 +1857,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-81331b">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-a1bedd">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-81331b"
+        id="filter-menu-a1bedd"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2066,7 +2066,7 @@
 
 
     
-<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/erdemgocen44/JavaScript/blob/09efd10765b547e31943667097977203d57ff0a9/05_Diziler/01_Ornek01_DiziMetodlari/index.html">Permalink</a>
+<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/erdemgocen44/JavaScript/blob/09efd10765b547e31943667097977203d57ff0a9/05_Diziler/02_Ornek02_ProjeRenk/renk.js">Permalink</a>
 
 <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
   
@@ -2151,7 +2151,7 @@
             </div>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/erdemgocen44/JavaScript/blob/{{ urlEncodedRefName }}/05_Diziler/01_Ornek01_DiziMetodlari/index.html" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/erdemgocen44/JavaScript/blob/{{ urlEncodedRefName }}/05_Diziler/02_Ornek02_ProjeRenk/renk.js" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2191,7 +2191,7 @@
             </template>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/erdemgocen44/JavaScript/blob/{{ urlEncodedRefName }}/05_Diziler/01_Ornek01_DiziMetodlari/index.html" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/erdemgocen44/JavaScript/blob/{{ urlEncodedRefName }}/05_Diziler/02_Ornek02_ProjeRenk/renk.js" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2222,7 +2222,54 @@
 </div>
 
   <h2 id="blob-path" class="breadcrumb flex-auto flex-self-center min-width-0 text-normal mx-2 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/erdemgocen44/JavaScript"><span>JavaScript</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/erdemgocen44/JavaScript/tree/master/05_Diziler"><span>05_Diziler</span></a></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/erdemgocen44/JavaScript/tree/master/05_Diziler/01_Ornek01_DiziMetodlari"><span>01_Ornek01_DiziMetodlari</span></a></span><span class="separator">/</span><strong class="final-path">index.html</strong>
+    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/erdemgocen44/JavaScript"><span>JavaScript</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/erdemgocen44/JavaScript/tree/master/05_Diziler"><span>05_Diziler</span></a></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/erdemgocen44/JavaScript/tree/master/05_Diziler/02_Ornek02_ProjeRenk"><span>02_Ornek02_ProjeRenk</span></a></span><span class="separator">/</span><strong class="final-path">renk.js</strong>
+      <span class="separator">/</span><details class="details-reset details-overlay d-inline" id="jumpto-symbol-select-menu">
+  <summary aria-haspopup="true" data-hotkey="r" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.click_on_blob_definitions&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;click_on_blob_definitions&quot;,&quot;repository_id&quot;:409684841,&quot;ref&quot;:&quot;master&quot;,&quot;language&quot;:&quot;JavaScript&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/05_Diziler/02_Ornek02_ProjeRenk/renk.js&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="c4e4367bde188b0e4ea766bedd230b7bdd507d306b5c160f39d122f302de7c0c" data-view-component="true" class="Link--secondary css-truncate btn-link">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
+    <path fill-rule="evenodd" d="M4.72 3.22a.75.75 0 011.06 1.06L2.06 8l3.72 3.72a.75.75 0 11-1.06 1.06L.47 8.53a.75.75 0 010-1.06l4.25-4.25zm6.56 0a.75.75 0 10-1.06 1.06L13.94 8l-3.72 3.72a.75.75 0 101.06 1.06l4.25-4.25a.75.75 0 000-1.06l-4.25-4.25z"></path>
+</svg>
+    <span data-menu-button>Jump to</span>
+    <span class="dropdown-caret"></span>
+</summary>  <details-menu class="SelectMenu SelectMenu--hasFilter" role="menu">
+    <div class="SelectMenu-modal">
+      <header class="SelectMenu-header">
+        <span class="SelectMenu-title">Code definitions</span>
+        <button class="SelectMenu-closeButton" type="button" data-toggle-for="jumpto-symbol-select-menu">
+          <svg aria-label="Close menu" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
+    <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
+</svg>
+        </button>
+      </header>
+        <div class="SelectMenu-filter">
+          <input
+            class="SelectMenu-input form-control js-filterable-field"
+            id="jumpto-symbols-filter-field"
+            type="text"
+            autocomplete="off"
+            spellcheck="false"
+            autofocus
+            placeholder="Filter definitions"
+            aria-label="Filter definitions">
+        </div>
+      <div class="SelectMenu-list">
+        <div data-filterable-for="jumpto-symbols-filter-field" data-filterable-type="substring">
+            <a class="SelectMenu-item d-flex flex-justify-between css-truncate" role="menuitemradio" aria-checked="false" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.navigate_to_blob_definition&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;navigate_to_blob_definition&quot;,&quot;repository_id&quot;:409684841,&quot;ref&quot;:&quot;master&quot;,&quot;language&quot;:&quot;JavaScript&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/05_Diziler/02_Ornek02_ProjeRenk/renk.js&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="1a22ad5db18ac325ba8f6950b2983fedfab7dc51e7408eb59d32524c755db108" href="/erdemgocen44/JavaScript/blob/master/05_Diziler/02_Ornek02_ProjeRenk/renk.js#L151">
+              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
+    <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
+</svg>
+              <span class="flex-auto css-truncate-target" data-menu-button-text>onclick</span>
+              <span class="flex-auto d-flex flex-justify-end">Function</span>
+</a>        </div>
+      </div>
+      <footer class="SelectMenu-footer">
+        <div class="d-flex flex-justify-between">
+          Code navigation index up-to-date
+          <svg class="octicon octicon-dot-fill text-green" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+        </div>
+      </footer>
+    </div>
+  </details-menu>
+</details>
+
   </h2>
   <a href="/erdemgocen44/JavaScript/find/master" data-pjax="" data-hotkey="t" data-view-component="true" class="js-pjax-capture-input btn mr-2 d-none d-md-block">  Go to file
 </a>
@@ -2233,7 +2280,7 @@
 </summary>
   <div data-view-component="true">      <ul class="dropdown-menu dropdown-menu-sw">
         <li class="d-block d-md-none">
-          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:409684841,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/05_Diziler/01_Ornek01_DiziMetodlari/index.html&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="b1f2c442094f2997fe3ddd1ba2f9283580cea7bb57b26d229eff6da416d61c4f" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/erdemgocen44/JavaScript/find/master">
+          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:409684841,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/05_Diziler/02_Ornek02_ProjeRenk/renk.js&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="a793c76aed0949e043504a1932cb6f1fc86f029f25193c644be9dfbaacf6de28" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/erdemgocen44/JavaScript/find/master">
             <span class="flex-auto">Go to file</span>
             <span class="text-small color-fg-muted" aria-hidden="true">T</span>
 </a>        </li>
@@ -2243,15 +2290,21 @@
               <span class="text-small color-fg-muted" aria-hidden="true">L</span>
             </span>
 </button>        </li>
+        <li data-toggle-for="blob-more-options-details">
+          <button data-toggle-for="jumpto-symbol-select-menu" type="button" data-view-component="true" class="dropdown-item btn-link">  <span class="d-flex flex-items-baseline">
+              <span class="flex-auto">Go to definition</span>
+              <span class="text-small color-fg-muted" aria-hidden="true">R</span>
+            </span>
+</button>        </li>
         <li class="dropdown-divider" role="none"></li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="05_Diziler/01_Ornek01_DiziMetodlari/index.html" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="05_Diziler/02_Ornek02_ProjeRenk/renk.js" data-view-component="true" class="dropdown-item cursor-pointer">
     
             Copy path
 
 </clipboard-copy>        </li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/erdemgocen44/JavaScript/blob/09efd10765b547e31943667097977203d57ff0a9/05_Diziler/01_Ornek01_DiziMetodlari/index.html" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/erdemgocen44/JavaScript/blob/09efd10765b547e31943667097977203d57ff0a9/05_Diziler/02_Ornek02_ProjeRenk/renk.js" data-view-component="true" class="dropdown-item cursor-pointer">
     
             <span class="d-flex flex-items-baseline">
               <span class="flex-auto">Copy permalink</span>
@@ -2283,7 +2336,7 @@
     <include-fragment src="/erdemgocen44/JavaScript/spoofed_commit_check/09efd10765b547e31943667097977203d57ff0a9" data-test-selector="spoofed-commit-check"></include-fragment>
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-  <include-fragment src="/erdemgocen44/JavaScript/contributors/master/05_Diziler/01_Ornek01_DiziMetodlari/index.html" class="commit-loader">
+  <include-fragment src="/erdemgocen44/JavaScript/contributors/master/05_Diziler/02_Ornek02_ProjeRenk/renk.js" class="commit-loader">
     <div class="Box-header d-flex flex-items-center">
       <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
       <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
@@ -2316,17 +2369,17 @@
 
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1">
 
-      12 lines (12 sloc)
+      160 lines (156 sloc)
       <span class="file-info-divider"></span>
-    331 Bytes
+    2.55 KB
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between hide-sm hide-md">
       
 
     <div class="BtnGroup">
-      <a data-permalink-href="/erdemgocen44/JavaScript/raw/09efd10765b547e31943667097977203d57ff0a9/05_Diziler/01_Ornek01_DiziMetodlari/index.html" href="/erdemgocen44/JavaScript/raw/master/05_Diziler/01_Ornek01_DiziMetodlari/index.html" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">  Raw
-</a>        <a data-permalink-href="/erdemgocen44/JavaScript/blame/09efd10765b547e31943667097977203d57ff0a9/05_Diziler/01_Ornek01_DiziMetodlari/index.html" href="/erdemgocen44/JavaScript/blame/master/05_Diziler/01_Ornek01_DiziMetodlari/index.html" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">  Blame
+      <a data-permalink-href="/erdemgocen44/JavaScript/raw/09efd10765b547e31943667097977203d57ff0a9/05_Diziler/02_Ornek02_ProjeRenk/renk.js" href="/erdemgocen44/JavaScript/raw/master/05_Diziler/02_Ornek02_ProjeRenk/renk.js" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">  Raw
+</a>        <a data-permalink-href="/erdemgocen44/JavaScript/blame/09efd10765b547e31943667097977203d57ff0a9/05_Diziler/02_Ornek02_ProjeRenk/renk.js" href="/erdemgocen44/JavaScript/blame/master/05_Diziler/02_Ornek02_ProjeRenk/renk.js" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">  Blame
 </a>    </div>
 
     <div>
@@ -2340,11 +2393,11 @@
 </svg>
           </a>
 
-        <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/erdemgocen44/JavaScript/raw/master/05_Diziler/01_Ornek01_DiziMetodlari/index.html" data-action="click:remote-clipboard-copy#remoteCopy">
+        <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/erdemgocen44/JavaScript/raw/master/05_Diziler/02_Ornek02_ProjeRenk/renk.js" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
 
-  <span data-target="remote-clipboard-copy.idle">            <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:409684841,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/05_Diziler/01_Ornek01_DiziMetodlari/index.html&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="73f98b777ba21dbb9addb2e1f75737b88ddc84ac4ded83c7d6b6cfa64cbe2fb8" aria-label="Copy raw contents">
+  <span data-target="remote-clipboard-copy.idle">            <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:409684841,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/05_Diziler/02_Ornek02_ProjeRenk/renk.js&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="4ea7061b4733c14b4bdc700cfcc15a0ae6c307c42bbd6ded7cc47d8ce88b608b" aria-label="Copy raw contents">
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy">
     <path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path>
 </svg>
@@ -2367,7 +2420,7 @@
             </span>
 </span>
 </remote-clipboard-copy>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/erdemgocen44/JavaScript/edit/master/05_Diziler/01_Ornek01_DiziMetodlari/index.html" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="yW5tQPkgtH5I5jyfTZd4ApGuxQZYaauz0EIx4q2oQzm4J18G89k9VBpJyS8YuDNgXf9udGKWHw3dUu6tV7pKkQ" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/erdemgocen44/JavaScript/edit/master/05_Diziler/02_Ornek02_ProjeRenk/renk.js" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="BOPrAkq3IT3LPcxi9TYuNshTnHTLOgubBbPGQpWPzwNHuj5-ZPoka7DuURGViFe2o9EBfhvwmaJ8p30xjpmohQ" />
             <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and edit the file" data-hotkey="e" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
@@ -2375,7 +2428,7 @@
 </svg>
             </button>
 </form>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/erdemgocen44/JavaScript/delete/master/05_Diziler/01_Ornek01_DiziMetodlari/index.html" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="7Us5q9joPqLpQhLkiQx-UvBTxRG2rkungY71GEb_l_QqCv0WHvypDt3aKPYXbL7RPxHHrUvbsWVIY-XdcSOX0Q" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/erdemgocen44/JavaScript/delete/master/05_Diziler/02_Ornek02_ProjeRenk/renk.js" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="_jQw_1JzYFeRXj93zzcsM5PIGPFa4SKH350j_TBiyMo7lOwWkzz-181Y6kmAlZbdmH1l5qbOWM5yK9YBsWm4XA" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and delete the file" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-trash">
@@ -2403,15 +2456,15 @@
                 </a>
             </li>
           <li>
-            <a class="dropdown-item" href="/erdemgocen44/JavaScript/raw/master/05_Diziler/01_Ornek01_DiziMetodlari/index.html">
+            <a class="dropdown-item" href="/erdemgocen44/JavaScript/raw/master/05_Diziler/02_Ornek02_ProjeRenk/renk.js">
               View raw
             </a>
           </li>
             <li>
-              <remote-clipboard-copy class="dropdown-item" data-src="/erdemgocen44/JavaScript/raw/master/05_Diziler/01_Ornek01_DiziMetodlari/index.html" data-action="click:remote-clipboard-copy#remoteCopy">
+              <remote-clipboard-copy class="dropdown-item" data-src="/erdemgocen44/JavaScript/raw/master/05_Diziler/02_Ornek02_ProjeRenk/renk.js" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
-  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:409684841,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/05_Diziler/01_Ornek01_DiziMetodlari/index.html&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="73f98b777ba21dbb9addb2e1f75737b88ddc84ac4ded83c7d6b6cfa64cbe2fb8">
+  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:409684841,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/05_Diziler/02_Ornek02_ProjeRenk/renk.js&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="4ea7061b4733c14b4bdc700cfcc15a0ae6c307c42bbd6ded7cc47d8ce88b608b">
                     Copy raw contents
 </span></span>
   <span data-target="remote-clipboard-copy.fetching" hidden="hidden">                  Copy raw contents
@@ -2434,17 +2487,17 @@
 </span>
 </remote-clipboard-copy>            </li>
             <li>
-              <a class="dropdown-item" href="/erdemgocen44/JavaScript/blame/master/05_Diziler/01_Ornek01_DiziMetodlari/index.html">
+              <a class="dropdown-item" href="/erdemgocen44/JavaScript/blame/master/05_Diziler/02_Ornek02_ProjeRenk/renk.js">
                 View blame
               </a>
             </li>
 
               <li class="dropdown-divider" role="none"></li>
               <li>
-                <a class="dropdown-item" href="/erdemgocen44/JavaScript/edit/master/05_Diziler/01_Ornek01_DiziMetodlari/index.html">Edit file</a>
+                <a class="dropdown-item" href="/erdemgocen44/JavaScript/edit/master/05_Diziler/02_Ornek02_ProjeRenk/renk.js">Edit file</a>
               </li>
               <li>
-                <a class="dropdown-item menu-item-danger" href="/erdemgocen44/JavaScript/delete/master/05_Diziler/01_Ornek01_DiziMetodlari/index.html">Delete file</a>
+                <a class="dropdown-item menu-item-danger" href="/erdemgocen44/JavaScript/delete/master/05_Diziler/02_Ornek02_ProjeRenk/renk.js">Delete file</a>
               </li>
         </ul>
       </details>
@@ -2453,7 +2506,7 @@
 
 
       
-  <div itemprop="text" class="Box-body p-0 blob-wrapper data type-html  gist-border-0">
+  <div itemprop="text" class="Box-body p-0 blob-wrapper data type-javascript  gist-border-0">
 
       
 <div class="js-check-bidi js-blob-code-container blob-code-content">
@@ -2481,54 +2534,650 @@
 </svg>
 </span></template>
 
-  <table class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="HTML" data-tagsearch-path="05_Diziler/01_Ornek01_DiziMetodlari/index.html">
+  <table class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="JavaScript" data-tagsearch-path="05_Diziler/02_Ornek02_ProjeRenk/renk.js">
         <tr>
           <td id="L1" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="1"></td>
-          <td id="LC1" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>html</span> <span class=pl-c1>lang</span>=&quot;<span class=pl-s>en</span>&quot;<span class=pl-kos>&gt;</span></td>
+          <td id="LC1" class="blob-code blob-code-inner js-file-line"><span class=pl-k>const</span> <span class=pl-s1>renkler</span> <span class=pl-c1>=</span> <span class=pl-kos>[</span></td>
         </tr>
         <tr>
           <td id="L2" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="2"></td>
-          <td id="LC2" class="blob-code blob-code-inner js-file-line">  <span class=pl-kos>&lt;</span><span class=pl-ent>head</span><span class=pl-kos>&gt;</span></td>
+          <td id="LC2" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;AliceBlue&quot;</span><span class=pl-kos>,</span></td>
         </tr>
         <tr>
           <td id="L3" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="3"></td>
-          <td id="LC3" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>meta</span> <span class=pl-c1>charset</span>=&quot;<span class=pl-s>UTF-8</span>&quot; /&gt;</td>
+          <td id="LC3" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;AntiqueWhite&quot;</span><span class=pl-kos>,</span></td>
         </tr>
         <tr>
           <td id="L4" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="4"></td>
-          <td id="LC4" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>meta</span> <span class=pl-c1>http-equiv</span>=&quot;<span class=pl-s>X-UA-Compatible</span>&quot; <span class=pl-c1>content</span>=&quot;<span class=pl-s>IE=edge</span>&quot; /&gt;</td>
+          <td id="LC4" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;Aqua&quot;</span><span class=pl-kos>,</span></td>
         </tr>
         <tr>
           <td id="L5" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="5"></td>
-          <td id="LC5" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>meta</span> <span class=pl-c1>name</span>=&quot;<span class=pl-s>viewport</span>&quot; <span class=pl-c1>content</span>=&quot;<span class=pl-s>width=device-width, initial-scale=1.0</span>&quot; /&gt;</td>
+          <td id="LC5" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;Aquamarine&quot;</span><span class=pl-kos>,</span></td>
         </tr>
         <tr>
           <td id="L6" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="6"></td>
-          <td id="LC6" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>title</span><span class=pl-kos>&gt;</span>Diziler<span class=pl-kos>&lt;/</span><span class=pl-ent>title</span><span class=pl-kos>&gt;</span></td>
+          <td id="LC6" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;Azure&quot;</span><span class=pl-kos>,</span></td>
         </tr>
         <tr>
           <td id="L7" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="7"></td>
-          <td id="LC7" class="blob-code blob-code-inner js-file-line">  <span class=pl-kos>&lt;/</span><span class=pl-ent>head</span><span class=pl-kos>&gt;</span></td>
+          <td id="LC7" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;Beige&quot;</span><span class=pl-kos>,</span></td>
         </tr>
         <tr>
           <td id="L8" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="8"></td>
-          <td id="LC8" class="blob-code blob-code-inner js-file-line">  <span class=pl-kos>&lt;</span><span class=pl-ent>body</span><span class=pl-kos>&gt;</span></td>
+          <td id="LC8" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;Bisque&quot;</span><span class=pl-kos>,</span></td>
         </tr>
         <tr>
           <td id="L9" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="9"></td>
-          <td id="LC9" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>h1</span> <span class=pl-c1>class</span>=&quot;<span class=pl-s>baslik</span>&quot;<span class=pl-kos>&gt;</span>Diziler<span class=pl-kos>&lt;/</span><span class=pl-ent>h1</span><span class=pl-kos>&gt;</span></td>
+          <td id="LC9" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;Black&quot;</span><span class=pl-kos>,</span></td>
         </tr>
         <tr>
           <td id="L10" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="10"></td>
-          <td id="LC10" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>script</span> <span class=pl-c1>src</span>=&quot;<span class=pl-s>diziler.js</span>&quot;<span class=pl-kos>&gt;</span><span class=pl-kos>&lt;/</span><span class=pl-ent>script</span><span class=pl-kos>&gt;</span></td>
+          <td id="LC10" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;BlanchedAlmond&quot;</span><span class=pl-kos>,</span></td>
         </tr>
         <tr>
           <td id="L11" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="11"></td>
-          <td id="LC11" class="blob-code blob-code-inner js-file-line">  <span class=pl-kos>&lt;/</span><span class=pl-ent>body</span><span class=pl-kos>&gt;</span></td>
+          <td id="LC11" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;Blue&quot;</span><span class=pl-kos>,</span></td>
         </tr>
         <tr>
           <td id="L12" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="12"></td>
-          <td id="LC12" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;/</span><span class=pl-ent>html</span><span class=pl-kos>&gt;</span></td>
+          <td id="LC12" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;BlueViolet&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L13" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="13"></td>
+          <td id="LC13" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;Brown&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L14" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="14"></td>
+          <td id="LC14" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;BurlyWood&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L15" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="15"></td>
+          <td id="LC15" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;CadetBlue&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L16" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="16"></td>
+          <td id="LC16" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;Chartreuse&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L17" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="17"></td>
+          <td id="LC17" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;Chocolate&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L18" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="18"></td>
+          <td id="LC18" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;Coral&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L19" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="19"></td>
+          <td id="LC19" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;CornflowerBlue&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L20" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="20"></td>
+          <td id="LC20" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;Cornsilk&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L21" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="21"></td>
+          <td id="LC21" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;Crimson&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L22" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="22"></td>
+          <td id="LC22" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;Cyan&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L23" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="23"></td>
+          <td id="LC23" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;DarkBlue&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L24" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="24"></td>
+          <td id="LC24" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;DarkCyan&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L25" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="25"></td>
+          <td id="LC25" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;DarkGoldenRod&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L26" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="26"></td>
+          <td id="LC26" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;DarkGray&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L27" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="27"></td>
+          <td id="LC27" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;DarkGrey&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L28" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="28"></td>
+          <td id="LC28" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;DarkGreen&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L29" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="29"></td>
+          <td id="LC29" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;DarkKhaki&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L30" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="30"></td>
+          <td id="LC30" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;DarkMagenta&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L31" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="31"></td>
+          <td id="LC31" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;DarkOliveGreen&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L32" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="32"></td>
+          <td id="LC32" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;DarkOrange&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L33" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="33"></td>
+          <td id="LC33" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;DarkOrchid&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L34" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="34"></td>
+          <td id="LC34" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;DarkRed&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L35" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="35"></td>
+          <td id="LC35" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;DarkSalmon&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L36" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="36"></td>
+          <td id="LC36" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;DarkSeaGreen&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L37" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="37"></td>
+          <td id="LC37" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;DarkSlateBlue&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L38" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="38"></td>
+          <td id="LC38" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;DarkSlateGray&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L39" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="39"></td>
+          <td id="LC39" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;DarkSlateGrey&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L40" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="40"></td>
+          <td id="LC40" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;DarkTurquoise&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L41" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="41"></td>
+          <td id="LC41" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;DarkViolet&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L42" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="42"></td>
+          <td id="LC42" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;DeepPink&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L43" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="43"></td>
+          <td id="LC43" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;DeepSkyBlue&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L44" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="44"></td>
+          <td id="LC44" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;DimGray&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L45" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="45"></td>
+          <td id="LC45" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;DimGrey&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L46" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="46"></td>
+          <td id="LC46" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;DodgerBlue&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L47" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="47"></td>
+          <td id="LC47" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;FireBrick&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L48" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="48"></td>
+          <td id="LC48" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;FloralWhite&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L49" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="49"></td>
+          <td id="LC49" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;ForestGreen&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L50" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="50"></td>
+          <td id="LC50" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;Fuchsia&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L51" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="51"></td>
+          <td id="LC51" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;Gainsboro&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L52" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="52"></td>
+          <td id="LC52" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;GhostWhite&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L53" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="53"></td>
+          <td id="LC53" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;Gold&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L54" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="54"></td>
+          <td id="LC54" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;GoldenRod&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L55" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="55"></td>
+          <td id="LC55" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;Gray&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L56" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="56"></td>
+          <td id="LC56" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;Grey&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L57" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="57"></td>
+          <td id="LC57" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;Green&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L58" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="58"></td>
+          <td id="LC58" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;GreenYellow&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L59" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="59"></td>
+          <td id="LC59" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;HoneyDew&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L60" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="60"></td>
+          <td id="LC60" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;HotPink&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L61" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="61"></td>
+          <td id="LC61" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;IndianRed&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L62" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="62"></td>
+          <td id="LC62" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;Indigo&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L63" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="63"></td>
+          <td id="LC63" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;Ivory&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L64" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="64"></td>
+          <td id="LC64" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;Khaki&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L65" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="65"></td>
+          <td id="LC65" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;Lavender&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L66" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="66"></td>
+          <td id="LC66" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;LavenderBlush&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L67" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="67"></td>
+          <td id="LC67" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;LawnGreen&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L68" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="68"></td>
+          <td id="LC68" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;LemonChiffon&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L69" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="69"></td>
+          <td id="LC69" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;LightBlue&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L70" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="70"></td>
+          <td id="LC70" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;LightCoral&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L71" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="71"></td>
+          <td id="LC71" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;LightCyan&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L72" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="72"></td>
+          <td id="LC72" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;LightGoldenRodYellow&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L73" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="73"></td>
+          <td id="LC73" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;LightGray&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L74" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="74"></td>
+          <td id="LC74" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;LightGrey&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L75" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="75"></td>
+          <td id="LC75" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;LightGreen&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L76" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="76"></td>
+          <td id="LC76" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;LightPink&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L77" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="77"></td>
+          <td id="LC77" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;LightSalmon&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L78" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="78"></td>
+          <td id="LC78" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;LightSeaGreen&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L79" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="79"></td>
+          <td id="LC79" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;LightSkyBlue&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L80" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="80"></td>
+          <td id="LC80" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;LightSlateGray&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L81" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="81"></td>
+          <td id="LC81" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;LightSlateGrey&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L82" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="82"></td>
+          <td id="LC82" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;LightSteelBlue&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L83" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="83"></td>
+          <td id="LC83" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;LightYellow&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L84" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="84"></td>
+          <td id="LC84" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;Lime&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L85" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="85"></td>
+          <td id="LC85" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;LimeGreen&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L86" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="86"></td>
+          <td id="LC86" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;Linen&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L87" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="87"></td>
+          <td id="LC87" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;Magenta&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L88" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="88"></td>
+          <td id="LC88" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;Maroon&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L89" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="89"></td>
+          <td id="LC89" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;MediumAquaMarine&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L90" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="90"></td>
+          <td id="LC90" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;MediumBlue&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L91" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="91"></td>
+          <td id="LC91" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;MediumOrchid&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L92" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="92"></td>
+          <td id="LC92" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;MediumPurple&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L93" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="93"></td>
+          <td id="LC93" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;MediumSeaGreen&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L94" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="94"></td>
+          <td id="LC94" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;MediumSlateBlue&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L95" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="95"></td>
+          <td id="LC95" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;MediumSpringGreen&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L96" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="96"></td>
+          <td id="LC96" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;MediumTurquoise&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L97" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="97"></td>
+          <td id="LC97" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;MediumVioletRed&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L98" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="98"></td>
+          <td id="LC98" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;MidnightBlue&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L99" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="99"></td>
+          <td id="LC99" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;MintCream&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L100" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="100"></td>
+          <td id="LC100" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;MistyRose&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L101" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="101"></td>
+          <td id="LC101" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;Moccasin&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L102" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="102"></td>
+          <td id="LC102" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;NavajoWhite&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L103" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="103"></td>
+          <td id="LC103" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;Navy&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L104" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="104"></td>
+          <td id="LC104" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;OldLace&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L105" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="105"></td>
+          <td id="LC105" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;Olive&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L106" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="106"></td>
+          <td id="LC106" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;OliveDrab&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L107" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="107"></td>
+          <td id="LC107" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;Orange&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L108" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="108"></td>
+          <td id="LC108" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;OrangeRed&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L109" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="109"></td>
+          <td id="LC109" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;Orchid&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L110" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="110"></td>
+          <td id="LC110" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;PaleGoldenRod&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L111" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="111"></td>
+          <td id="LC111" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;PaleGreen&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L112" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="112"></td>
+          <td id="LC112" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;PaleTurquoise&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L113" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="113"></td>
+          <td id="LC113" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;PaleVioletRed&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L114" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="114"></td>
+          <td id="LC114" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;PapayaWhip&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L115" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="115"></td>
+          <td id="LC115" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;PeachPuff&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L116" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="116"></td>
+          <td id="LC116" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;Peru&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L117" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="117"></td>
+          <td id="LC117" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;Pink&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L118" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="118"></td>
+          <td id="LC118" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;Plum&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L119" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="119"></td>
+          <td id="LC119" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;PowderBlue&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L120" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="120"></td>
+          <td id="LC120" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;Purple&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L121" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="121"></td>
+          <td id="LC121" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;RebeccaPurple&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L122" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="122"></td>
+          <td id="LC122" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;Red&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L123" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="123"></td>
+          <td id="LC123" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;RosyBrown&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L124" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="124"></td>
+          <td id="LC124" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;RoyalBlue&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L125" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="125"></td>
+          <td id="LC125" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;SaddleBrown&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L126" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="126"></td>
+          <td id="LC126" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;Salmon&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L127" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="127"></td>
+          <td id="LC127" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;SandyBrown&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L128" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="128"></td>
+          <td id="LC128" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;SeaGreen&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L129" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="129"></td>
+          <td id="LC129" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;SeaShell&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L130" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="130"></td>
+          <td id="LC130" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;Sienna&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L131" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="131"></td>
+          <td id="LC131" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;Silver&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L132" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="132"></td>
+          <td id="LC132" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;SkyBlue&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L133" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="133"></td>
+          <td id="LC133" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;SlateBlue&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L134" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="134"></td>
+          <td id="LC134" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;SlateGray&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L135" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="135"></td>
+          <td id="LC135" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;SlateGrey&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L136" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="136"></td>
+          <td id="LC136" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;Snow&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L137" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="137"></td>
+          <td id="LC137" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;SpringGreen&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L138" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="138"></td>
+          <td id="LC138" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;SteelBlue&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L139" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="139"></td>
+          <td id="LC139" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;Tan&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L140" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="140"></td>
+          <td id="LC140" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;Teal&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L141" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="141"></td>
+          <td id="LC141" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;Thistle&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L142" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="142"></td>
+          <td id="LC142" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;Tomato&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L143" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="143"></td>
+          <td id="LC143" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;Turquoise&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L144" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="144"></td>
+          <td id="LC144" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;Violet&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L145" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="145"></td>
+          <td id="LC145" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;Wheat&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L146" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="146"></td>
+          <td id="LC146" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;WhiteSmoke&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L147" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="147"></td>
+          <td id="LC147" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;Yellow&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L148" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="148"></td>
+          <td id="LC148" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;YellowGreen&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L149" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="149"></td>
+          <td id="LC149" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>]</span><span class=pl-kos>;</span></td>
+        </tr>
+        <tr>
+          <td id="L150" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="150"></td>
+          <td id="LC150" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L151" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="151"></td>
+          <td id="LC151" class="blob-code blob-code-inner js-file-line"><span class=pl-smi>document</span><span class=pl-kos>.</span><span class=pl-en>querySelector</span><span class=pl-kos>(</span><span class=pl-s>&quot;.btn&quot;</span><span class=pl-kos>)</span><span class=pl-kos>.</span><span class=pl-en>onclick</span> <span class=pl-c1>=</span> <span class=pl-k>function</span> <span class=pl-kos>(</span><span class=pl-kos>)</span> <span class=pl-kos>{</span></td>
+        </tr>
+        <tr>
+          <td id="L152" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="152"></td>
+          <td id="LC152" class="blob-code blob-code-inner js-file-line">  <span class=pl-k>const</span> <span class=pl-s1>rastgele</span> <span class=pl-c1>=</span> <span class=pl-v>Math</span><span class=pl-kos>.</span><span class=pl-en>floor</span><span class=pl-kos>(</span><span class=pl-v>Math</span><span class=pl-kos>.</span><span class=pl-en>random</span><span class=pl-kos>(</span><span class=pl-kos>)</span> <span class=pl-c1>*</span> <span class=pl-s1>renkler</span><span class=pl-kos>.</span><span class=pl-c1>length</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+        </tr>
+        <tr>
+          <td id="L153" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="153"></td>
+          <td id="LC153" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L154" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="154"></td>
+          <td id="LC154" class="blob-code blob-code-inner js-file-line">  <span class=pl-smi>document</span><span class=pl-kos>.</span><span class=pl-en>querySelector</span><span class=pl-kos>(</span><span class=pl-s>&quot;.renk&quot;</span><span class=pl-kos>)</span><span class=pl-kos>.</span><span class=pl-c1>textContent</span> <span class=pl-c1>=</span> <span class=pl-s1>renkler</span><span class=pl-kos>[</span><span class=pl-s1>rastgele</span><span class=pl-kos>]</span><span class=pl-kos>;</span></td>
+        </tr>
+        <tr>
+          <td id="L155" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="155"></td>
+          <td id="LC155" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L156" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="156"></td>
+          <td id="LC156" class="blob-code blob-code-inner js-file-line">  <span class=pl-smi>document</span><span class=pl-kos>.</span><span class=pl-en>querySelector</span><span class=pl-kos>(</span><span class=pl-s>&quot;body&quot;</span><span class=pl-kos>)</span><span class=pl-kos>.</span><span class=pl-c1>style</span><span class=pl-kos>.</span><span class=pl-c1>backgroundColor</span> <span class=pl-c1>=</span> <span class=pl-s1>renkler</span><span class=pl-kos>[</span><span class=pl-s1>rastgele</span><span class=pl-kos>]</span><span class=pl-kos>;</span></td>
+        </tr>
+        <tr>
+          <td id="L157" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="157"></td>
+          <td id="LC157" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L158" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="158"></td>
+          <td id="LC158" class="blob-code blob-code-inner js-file-line">  <span class=pl-smi>document</span><span class=pl-kos>.</span><span class=pl-en>querySelector</span><span class=pl-kos>(</span><span class=pl-s>&quot;h1&quot;</span><span class=pl-kos>)</span><span class=pl-kos>.</span><span class=pl-c1>style</span><span class=pl-kos>.</span><span class=pl-c1>backgroundColor</span> <span class=pl-c1>=</span> <span class=pl-s>&quot;white&quot;</span><span class=pl-kos>;</span></td>
+        </tr>
+        <tr>
+          <td id="L159" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="159"></td>
+          <td id="LC159" class="blob-code blob-code-inner js-file-line">  <span class=pl-smi>document</span><span class=pl-kos>.</span><span class=pl-en>querySelector</span><span class=pl-kos>(</span><span class=pl-s>&quot;h1&quot;</span><span class=pl-kos>)</span><span class=pl-kos>.</span><span class=pl-c1>style</span><span class=pl-kos>.</span><span class=pl-c1>color</span> <span class=pl-c1>=</span> <span class=pl-s1>renkler</span><span class=pl-kos>[</span><span class=pl-s1>rastgele</span><span class=pl-kos>]</span><span class=pl-kos>;</span></td>
+        </tr>
+        <tr>
+          <td id="L160" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="160"></td>
+          <td id="LC160" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>}</span><span class=pl-kos>;</span></td>
         </tr>
   </table>
 </div>
@@ -2554,7 +3203,7 @@
             Copy permalink
           </clipboard-copy>
         </li>
-        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/erdemgocen44/JavaScript/blame/09efd10765b547e31943667097977203d57ff0a9/05_Diziler/01_Ornek01_DiziMetodlari/index.html">View git blame</a></li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/erdemgocen44/JavaScript/blame/09efd10765b547e31943667097977203d57ff0a9/05_Diziler/02_Ornek02_ProjeRenk/renk.js">View git blame</a></li>
           <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/erdemgocen44/JavaScript/issues/new">Reference in new issue</a></li>
       </ul>
     </details-menu>
@@ -2576,6 +3225,17 @@
 </button>
 </form>    </details-dialog>
   </details>
+
+    <div class="Popover anim-scale-in js-tagsearch-popover"
+     hidden
+     data-tagsearch-url="/erdemgocen44/JavaScript/find-definition"
+     data-tagsearch-ref="master"
+     data-tagsearch-code-nav-context="BLOB_VIEW">
+  <div class="Popover-message Popover-message--large Popover-message--top-left TagsearchPopover mt-1 mb-4 mx-auto Box color-shadow-large">
+    <div class="TagsearchPopover-content js-tagsearch-popover-content overflow-auto" style="will-change:transform;">
+    </div>
+  </div>
+</div>
 
 
 </div>
@@ -2606,16 +3266,16 @@
       </li>
     </ul>
     <ul class="list-style-none d-flex flex-wrap col-12 col-lg-8 flex-justify-center flex-lg-justify-between mb-2 mb-lg-0">
-        <li class="mr-3 mr-lg-0"><a href="https://docs.github.com/en/github/site-policy/github-terms-of-service" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to terms&quot;,&quot;label&quot;:&quot;text:terms&quot;,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/05_Diziler/01_Ornek01_DiziMetodlari/index.html&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="c8140e0a6870553bd3f36ecd93f76d4113447f4b63eb06201004aedba85ab4ef" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to terms&quot;,&quot;label&quot;:&quot;text:terms&quot;}">Terms</a></li>
-        <li class="mr-3 mr-lg-0"><a href="https://docs.github.com/en/github/site-policy/github-privacy-statement" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to privacy&quot;,&quot;label&quot;:&quot;text:privacy&quot;,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/05_Diziler/01_Ornek01_DiziMetodlari/index.html&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="70b205789565f1dda540fb370cf8937ee9ccb30689dd49516a048b191343d209" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to privacy&quot;,&quot;label&quot;:&quot;text:privacy&quot;}">Privacy</a></li>
-        <li class="mr-3 mr-lg-0"><a data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to security&quot;,&quot;label&quot;:&quot;text:security&quot;,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/05_Diziler/01_Ornek01_DiziMetodlari/index.html&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="7b9a61a240b4f87e19d250ca81309978954c4e7b8b6ade09acdd934a6c52feef" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to security&quot;,&quot;label&quot;:&quot;text:security&quot;}" href="https://github.com/security">Security</a></li>
-        <li class="mr-3 mr-lg-0"><a href="https://www.githubstatus.com/" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to status&quot;,&quot;label&quot;:&quot;text:status&quot;,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/05_Diziler/01_Ornek01_DiziMetodlari/index.html&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="c78f4889704321a86bbae4ca37790c46d52fa758625d585fdf27f33935a4f422" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to status&quot;,&quot;label&quot;:&quot;text:status&quot;}">Status</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://docs.github.com/en/github/site-policy/github-terms-of-service" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to terms&quot;,&quot;label&quot;:&quot;text:terms&quot;,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/05_Diziler/02_Ornek02_ProjeRenk/renk.js&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="cab19e66c73612652e4e4ed288e4b4a6d777daabfec9d66dc74ca1f39841f094" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to terms&quot;,&quot;label&quot;:&quot;text:terms&quot;}">Terms</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://docs.github.com/en/github/site-policy/github-privacy-statement" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to privacy&quot;,&quot;label&quot;:&quot;text:privacy&quot;,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/05_Diziler/02_Ornek02_ProjeRenk/renk.js&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="dceba8427b415ba323981656632ad03b84c54d7c48201eb4f1b22db18485d7c2" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to privacy&quot;,&quot;label&quot;:&quot;text:privacy&quot;}">Privacy</a></li>
+        <li class="mr-3 mr-lg-0"><a data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to security&quot;,&quot;label&quot;:&quot;text:security&quot;,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/05_Diziler/02_Ornek02_ProjeRenk/renk.js&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="97441cb9271c7dbd2deeb3ef7fd919833b34af8f87481d81527225c65181799e" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to security&quot;,&quot;label&quot;:&quot;text:security&quot;}" href="https://github.com/security">Security</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://www.githubstatus.com/" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to status&quot;,&quot;label&quot;:&quot;text:status&quot;,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/05_Diziler/02_Ornek02_ProjeRenk/renk.js&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="ff63b1de98a43ef70e401facfad908519477f33f0a8c5dcdb601e8f242061c88" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to status&quot;,&quot;label&quot;:&quot;text:status&quot;}">Status</a></li>
         <li class="mr-3 mr-lg-0"><a data-ga-click="Footer, go to help, text:Docs" href="https://docs.github.com">Docs</a></li>
-        <li class="mr-3 mr-lg-0"><a href="https://support.github.com?tags=dotcom-footer" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to contact&quot;,&quot;label&quot;:&quot;text:contact&quot;,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/05_Diziler/01_Ornek01_DiziMetodlari/index.html&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="36c45cf52b54aa6b63c9ae9e75b14cb82205c87beaf0f848b7990d5f1671d8fc" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to contact&quot;,&quot;label&quot;:&quot;text:contact&quot;}">Contact GitHub</a></li>
-        <li class="mr-3 mr-lg-0"><a href="https://github.com/pricing" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to Pricing&quot;,&quot;label&quot;:&quot;text:Pricing&quot;,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/05_Diziler/01_Ornek01_DiziMetodlari/index.html&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="e65141c3e77455d3cf8fa29e4b8fdb98c6f74562881d6feda70af963a5c2b8a2" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to Pricing&quot;,&quot;label&quot;:&quot;text:Pricing&quot;}">Pricing</a></li>
-      <li class="mr-3 mr-lg-0"><a href="https://docs.github.com" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to api&quot;,&quot;label&quot;:&quot;text:api&quot;,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/05_Diziler/01_Ornek01_DiziMetodlari/index.html&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="e44f9961ef94c7e11298afba054fb4f5a31341b5d40b2fd46e10be648e922d26" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to api&quot;,&quot;label&quot;:&quot;text:api&quot;}">API</a></li>
-      <li class="mr-3 mr-lg-0"><a href="https://services.github.com" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to training&quot;,&quot;label&quot;:&quot;text:training&quot;,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/05_Diziler/01_Ornek01_DiziMetodlari/index.html&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="27d1642d7b7717c3acbecb7f9ad4dcfa7f4191488039e78d9454d77cc63fe746" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to training&quot;,&quot;label&quot;:&quot;text:training&quot;}">Training</a></li>
-        <li class="mr-3 mr-lg-0"><a href="https://github.blog" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to blog&quot;,&quot;label&quot;:&quot;text:blog&quot;,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/05_Diziler/01_Ornek01_DiziMetodlari/index.html&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="9dc614733c378b5bff16dde9f81f1f9a3c92951db687b01af9285d168c92ba25" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to blog&quot;,&quot;label&quot;:&quot;text:blog&quot;}">Blog</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://support.github.com?tags=dotcom-footer" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to contact&quot;,&quot;label&quot;:&quot;text:contact&quot;,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/05_Diziler/02_Ornek02_ProjeRenk/renk.js&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="404c21a84d45659270904d7e3c6fab8b50ef56032d7d29ad9e5f159894504a56" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to contact&quot;,&quot;label&quot;:&quot;text:contact&quot;}">Contact GitHub</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://github.com/pricing" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to Pricing&quot;,&quot;label&quot;:&quot;text:Pricing&quot;,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/05_Diziler/02_Ornek02_ProjeRenk/renk.js&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="eadc974d3273179faee66ac55c44d5028b97d355128445d403a2c2252f5ad338" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to Pricing&quot;,&quot;label&quot;:&quot;text:Pricing&quot;}">Pricing</a></li>
+      <li class="mr-3 mr-lg-0"><a href="https://docs.github.com" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to api&quot;,&quot;label&quot;:&quot;text:api&quot;,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/05_Diziler/02_Ornek02_ProjeRenk/renk.js&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="2a0e4f82a89e5b5d46ec2c86195267324051b664b1f9c4533a26591bbddbf10c" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to api&quot;,&quot;label&quot;:&quot;text:api&quot;}">API</a></li>
+      <li class="mr-3 mr-lg-0"><a href="https://services.github.com" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to training&quot;,&quot;label&quot;:&quot;text:training&quot;,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/05_Diziler/02_Ornek02_ProjeRenk/renk.js&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="0cf50553b4e5d794576c78296508fae1a1a33a064272160a7bf6f989364a53ae" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to training&quot;,&quot;label&quot;:&quot;text:training&quot;}">Training</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://github.blog" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to blog&quot;,&quot;label&quot;:&quot;text:blog&quot;,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/05_Diziler/02_Ornek02_ProjeRenk/renk.js&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="0d61d97f2fc602bbbda814d685d25347d19ade557e9b9916ffcf668d28c493c9" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to blog&quot;,&quot;label&quot;:&quot;text:blog&quot;}">Blog</a></li>
         <li><a data-ga-click="Footer, go to about, text:about" href="https://github.com/about">About</a></li>
     </ul>
   </div>

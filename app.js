@@ -17,139 +17,43 @@
 
 
 
-  <link crossorigin="anonymous" media="all" integrity="sha512-9M4GwJqBATCm6CMz2UrCo6uuX1/Wa8wUnm7N5BQhGHFch1oIX2y8dcpUXfnQVQ2HE2bD287O5YMXuc5jFAcU8w==" rel="stylesheet" href="https://github.githubassets.com/assets/light-f4ce06c09a810130a6e8.css" /><link crossorigin="anonymous" media="all" integrity="sha512-BEwN74xxmv+L2zArQGm+kGVvX3bGY85LF4umkZnZ6Zl6IciYbr1IGxIYxqnUCW0RDEN1kM7glvXkpmQsntPVYQ==" rel="stylesheet" href="https://github.githubassets.com/assets/dark-044c0def8c719aff8bdb.css" /><link data-color-theme="dark_dimmed" crossorigin="anonymous" media="all" integrity="sha512-VuoBmyfgmCH9NsX74/R66RxQGfjoTNNTUdFUi9HeWSwDRckcVZHH1xn6VwcMa08p8xSCO2udmiuA12lR9TAzxA==" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_dimmed-56ea019b27e09821fd36.css" /><link data-color-theme="dark_high_contrast" crossorigin="anonymous" media="all" integrity="sha512-jHPIsHz149JE+ZbsS8f5oQFqdU/HHlWk8+AnPsA0+zZaVQkSidWMmCiT/DCiLLn6uAXgdnXxFr1GG1SWrBnnUQ==" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_high_contrast-8c73c8b07cf5e3d244f9.css" /><link data-color-theme="dark_colorblind" crossorigin="anonymous" media="all" integrity="sha512-7p7WmGYFN2EAFuK148e628pqxO+aqNIa7ik/Y38lMirTnrxjHqBKXYBOaCxBjmz2r60YWkzb+TqMR8CjeqAUNQ==" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_colorblind-ee9ed698660537610016.css" /><link data-color-theme="light_colorblind" crossorigin="anonymous" media="all" integrity="sha512-vFYO2hdW9+5z6u5jCkMIIcslIZGySqnMAzuYZEXT2FyJjx9f8A6rtAMdYn4nVSXOe1TIhT/UCWYgnszpePyMVA==" rel="stylesheet" data-href="https://github.githubassets.com/assets/light_colorblind-bc560eda1756f7ee73ea.css" /><link data-color-theme="light_high_contrast" crossorigin="anonymous" media="all" integrity="sha512-uaQhAu1uyRSlhFCuVq+c2TI/raBoawOri5enqBMFrNvRVOop44KjS/gnsHEHmzh/HrI2MrwXOLLuQouKPzce3A==" rel="stylesheet" data-href="https://github.githubassets.com/assets/light_high_contrast-b9a42102ed6ec914a584.css" />
-    <link crossorigin="anonymous" media="all" integrity="sha512-QDstDV0CeaTAQxEaLoguDaXfF719UOKQClVxrV8b6QIqX5ofij6Hzazl5koLCQdlPoVkHQP46nq7tmwJsixVaA==" rel="stylesheet" href="https://github.githubassets.com/assets/frameworks-403b2d0d5d0279a4c043.css" />
-    <link crossorigin="anonymous" media="all" integrity="sha512-tcsrmRBlC9XsZVKJSyo44/RZUxeQSDV1qHEPT4SzUVoX/eSwnn4EjK8FulE/kuOVD1ls+9PrRUydAxw5X4lAvQ==" rel="stylesheet" href="https://github.githubassets.com/assets/behaviors-b5cb2b9910650bd5ec65.css" />
+  <link crossorigin="anonymous" media="all" integrity="sha512-13kQ6JoOhlxACx6X27kQsASg0FJDIMOdig62C9zdIQGihvqVUYItWNNe0tpO2Q7dppx1xQx/zULU9MQ4Y5Zi/A==" rel="stylesheet" href="https://github.githubassets.com/assets/light-d77910e89a0e865c400b.css" /><link crossorigin="anonymous" media="all" integrity="sha512-q7VXJmlwU5JptLMrpjBkgwDwAcyytmc+xYAWW2xtKLvOGnJUg8O1uIT5ss7VIUYJPaZIe8IGskuy7ASsHlXHZQ==" rel="stylesheet" href="https://github.githubassets.com/assets/dark-abb557266970539269b4.css" /><link data-color-theme="dark_dimmed" crossorigin="anonymous" media="all" integrity="sha512-EMiKxWwCHOvlm8CmlBlUxzofn/C8PygNh8S6cgUnreWdAm1Ks0hh3380+dxkkGhqjmkqLFZsdAOCNjKfCothoQ==" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_dimmed-10c88ac56c021cebe59b.css" /><link data-color-theme="dark_high_contrast" crossorigin="anonymous" media="all" integrity="sha512-h2jOArfHzWjgFOS7rPPffkZ3ORa+Nxp+ffwoFGKQppC98Arz3k0hzirE0l1CnNFjBPeSMnzGHgYPMCvKMfskqQ==" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_high_contrast-8768ce02b7c7cd68e014.css" /><link data-color-theme="dark_colorblind" crossorigin="anonymous" media="all" integrity="sha512-QzzK7cvZ2Dx98wnz52iQVqgJ7zKVkz58VE5wlxe6Oo3fTyDnE/oQwKypmQBTuVnQGbZ2GkW8zV3VcnKFYTWiCw==" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_colorblind-433ccaedcbd9d83c7df3.css" /><link data-color-theme="light_colorblind" crossorigin="anonymous" media="all" integrity="sha512-6MPvWJVREvzKDZMn6etrs6WBVz1hTVklms2SpohtcEkpDETv62euIIWXO0QzydgOnRNQ7lIWpsgWITIQBFT4RA==" rel="stylesheet" data-href="https://github.githubassets.com/assets/light_colorblind-e8c3ef58955112fcca0d.css" /><link data-color-theme="light_high_contrast" crossorigin="anonymous" media="all" integrity="sha512-WxG2Ho2uGbuMZ98q/MmS5Gf3OJlmPNdVswDN3eX7lYeLrVAVXYG93BhnYZoXGbyhvM295glpF31EycKL0Ui82A==" rel="stylesheet" data-href="https://github.githubassets.com/assets/light_high_contrast-5b11b61e8dae19bb8c67.css" />
+    <link crossorigin="anonymous" media="all" integrity="sha512-qK6Y35QfRV2ovJZAXoODTYsJx4SWvugOJCitjGrfQhQAYhOoDNYy/6N1jPPoUN2xg7eMMvjOpWjhUj3hcseEnQ==" rel="stylesheet" href="https://github.githubassets.com/assets/frameworks-a8ae98df941f455da8bc.css" />
+    <link crossorigin="anonymous" media="all" integrity="sha512-T+GSPLZfGJxeiG7HcF2kiclN4feKa4vsBy9EPlMxRpKFDDMAPkLX6qriGc48293A/SSG9p+rJZOjVFFVtpk4cQ==" rel="stylesheet" href="https://github.githubassets.com/assets/behaviors-4fe1923cb65f189c5e88.css" />
     <link crossorigin="anonymous" media="all" integrity="sha512-hpIrfz2pWwa7eGZ5dC5vHGZ25lJj1iVSVx6xl6yyaGBCYJ5jsX2myq3ToniMuK4eHVL6iw/fKHj++Cg/hdB0JA==" rel="stylesheet" href="https://github.githubassets.com/assets/tab-size-fix-86922b7f3da95b06bb78.css" />
-  <link crossorigin="anonymous" media="all" integrity="sha512-1nwP7mOTtxd5kt7EmBrhD1q0R7VXGymiuBEZofVjFBe6RwKT92Paw+dqHRz2qFJjvAOsrJWVIWw0wQHOEEqcGw==" rel="stylesheet" href="https://github.githubassets.com/assets/github-d67c0fee6393b7177992.css" />
+  <link crossorigin="anonymous" media="all" integrity="sha512-8TyK2d/f9+LJdgBsQ5hFOIknSnsioH2yQPcXsO5u+ZDF6KKzdJFoHAwA1KlRduerpGBYIZPXDj5mzINWws1e8w==" rel="stylesheet" href="https://github.githubassets.com/assets/github-f13c8ad9dfdff7e2c976.css" />
 
-    <meta name="optimizely-datafile" content="{&quot;version&quot;: &quot;4&quot;, &quot;rollouts&quot;: [], &quot;typedAudiences&quot;: [], &quot;anonymizeIP&quot;: true, &quot;projectId&quot;: &quot;16737760170&quot;, &quot;variables&quot;: [], &quot;featureFlags&quot;: [], &quot;experiments&quot;: [{&quot;status&quot;: &quot;Running&quot;, &quot;audienceIds&quot;: [], &quot;variations&quot;: [{&quot;variables&quot;: [], &quot;id&quot;: &quot;20438636352&quot;, &quot;key&quot;: &quot;control&quot;}, {&quot;variables&quot;: [], &quot;id&quot;: &quot;20484957397&quot;, &quot;key&quot;: &quot;treatment&quot;}], &quot;id&quot;: &quot;20479227424&quot;, &quot;key&quot;: &quot;growth_ghec_onboarding_experience&quot;, &quot;layerId&quot;: &quot;20467848595&quot;, &quot;trafficAllocation&quot;: [{&quot;entityId&quot;: &quot;20484957397&quot;, &quot;endOfRange&quot;: 1000}, {&quot;entityId&quot;: &quot;20484957397&quot;, &quot;endOfRange&quot;: 3000}, {&quot;entityId&quot;: &quot;20484957397&quot;, &quot;endOfRange&quot;: 5000}, {&quot;entityId&quot;: &quot;20484957397&quot;, &quot;endOfRange&quot;: 6000}, {&quot;entityId&quot;: &quot;20484957397&quot;, &quot;endOfRange&quot;: 8000}, {&quot;entityId&quot;: &quot;20484957397&quot;, &quot;endOfRange&quot;: 10000}], &quot;forcedVariations&quot;: {&quot;85e2238ce2b9074907d7a3d91d6feeae&quot;: &quot;control&quot;}}, {&quot;status&quot;: &quot;Running&quot;, &quot;audienceIds&quot;: [], &quot;variations&quot;: [{&quot;variables&quot;: [], &quot;id&quot;: &quot;20667381018&quot;, &quot;key&quot;: &quot;control&quot;}, {&quot;variables&quot;: [], &quot;id&quot;: &quot;20680930759&quot;, &quot;key&quot;: &quot;treatment&quot;}], &quot;id&quot;: &quot;20652570897&quot;, &quot;key&quot;: &quot;project_genesis&quot;, &quot;layerId&quot;: &quot;20672300363&quot;, &quot;trafficAllocation&quot;: [{&quot;entityId&quot;: &quot;20667381018&quot;, &quot;endOfRange&quot;: 5000}, {&quot;entityId&quot;: &quot;20680930759&quot;, &quot;endOfRange&quot;: 10000}], &quot;forcedVariations&quot;: {&quot;83356e17066d336d1803024138ecb683&quot;: &quot;treatment&quot;, &quot;18e31c8a9b2271332466133162a4aa0d&quot;: &quot;treatment&quot;, &quot;10f8ab3fbc5ebe989a36a05f79d48f32&quot;: &quot;treatment&quot;, &quot;1686089f6d540cd2deeaec60ee43ecf7&quot;: &quot;treatment&quot;}}, {&quot;status&quot;: &quot;Running&quot;, &quot;audienceIds&quot;: [], &quot;variations&quot;: [{&quot;variables&quot;: [], &quot;id&quot;: &quot;20898546114&quot;, &quot;key&quot;: &quot;control&quot;}, {&quot;variables&quot;: [], &quot;id&quot;: &quot;20923036705&quot;, &quot;key&quot;: &quot;treatment_a&quot;}, {&quot;variables&quot;: [], &quot;id&quot;: &quot;20965581308&quot;, &quot;key&quot;: &quot;treatment_b&quot;}], &quot;id&quot;: &quot;20902325119&quot;, &quot;key&quot;: &quot;contact_sales_page_optimizations&quot;, &quot;layerId&quot;: &quot;20969031091&quot;, &quot;trafficAllocation&quot;: [{&quot;entityId&quot;: &quot;20965581308&quot;, &quot;endOfRange&quot;: 3330}, {&quot;entityId&quot;: &quot;20898546114&quot;, &quot;endOfRange&quot;: 5000}, {&quot;entityId&quot;: &quot;20898546114&quot;, &quot;endOfRange&quot;: 6670}, {&quot;entityId&quot;: &quot;20923036705&quot;, &quot;endOfRange&quot;: 10000}], &quot;forcedVariations&quot;: {}}], &quot;audiences&quot;: [{&quot;conditions&quot;: &quot;[\&quot;or\&quot;, {\&quot;match\&quot;: \&quot;exact\&quot;, \&quot;name\&quot;: \&quot;$opt_dummy_attribute\&quot;, \&quot;type\&quot;: \&quot;custom_attribute\&quot;, \&quot;value\&quot;: \&quot;$opt_dummy_value\&quot;}]&quot;, &quot;id&quot;: &quot;$opt_dummy_audience&quot;, &quot;name&quot;: &quot;Optimizely-Generated Audience for Backwards Compatibility&quot;}], &quot;groups&quot;: [], &quot;sdkKey&quot;: &quot;WTc6awnGuYDdG98CYRban&quot;, &quot;environmentKey&quot;: &quot;production&quot;, &quot;attributes&quot;: [{&quot;id&quot;: &quot;16822470375&quot;, &quot;key&quot;: &quot;user_id&quot;}, {&quot;id&quot;: &quot;17143601254&quot;, &quot;key&quot;: &quot;spammy&quot;}, {&quot;id&quot;: &quot;18175660309&quot;, &quot;key&quot;: &quot;organization_plan&quot;}, {&quot;id&quot;: &quot;18813001570&quot;, &quot;key&quot;: &quot;is_logged_in&quot;}, {&quot;id&quot;: &quot;19073851829&quot;, &quot;key&quot;: &quot;geo&quot;}, {&quot;id&quot;: &quot;20175462351&quot;, &quot;key&quot;: &quot;requestedCurrency&quot;}, {&quot;id&quot;: &quot;20785470195&quot;, &quot;key&quot;: &quot;country_code&quot;}], &quot;botFiltering&quot;: false, &quot;accountId&quot;: &quot;16737760170&quot;, &quot;events&quot;: [{&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;17911811441&quot;, &quot;key&quot;: &quot;hydro_click.dashboard.teacher_toolbox_cta&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18124116703&quot;, &quot;key&quot;: &quot;submit.organizations.complete_sign_up&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18145892387&quot;, &quot;key&quot;: &quot;no_metric.tracked_outside_of_optimizely&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18178755568&quot;, &quot;key&quot;: &quot;click.org_onboarding_checklist.add_repo&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18180553241&quot;, &quot;key&quot;: &quot;submit.repository_imports.create&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18186103728&quot;, &quot;key&quot;: &quot;click.help.learn_more_about_repository_creation&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18188530140&quot;, &quot;key&quot;: &quot;test_event&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18191963644&quot;, &quot;key&quot;: &quot;click.empty_org_repo_cta.transfer_repository&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18195612788&quot;, &quot;key&quot;: &quot;click.empty_org_repo_cta.import_repository&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18210945499&quot;, &quot;key&quot;: &quot;click.org_onboarding_checklist.invite_members&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18211063248&quot;, &quot;key&quot;: &quot;click.empty_org_repo_cta.create_repository&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18215721889&quot;, &quot;key&quot;: &quot;click.org_onboarding_checklist.update_profile&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18224360785&quot;, &quot;key&quot;: &quot;click.org_onboarding_checklist.dismiss&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18234832286&quot;, &quot;key&quot;: &quot;submit.organization_activation.complete&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18252392383&quot;, &quot;key&quot;: &quot;submit.org_repository.create&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18257551537&quot;, &quot;key&quot;: &quot;submit.org_member_invitation.create&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18259522260&quot;, &quot;key&quot;: &quot;submit.organization_profile.update&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18564603625&quot;, &quot;key&quot;: &quot;view.classroom_select_organization&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18568612016&quot;, &quot;key&quot;: &quot;click.classroom_sign_in_click&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18572592540&quot;, &quot;key&quot;: &quot;view.classroom_name&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18574203855&quot;, &quot;key&quot;: &quot;click.classroom_create_organization&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18582053415&quot;, &quot;key&quot;: &quot;click.classroom_select_organization&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18589463420&quot;, &quot;key&quot;: &quot;click.classroom_create_classroom&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18591323364&quot;, &quot;key&quot;: &quot;click.classroom_create_first_classroom&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18591652321&quot;, &quot;key&quot;: &quot;click.classroom_grant_access&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18607131425&quot;, &quot;key&quot;: &quot;view.classroom_creation&quot;}, {&quot;experimentIds&quot;: [&quot;20479227424&quot;], &quot;id&quot;: &quot;18831680583&quot;, &quot;key&quot;: &quot;upgrade_account_plan&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19064064515&quot;, &quot;key&quot;: &quot;click.signup&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19075373687&quot;, &quot;key&quot;: &quot;click.view_account_billing_page&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19077355841&quot;, &quot;key&quot;: &quot;click.dismiss_signup_prompt&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19079713938&quot;, &quot;key&quot;: &quot;click.contact_sales&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19120963070&quot;, &quot;key&quot;: &quot;click.compare_account_plans&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19151690317&quot;, &quot;key&quot;: &quot;click.upgrade_account_cta&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19424193129&quot;, &quot;key&quot;: &quot;click.open_account_switcher&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19520330825&quot;, &quot;key&quot;: &quot;click.visit_account_profile&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19540970635&quot;, &quot;key&quot;: &quot;click.switch_account_context&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19730198868&quot;, &quot;key&quot;: &quot;submit.homepage_signup&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19820830627&quot;, &quot;key&quot;: &quot;click.homepage_signup&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19988571001&quot;, &quot;key&quot;: &quot;click.create_enterprise_trial&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20036538294&quot;, &quot;key&quot;: &quot;click.create_organization_team&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20040653299&quot;, &quot;key&quot;: &quot;click.input_enterprise_trial_form&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20062030003&quot;, &quot;key&quot;: &quot;click.continue_with_team&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20068947153&quot;, &quot;key&quot;: &quot;click.create_organization_free&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20086636658&quot;, &quot;key&quot;: &quot;click.signup_continue.username&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20091648988&quot;, &quot;key&quot;: &quot;click.signup_continue.create_account&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20103637615&quot;, &quot;key&quot;: &quot;click.signup_continue.email&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20111574253&quot;, &quot;key&quot;: &quot;click.signup_continue.password&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20120044111&quot;, &quot;key&quot;: &quot;view.pricing_page&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20152062109&quot;, &quot;key&quot;: &quot;submit.create_account&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20165800992&quot;, &quot;key&quot;: &quot;submit.upgrade_payment_form&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20171520319&quot;, &quot;key&quot;: &quot;submit.create_organization&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20222645674&quot;, &quot;key&quot;: &quot;click.recommended_plan_in_signup.discuss_your_needs&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20227443657&quot;, &quot;key&quot;: &quot;submit.verify_primary_user_email&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20234607160&quot;, &quot;key&quot;: &quot;click.recommended_plan_in_signup.try_enterprise&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20238175784&quot;, &quot;key&quot;: &quot;click.recommended_plan_in_signup.team&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20239847212&quot;, &quot;key&quot;: &quot;click.recommended_plan_in_signup.continue_free&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20251097193&quot;, &quot;key&quot;: &quot;recommended_plan&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20438619534&quot;, &quot;key&quot;: &quot;click.pricing_calculator.1_member&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20456699683&quot;, &quot;key&quot;: &quot;click.pricing_calculator.15_members&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20467868331&quot;, &quot;key&quot;: &quot;click.pricing_calculator.10_members&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20476267432&quot;, &quot;key&quot;: &quot;click.trial_days_remaining&quot;}, {&quot;experimentIds&quot;: [&quot;20479227424&quot;], &quot;id&quot;: &quot;20476357660&quot;, &quot;key&quot;: &quot;click.discover_feature&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20479287901&quot;, &quot;key&quot;: &quot;click.pricing_calculator.custom_members&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20481107083&quot;, &quot;key&quot;: &quot;click.recommended_plan_in_signup.apply_teacher_benefits&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20483089392&quot;, &quot;key&quot;: &quot;click.pricing_calculator.5_members&quot;}, {&quot;experimentIds&quot;: [&quot;20479227424&quot;, &quot;20652570897&quot;], &quot;id&quot;: &quot;20484283944&quot;, &quot;key&quot;: &quot;click.onboarding_task&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20484996281&quot;, &quot;key&quot;: &quot;click.recommended_plan_in_signup.apply_student_benefits&quot;}, {&quot;experimentIds&quot;: [&quot;20479227424&quot;], &quot;id&quot;: &quot;20486713726&quot;, &quot;key&quot;: &quot;click.onboarding_task_breadcrumb&quot;}, {&quot;experimentIds&quot;: [&quot;20479227424&quot;], &quot;id&quot;: &quot;20490791319&quot;, &quot;key&quot;: &quot;click.upgrade_to_enterprise&quot;}, {&quot;experimentIds&quot;: [&quot;20479227424&quot;], &quot;id&quot;: &quot;20491786766&quot;, &quot;key&quot;: &quot;click.talk_to_us&quot;}, {&quot;experimentIds&quot;: [&quot;20479227424&quot;], &quot;id&quot;: &quot;20494144087&quot;, &quot;key&quot;: &quot;click.dismiss_enterprise_trial&quot;}, {&quot;experimentIds&quot;: [&quot;20479227424&quot;, &quot;20652570897&quot;], &quot;id&quot;: &quot;20499722759&quot;, &quot;key&quot;: &quot;completed_all_tasks&quot;}, {&quot;experimentIds&quot;: [&quot;20479227424&quot;, &quot;20652570897&quot;], &quot;id&quot;: &quot;20500710104&quot;, &quot;key&quot;: &quot;completed_onboarding_tasks&quot;}, {&quot;experimentIds&quot;: [&quot;20479227424&quot;], &quot;id&quot;: &quot;20513160672&quot;, &quot;key&quot;: &quot;click.read_doc&quot;}, {&quot;experimentIds&quot;: [&quot;20652570897&quot;], &quot;id&quot;: &quot;20516196762&quot;, &quot;key&quot;: &quot;actions_enabled&quot;}, {&quot;experimentIds&quot;: [&quot;20479227424&quot;], &quot;id&quot;: &quot;20518980986&quot;, &quot;key&quot;: &quot;click.dismiss_trial_banner&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20535446721&quot;, &quot;key&quot;: &quot;click.issue_actions_prompt.dismiss_prompt&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20557002247&quot;, &quot;key&quot;: &quot;click.issue_actions_prompt.setup_workflow&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20595070227&quot;, &quot;key&quot;: &quot;click.pull_request_setup_workflow&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20626600314&quot;, &quot;key&quot;: &quot;click.seats_input&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20642310305&quot;, &quot;key&quot;: &quot;click.decrease_seats_number&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20662990045&quot;, &quot;key&quot;: &quot;click.increase_seats_number&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20679620969&quot;, &quot;key&quot;: &quot;click.public_product_roadmap&quot;}, {&quot;experimentIds&quot;: [&quot;20479227424&quot;], &quot;id&quot;: &quot;20761240940&quot;, &quot;key&quot;: &quot;click.dismiss_survey_banner&quot;}, {&quot;experimentIds&quot;: [&quot;20479227424&quot;], &quot;id&quot;: &quot;20767210721&quot;, &quot;key&quot;: &quot;click.take_survey&quot;}, {&quot;experimentIds&quot;: [&quot;20652570897&quot;], &quot;id&quot;: &quot;20795281201&quot;, &quot;key&quot;: &quot;click.archive_list&quot;}, {&quot;experimentIds&quot;: [&quot;20902325119&quot;], &quot;id&quot;: &quot;20966790249&quot;, &quot;key&quot;: &quot;contact_sales.submit&quot;}, {&quot;experimentIds&quot;: [&quot;20902325119&quot;], &quot;id&quot;: &quot;20996500333&quot;, &quot;key&quot;: &quot;contact_sales.existing_customer&quot;}, {&quot;experimentIds&quot;: [&quot;20902325119&quot;], &quot;id&quot;: &quot;20996890162&quot;, &quot;key&quot;: &quot;contact_sales.blank_message_field&quot;}, {&quot;experimentIds&quot;: [&quot;20902325119&quot;], &quot;id&quot;: &quot;21000470317&quot;, &quot;key&quot;: &quot;contact_sales.personal_email&quot;}, {&quot;experimentIds&quot;: [&quot;20902325119&quot;], &quot;id&quot;: &quot;21002790172&quot;, &quot;key&quot;: &quot;contact_sales.blank_phone_field&quot;}], &quot;revision&quot;: &quot;1068&quot;}" />
+    <meta name="optimizely-datafile" content="{&quot;version&quot;: &quot;4&quot;, &quot;rollouts&quot;: [], &quot;typedAudiences&quot;: [], &quot;anonymizeIP&quot;: true, &quot;projectId&quot;: &quot;16737760170&quot;, &quot;variables&quot;: [], &quot;featureFlags&quot;: [], &quot;experiments&quot;: [{&quot;status&quot;: &quot;Running&quot;, &quot;audienceIds&quot;: [], &quot;variations&quot;: [{&quot;variables&quot;: [], &quot;id&quot;: &quot;20438636352&quot;, &quot;key&quot;: &quot;control&quot;}, {&quot;variables&quot;: [], &quot;id&quot;: &quot;20484957397&quot;, &quot;key&quot;: &quot;treatment&quot;}], &quot;id&quot;: &quot;20479227424&quot;, &quot;key&quot;: &quot;growth_ghec_onboarding_experience&quot;, &quot;layerId&quot;: &quot;20467848595&quot;, &quot;trafficAllocation&quot;: [{&quot;entityId&quot;: &quot;20484957397&quot;, &quot;endOfRange&quot;: 1000}, {&quot;entityId&quot;: &quot;20484957397&quot;, &quot;endOfRange&quot;: 3000}, {&quot;entityId&quot;: &quot;20484957397&quot;, &quot;endOfRange&quot;: 5000}, {&quot;entityId&quot;: &quot;20484957397&quot;, &quot;endOfRange&quot;: 6000}, {&quot;entityId&quot;: &quot;20484957397&quot;, &quot;endOfRange&quot;: 8000}, {&quot;entityId&quot;: &quot;20484957397&quot;, &quot;endOfRange&quot;: 10000}], &quot;forcedVariations&quot;: {&quot;85e2238ce2b9074907d7a3d91d6feeae&quot;: &quot;control&quot;}}, {&quot;status&quot;: &quot;Running&quot;, &quot;audienceIds&quot;: [], &quot;variations&quot;: [{&quot;variables&quot;: [], &quot;id&quot;: &quot;20667381018&quot;, &quot;key&quot;: &quot;control&quot;}, {&quot;variables&quot;: [], &quot;id&quot;: &quot;20680930759&quot;, &quot;key&quot;: &quot;treatment&quot;}], &quot;id&quot;: &quot;20652570897&quot;, &quot;key&quot;: &quot;project_genesis&quot;, &quot;layerId&quot;: &quot;20672300363&quot;, &quot;trafficAllocation&quot;: [{&quot;entityId&quot;: &quot;20667381018&quot;, &quot;endOfRange&quot;: 5000}, {&quot;entityId&quot;: &quot;20680930759&quot;, &quot;endOfRange&quot;: 10000}], &quot;forcedVariations&quot;: {&quot;83356e17066d336d1803024138ecb683&quot;: &quot;treatment&quot;, &quot;18e31c8a9b2271332466133162a4aa0d&quot;: &quot;treatment&quot;, &quot;10f8ab3fbc5ebe989a36a05f79d48f32&quot;: &quot;treatment&quot;, &quot;1686089f6d540cd2deeaec60ee43ecf7&quot;: &quot;treatment&quot;}}, {&quot;status&quot;: &quot;Running&quot;, &quot;audienceIds&quot;: [], &quot;variations&quot;: [{&quot;variables&quot;: [], &quot;id&quot;: &quot;20898546114&quot;, &quot;key&quot;: &quot;control&quot;}, {&quot;variables&quot;: [], &quot;id&quot;: &quot;20923036705&quot;, &quot;key&quot;: &quot;treatment_a&quot;}, {&quot;variables&quot;: [], &quot;id&quot;: &quot;20965581308&quot;, &quot;key&quot;: &quot;treatment_b&quot;}], &quot;id&quot;: &quot;20902325119&quot;, &quot;key&quot;: &quot;contact_sales_page_optimizations&quot;, &quot;layerId&quot;: &quot;20969031091&quot;, &quot;trafficAllocation&quot;: [{&quot;entityId&quot;: &quot;20965581308&quot;, &quot;endOfRange&quot;: 3330}, {&quot;entityId&quot;: &quot;20898546114&quot;, &quot;endOfRange&quot;: 5000}, {&quot;entityId&quot;: &quot;20898546114&quot;, &quot;endOfRange&quot;: 6670}, {&quot;entityId&quot;: &quot;20923036705&quot;, &quot;endOfRange&quot;: 10000}], &quot;forcedVariations&quot;: {}}], &quot;audiences&quot;: [{&quot;conditions&quot;: &quot;[\&quot;or\&quot;, {\&quot;match\&quot;: \&quot;exact\&quot;, \&quot;name\&quot;: \&quot;$opt_dummy_attribute\&quot;, \&quot;type\&quot;: \&quot;custom_attribute\&quot;, \&quot;value\&quot;: \&quot;$opt_dummy_value\&quot;}]&quot;, &quot;id&quot;: &quot;$opt_dummy_audience&quot;, &quot;name&quot;: &quot;Optimizely-Generated Audience for Backwards Compatibility&quot;}], &quot;groups&quot;: [], &quot;sdkKey&quot;: &quot;WTc6awnGuYDdG98CYRban&quot;, &quot;environmentKey&quot;: &quot;production&quot;, &quot;attributes&quot;: [{&quot;id&quot;: &quot;16822470375&quot;, &quot;key&quot;: &quot;user_id&quot;}, {&quot;id&quot;: &quot;17143601254&quot;, &quot;key&quot;: &quot;spammy&quot;}, {&quot;id&quot;: &quot;18175660309&quot;, &quot;key&quot;: &quot;organization_plan&quot;}, {&quot;id&quot;: &quot;18813001570&quot;, &quot;key&quot;: &quot;is_logged_in&quot;}, {&quot;id&quot;: &quot;19073851829&quot;, &quot;key&quot;: &quot;geo&quot;}, {&quot;id&quot;: &quot;20175462351&quot;, &quot;key&quot;: &quot;requestedCurrency&quot;}, {&quot;id&quot;: &quot;20785470195&quot;, &quot;key&quot;: &quot;country_code&quot;}], &quot;botFiltering&quot;: false, &quot;accountId&quot;: &quot;16737760170&quot;, &quot;events&quot;: [{&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;17911811441&quot;, &quot;key&quot;: &quot;hydro_click.dashboard.teacher_toolbox_cta&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18124116703&quot;, &quot;key&quot;: &quot;submit.organizations.complete_sign_up&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18145892387&quot;, &quot;key&quot;: &quot;no_metric.tracked_outside_of_optimizely&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18178755568&quot;, &quot;key&quot;: &quot;click.org_onboarding_checklist.add_repo&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18180553241&quot;, &quot;key&quot;: &quot;submit.repository_imports.create&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18186103728&quot;, &quot;key&quot;: &quot;click.help.learn_more_about_repository_creation&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18188530140&quot;, &quot;key&quot;: &quot;test_event&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18191963644&quot;, &quot;key&quot;: &quot;click.empty_org_repo_cta.transfer_repository&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18195612788&quot;, &quot;key&quot;: &quot;click.empty_org_repo_cta.import_repository&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18210945499&quot;, &quot;key&quot;: &quot;click.org_onboarding_checklist.invite_members&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18211063248&quot;, &quot;key&quot;: &quot;click.empty_org_repo_cta.create_repository&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18215721889&quot;, &quot;key&quot;: &quot;click.org_onboarding_checklist.update_profile&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18224360785&quot;, &quot;key&quot;: &quot;click.org_onboarding_checklist.dismiss&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18234832286&quot;, &quot;key&quot;: &quot;submit.organization_activation.complete&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18252392383&quot;, &quot;key&quot;: &quot;submit.org_repository.create&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18257551537&quot;, &quot;key&quot;: &quot;submit.org_member_invitation.create&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18259522260&quot;, &quot;key&quot;: &quot;submit.organization_profile.update&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18564603625&quot;, &quot;key&quot;: &quot;view.classroom_select_organization&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18568612016&quot;, &quot;key&quot;: &quot;click.classroom_sign_in_click&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18572592540&quot;, &quot;key&quot;: &quot;view.classroom_name&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18574203855&quot;, &quot;key&quot;: &quot;click.classroom_create_organization&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18582053415&quot;, &quot;key&quot;: &quot;click.classroom_select_organization&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18589463420&quot;, &quot;key&quot;: &quot;click.classroom_create_classroom&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18591323364&quot;, &quot;key&quot;: &quot;click.classroom_create_first_classroom&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18591652321&quot;, &quot;key&quot;: &quot;click.classroom_grant_access&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18607131425&quot;, &quot;key&quot;: &quot;view.classroom_creation&quot;}, {&quot;experimentIds&quot;: [&quot;20479227424&quot;], &quot;id&quot;: &quot;18831680583&quot;, &quot;key&quot;: &quot;upgrade_account_plan&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19064064515&quot;, &quot;key&quot;: &quot;click.signup&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19075373687&quot;, &quot;key&quot;: &quot;click.view_account_billing_page&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19077355841&quot;, &quot;key&quot;: &quot;click.dismiss_signup_prompt&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19079713938&quot;, &quot;key&quot;: &quot;click.contact_sales&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19120963070&quot;, &quot;key&quot;: &quot;click.compare_account_plans&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19151690317&quot;, &quot;key&quot;: &quot;click.upgrade_account_cta&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19424193129&quot;, &quot;key&quot;: &quot;click.open_account_switcher&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19520330825&quot;, &quot;key&quot;: &quot;click.visit_account_profile&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19540970635&quot;, &quot;key&quot;: &quot;click.switch_account_context&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19730198868&quot;, &quot;key&quot;: &quot;submit.homepage_signup&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19820830627&quot;, &quot;key&quot;: &quot;click.homepage_signup&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19988571001&quot;, &quot;key&quot;: &quot;click.create_enterprise_trial&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20036538294&quot;, &quot;key&quot;: &quot;click.create_organization_team&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20040653299&quot;, &quot;key&quot;: &quot;click.input_enterprise_trial_form&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20062030003&quot;, &quot;key&quot;: &quot;click.continue_with_team&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20068947153&quot;, &quot;key&quot;: &quot;click.create_organization_free&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20086636658&quot;, &quot;key&quot;: &quot;click.signup_continue.username&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20091648988&quot;, &quot;key&quot;: &quot;click.signup_continue.create_account&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20103637615&quot;, &quot;key&quot;: &quot;click.signup_continue.email&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20111574253&quot;, &quot;key&quot;: &quot;click.signup_continue.password&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20120044111&quot;, &quot;key&quot;: &quot;view.pricing_page&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20152062109&quot;, &quot;key&quot;: &quot;submit.create_account&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20165800992&quot;, &quot;key&quot;: &quot;submit.upgrade_payment_form&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20171520319&quot;, &quot;key&quot;: &quot;submit.create_organization&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20222645674&quot;, &quot;key&quot;: &quot;click.recommended_plan_in_signup.discuss_your_needs&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20227443657&quot;, &quot;key&quot;: &quot;submit.verify_primary_user_email&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20234607160&quot;, &quot;key&quot;: &quot;click.recommended_plan_in_signup.try_enterprise&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20238175784&quot;, &quot;key&quot;: &quot;click.recommended_plan_in_signup.team&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20239847212&quot;, &quot;key&quot;: &quot;click.recommended_plan_in_signup.continue_free&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20251097193&quot;, &quot;key&quot;: &quot;recommended_plan&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20438619534&quot;, &quot;key&quot;: &quot;click.pricing_calculator.1_member&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20456699683&quot;, &quot;key&quot;: &quot;click.pricing_calculator.15_members&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20467868331&quot;, &quot;key&quot;: &quot;click.pricing_calculator.10_members&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20476267432&quot;, &quot;key&quot;: &quot;click.trial_days_remaining&quot;}, {&quot;experimentIds&quot;: [&quot;20479227424&quot;], &quot;id&quot;: &quot;20476357660&quot;, &quot;key&quot;: &quot;click.discover_feature&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20479287901&quot;, &quot;key&quot;: &quot;click.pricing_calculator.custom_members&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20481107083&quot;, &quot;key&quot;: &quot;click.recommended_plan_in_signup.apply_teacher_benefits&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20483089392&quot;, &quot;key&quot;: &quot;click.pricing_calculator.5_members&quot;}, {&quot;experimentIds&quot;: [&quot;20479227424&quot;, &quot;20652570897&quot;], &quot;id&quot;: &quot;20484283944&quot;, &quot;key&quot;: &quot;click.onboarding_task&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20484996281&quot;, &quot;key&quot;: &quot;click.recommended_plan_in_signup.apply_student_benefits&quot;}, {&quot;experimentIds&quot;: [&quot;20479227424&quot;], &quot;id&quot;: &quot;20486713726&quot;, &quot;key&quot;: &quot;click.onboarding_task_breadcrumb&quot;}, {&quot;experimentIds&quot;: [&quot;20479227424&quot;], &quot;id&quot;: &quot;20490791319&quot;, &quot;key&quot;: &quot;click.upgrade_to_enterprise&quot;}, {&quot;experimentIds&quot;: [&quot;20479227424&quot;], &quot;id&quot;: &quot;20491786766&quot;, &quot;key&quot;: &quot;click.talk_to_us&quot;}, {&quot;experimentIds&quot;: [&quot;20479227424&quot;], &quot;id&quot;: &quot;20494144087&quot;, &quot;key&quot;: &quot;click.dismiss_enterprise_trial&quot;}, {&quot;experimentIds&quot;: [&quot;20479227424&quot;, &quot;20652570897&quot;], &quot;id&quot;: &quot;20499722759&quot;, &quot;key&quot;: &quot;completed_all_tasks&quot;}, {&quot;experimentIds&quot;: [&quot;20479227424&quot;, &quot;20652570897&quot;], &quot;id&quot;: &quot;20500710104&quot;, &quot;key&quot;: &quot;completed_onboarding_tasks&quot;}, {&quot;experimentIds&quot;: [&quot;20479227424&quot;], &quot;id&quot;: &quot;20513160672&quot;, &quot;key&quot;: &quot;click.read_doc&quot;}, {&quot;experimentIds&quot;: [&quot;20652570897&quot;], &quot;id&quot;: &quot;20516196762&quot;, &quot;key&quot;: &quot;actions_enabled&quot;}, {&quot;experimentIds&quot;: [&quot;20479227424&quot;], &quot;id&quot;: &quot;20518980986&quot;, &quot;key&quot;: &quot;click.dismiss_trial_banner&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20535446721&quot;, &quot;key&quot;: &quot;click.issue_actions_prompt.dismiss_prompt&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20557002247&quot;, &quot;key&quot;: &quot;click.issue_actions_prompt.setup_workflow&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20595070227&quot;, &quot;key&quot;: &quot;click.pull_request_setup_workflow&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20626600314&quot;, &quot;key&quot;: &quot;click.seats_input&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20642310305&quot;, &quot;key&quot;: &quot;click.decrease_seats_number&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20662990045&quot;, &quot;key&quot;: &quot;click.increase_seats_number&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20679620969&quot;, &quot;key&quot;: &quot;click.public_product_roadmap&quot;}, {&quot;experimentIds&quot;: [&quot;20479227424&quot;], &quot;id&quot;: &quot;20761240940&quot;, &quot;key&quot;: &quot;click.dismiss_survey_banner&quot;}, {&quot;experimentIds&quot;: [&quot;20479227424&quot;], &quot;id&quot;: &quot;20767210721&quot;, &quot;key&quot;: &quot;click.take_survey&quot;}, {&quot;experimentIds&quot;: [&quot;20652570897&quot;], &quot;id&quot;: &quot;20795281201&quot;, &quot;key&quot;: &quot;click.archive_list&quot;}, {&quot;experimentIds&quot;: [&quot;20902325119&quot;], &quot;id&quot;: &quot;20966790249&quot;, &quot;key&quot;: &quot;contact_sales.submit&quot;}, {&quot;experimentIds&quot;: [&quot;20902325119&quot;], &quot;id&quot;: &quot;20996500333&quot;, &quot;key&quot;: &quot;contact_sales.existing_customer&quot;}, {&quot;experimentIds&quot;: [&quot;20902325119&quot;], &quot;id&quot;: &quot;20996890162&quot;, &quot;key&quot;: &quot;contact_sales.blank_message_field&quot;}, {&quot;experimentIds&quot;: [&quot;20902325119&quot;], &quot;id&quot;: &quot;21000470317&quot;, &quot;key&quot;: &quot;contact_sales.personal_email&quot;}, {&quot;experimentIds&quot;: [&quot;20902325119&quot;], &quot;id&quot;: &quot;21002790172&quot;, &quot;key&quot;: &quot;contact_sales.blank_phone_field&quot;}], &quot;revision&quot;: &quot;1080&quot;}" />
 
 
-  <script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-42SXFvQHDz2FyN94xIyfcefqRg+Rr0oaj8QR12wnRhCuREAcqJa251RtFwUdt6YhydPAqg+H7POP4+ggIjWrFQ==" src="https://github.githubassets.com/assets/environment-e3649716.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-X91va+NJvz+ZFzWHlWX0so5CyLC5VaP4eiy9kMYHvvsVrd+r3zmVCEfhzC2T6p89jthGBswFBH3aVL1x9qVCZA==" data-module-id="./chunk-frameworks.js" data-src="https://github.githubassets.com/assets/chunk-frameworks-5fdd6f6b.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-CTwG9GT4xr4Vb2vCWNfDojO0Iqz90nxevV5Ar5Mozo5gneSOU1cDZ402ond5RAsUzdTqzQDsCnOE284z4FdrEQ==" data-module-id="./chunk-vendor.js" data-src="https://github.githubassets.com/assets/chunk-vendor-093c06f4.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-vgWV8b1FcpGErHwOitpIbvNmtQZwsw55TUraZngdfnHB3P+ZQnxzKD1L//RqzlWMB9sExBRhfOt1rHCxrru/Fg==" src="https://github.githubassets.com/assets/github-elements-be0595f1.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-jvEX8GuHfN2vussukJ0OTEdAvb+oU9+lp0MSfl7IKf5SHYr5SIYp092Pk/ltK3lPSwD8CzfovgoS7Fp7WyQhPg==" src="https://github.githubassets.com/assets/element-registry-8ef117f0.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-8CfFkhtgCvqYUxueFKxQY2TdxL/hk0LztguGzB+FDpcLFUAQFa+iXjYZfGINzEHSHu4ijrIUE2JbAT2uJndX/A==" src="https://github.githubassets.com/assets/behaviors-f027c592.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-DmkTNGIyjuZVt1Dv2m8+bTD/42ol3cuAH3/D4eU9RXHoewyLhNq/5fg8FdBZgoxM2onQfG7uW8VHeVNv9LGxEQ==" src="https://github.githubassets.com/assets/notifications-global-0e691334.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-0AWnITMRwpt2M7zejhGSMZMWcEBeswVLaglGmkxpQOWEnhnJpAGMuZ0iOLIKJzpuYP2xuNZK51OMM0e5TRUkAA==" data-module-id="./chunk-action-list-element.js" data-src="https://github.githubassets.com/assets/chunk-action-list-element-d005a721.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-e6gZB0XikLlJuJNmWiUasoZ1UZWjsKTvPg4gHEct3T6w2jUAEonlr8+A60v6IyKje2IjuDil7aeSl8g/P9trdQ==" data-module-id="./chunk-advanced.js" data-src="https://github.githubassets.com/assets/chunk-advanced-7ba81907.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-iG8aKaXiAy7ONu7OJuY1pf3FGFzrs4mYYGnUD47a1kXP5URyMlP1RpAFyWTFeyirHY/UoR2mmkkBD40j/9ouPA==" data-module-id="./chunk-animate-on-scroll.js" data-src="https://github.githubassets.com/assets/chunk-animate-on-scroll-886f1a29.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-DR/O+c2yX9jstdyxwVDlaM8zRuOACj/aap9ABecyw8toE3a9rXjQgytQlFPQu74JufIDXrD3E1xAOX+ZscWG1g==" data-module-id="./chunk-area.js" data-src="https://github.githubassets.com/assets/chunk-area-0d1fcef9.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-lchWLejOHZUQUJA5VcNlSnbRzzpiJVi0Sg1NcZTkhocfF0PDO8LeAkitCPsqUWW6F2hznj3bDp2rouTLXug6/Q==" data-module-id="./chunk-array.js" data-src="https://github.githubassets.com/assets/chunk-array-95c8562d.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-owLCfEz1kyCuCC2dJj3PrIlbMLSAatThR4RbMUlvOdTBRzOf7bjbnY+5VhhGyLMO+M9LxaITgDkHkZjQ+Vzvng==" data-module-id="./chunk-axis.js" data-src="https://github.githubassets.com/assets/chunk-axis-a302c27c.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-m/O2Z0gPqnm57wbjLsBOvQh6Q2Pe9ZPuJB//JVxnLopUDBm+2oIbe85Dtn7Gxa3vxLD0dnPsyzLnZ1p2rnMsMQ==" data-module-id="./chunk-band.js" data-src="https://github.githubassets.com/assets/chunk-band-9bf3b667.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-eGxp1b7dZ1/tJRddGRSK4XEFLlUWaApzGS/WiLLNaH03D5ZEOsf0pozYT2DfAGxsar1XKqw16YJ/Zdqrl3W94g==" data-module-id="./chunk-bar-chart.js" data-src="https://github.githubassets.com/assets/chunk-bar-chart-786c69d5.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-xYZHuTUTVPkU0QgbIfkdJMBgXjxcMDBaT7BmSOsF/01ZRW5EW9Y33RQtad5ISj0sAeRNVtGkrNJXho+ePnTWiw==" data-module-id="./chunk-business-audit-log-map-element.js" data-src="https://github.githubassets.com/assets/chunk-business-audit-log-map-element-c58647b9.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-wuxyUzhHyxJAliatPrzLlF9/JXffBvm8VcGEqLamI2l0k1SegKEbJTU3Ho8fC8uuwjKD3nF5v9q3nlnxgFrJVw==" data-module-id="./chunk-code-frequency-graph-element.js" data-src="https://github.githubassets.com/assets/chunk-code-frequency-graph-element-c2ec7253.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-/pLSBAJaIyy02rB8GR0Ca3InIc+gQwIBKsnxSdPfuKvC2kELy5s5QpoNQjJvILONrZeYECH9OLjTp+I65P0h0g==" data-module-id="./chunk-codemirror-linter-util.js" data-src="https://github.githubassets.com/assets/chunk-codemirror-linter-util-fe92d204.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-ep6n62OPA1P1ThFWfIZLLymoFA20VFe9/FxtagWNtucAgqTk6r2EdaNqJsM60bJvu9c+qxJ3IemOHRCZKxoc8Q==" data-module-id="./chunk-codemirror.js" data-src="https://github.githubassets.com/assets/chunk-codemirror-7a9ea7eb.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-J8jHMgG3jS4CpHyg8r7/4fkGdTqIN02DLHqUXcqIAmRWCEgjN1dBjBocAjsdSxTK9aSuLAcdk+BxOsvXA/XbyA==" data-module-id="./chunk-codespaces-policy-form-element.js" data-src="https://github.githubassets.com/assets/chunk-codespaces-policy-form-element-27c8c732.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-xhSAO0KtnFAlRqAK+mg8BPj/J334ccvnCmmjmBQBCgZcsoO9teHJSS6oAn3XOWYFsWPU2JehwG7S3OVEbLwdUg==" data-module-id="./chunk-color-modes.js" data-src="https://github.githubassets.com/assets/chunk-color-modes-c614803b.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-v8cHj6fIJrUr2THCh/9KFMq1ynoKuurR4+FC2Ett8SMLXKeZlPKNBdug2YUHDTdReeN3k8V4w5alEdiPSoSaZw==" data-module-id="./chunk-column-chart.js" data-src="https://github.githubassets.com/assets/chunk-column-chart-bfc7078f.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-Cxz9fz2JiHBMsAyTcpabLsdyhzKNOAiN39UiIRoBuGucckVKYokk6qjAFx5HYsnzHXYzUeGgsBfRfLXUHS1djA==" data-module-id="./chunk-command-palette-item-element.js" data-src="https://github.githubassets.com/assets/chunk-command-palette-item-element-0b1cfd7f.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-YB4n6yAy1gfOHwSrWN2OVlHtGYeXNuWJjeCY/lbFUqGNLbjtfE+n43/b/eMwtWstthORkBNzPXCcDDqkcaXRvA==" data-module-id="./chunk-command-palette-page-element.js" data-src="https://github.githubassets.com/assets/chunk-command-palette-page-element-601e27eb.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-ArAYnCVb9/z6JyIGKamGqTkiA0gTFpyF44DkvAGbTb+cAYjw2fNmNbF3HtLOlibSx4gCULG6++YzoaSjRGfSDg==" data-module-id="./chunk-command-palette-page-stack-element.js" data-src="https://github.githubassets.com/assets/chunk-command-palette-page-stack-element-02b0189c.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-ZYjZKQHIOhwDjM01xaTY5HVOYxow2dSPnRUCCysGwB/MggQEIZDqUBLSJH3+UfOVcLld2RcFA7vfjkinMQimSg==" data-module-id="./chunk-commit-activity-graph-element.js" data-src="https://github.githubassets.com/assets/chunk-commit-activity-graph-element-6588d929.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-wjhbw7qkjmwL4LD+tmeYjd+1ABG7/xOknSlnwKAOz9cfRwhihOaEfiTWJ85/7slhTYZqECBzLbKVqZKQastHIw==" data-module-id="./chunk-community-contributions.js" data-src="https://github.githubassets.com/assets/chunk-community-contributions-c2385bc3.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-HDsLJf6gAN+WDFaJneJwmIY82XkZKWqeX7tStBLRh1XM53K8vMV6JZvjq/UQXszaNVWxWcuYtgYTG6ZWo8+QSw==" data-module-id="./chunk-confetti.js" data-src="https://github.githubassets.com/assets/chunk-confetti-1c3b0b25.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-B5QCaIrwP/ZaG0RRfPkc2R/K5LlF6BP9xoN1EYPxA6eEuKk3bNg1oUji4W2oHm3ZuxN63wddiiTbSm6/scyxmw==" data-module-id="./chunk-contributions-spider-graph.js" data-src="https://github.githubassets.com/assets/chunk-contributions-spider-graph-07940268.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-IpKybX6qZXRhU3S4Isw2/xiKMrWBFURLL87mlSWRbqdyOuVLuLfj7AvGOzJlfhtbMDk3uG+VZTpD01TaH6Ph/w==" data-module-id="./chunk-contributors-graph-element.js" data-src="https://github.githubassets.com/assets/chunk-contributors-graph-element-2292b26d.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-AdShwMIaVrtYr+LC9cc7rsC64wQJgoCdDjLJXaD4kVhdmuld7dk748AQueuoomE4OZypdoHSPmxQ56Wge/qtig==" data-module-id="./chunk-cookies.js" data-src="https://github.githubassets.com/assets/chunk-cookies-01d4a1c0.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-jitxouuFY6SUcDZV5W3jhadVEIfFBfCQZxfPV3kxNnsWEBzbxMJFp0ccLb7+OlBjSs1zU/MNtuOV6T9Ay7lx4w==" data-module-id="./chunk-copy.js" data-src="https://github.githubassets.com/assets/chunk-copy-8e2b71a2.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-miaiZ1xkDsWBUsURHOmeYtbgVKQGnm1octCo/lDXUmPzDyjtubnHULRVw1AK+sttwdwyB0+LOyhIVAWCNSGx+A==" data-module-id="./chunk-delayed-loading-element.js" data-src="https://github.githubassets.com/assets/chunk-delayed-loading-element-9a26a267.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-g9egUfzV36Fhfld8PbxfEm/V9ePFqvd9i5DIKra4wJ61M/AnpOOadhUD2CZ//ww84eRnAMJRQRHOYZ2wZRo2IQ==" data-module-id="./chunk-dependencies.js" data-src="https://github.githubassets.com/assets/chunk-dependencies-83d7a051.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-LlVyc/1U000RmO4RldBXJllTDjCahXcYhoH36e/5Z7FQrfr76hILqzCSPa7I0Jq0dXrUmF7Rdlgr8upKiqI4bQ==" data-module-id="./chunk-discussion-page-views.js" data-src="https://github.githubassets.com/assets/chunk-discussion-page-views-2e557273.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-VZ4h8Fwcm0XTbcjGFRmk/9GAADXVkklCPuqF5hBT2HVzegZMZD4SRS89VErsHdrBhD+BVvpsEEJ5fislbVANsw==" data-module-id="./chunk-discussions-daily-contributors.js" data-src="https://github.githubassets.com/assets/chunk-discussions-daily-contributors-559e21f0.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-UTkDkF19l+4mKyXJ7GhLKMFoVgExzifWypg7Fv+ymgs5p7tKNt/owkzPouakQub6lkkp0nhd8wE6rGf3UwUZqg==" data-module-id="./chunk-discussions-new-contributors.js" data-src="https://github.githubassets.com/assets/chunk-discussions-new-contributors-51390390.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-W2h1jdFgngGW5/6LmW+E+jNqLFqt8UGenaQj7UWfK0CqdQjahNQXW6OuZlzkQcthIZ8V8AZpZDolxoQ8Kd3Gaw==" data-module-id="./chunk-dormant-users-reports.js" data-src="https://github.githubassets.com/assets/chunk-dormant-users-reports-5b68758d.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-T092OZtYeslxDIimT2TR4IWlO+6B9q6zenOAqRekKME3TgdR1nKinRgV0PTYZ3Y3IITjimtvjqQpN5kW11o0bw==" data-module-id="./chunk-drag-drop.js" data-src="https://github.githubassets.com/assets/chunk-drag-drop-4f4f7639.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-nqSGfQ+YUbpCws7n/18G/ueeeWfuJYlTMaRBOIPUGh2NOPEUQm4YW7NjctpPQgAWoVIaeEr0XDFXCWBbFW9sXQ==" data-module-id="./chunk-edit-hook-secret-element.js" data-src="https://github.githubassets.com/assets/chunk-edit-hook-secret-element-9ea4867d.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-+jVTzdBoYWoEZvvE2UuKmQlbCCgqDOwff6B7nIVDslyPRnvo2BV1QQ0I3QAur48jk+4IrLbVl2pWvHSQhwOMSg==" data-module-id="./chunk-edit.js" data-src="https://github.githubassets.com/assets/chunk-edit-fa3553cd.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-lZ+KI9egKP++FYD5qpzdWdu26uB+Hi81g+o1fapRMNGPW3G5abkiZ28HD8kyUL5JdiLl7ZAM/ATwTzZW4mZ2vw==" data-module-id="./chunk-emoji-picker-element.js" data-src="https://github.githubassets.com/assets/chunk-emoji-picker-element-959f8a23.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-euLLeTFpj2DeM/lF0qLZedbrh2iLKL86jMNj8ydBs0Dr24s0ZxmdYnenUo2UIVD8r3t2DgXaahNQmstHlXpmtA==" data-module-id="./chunk-extent.js" data-src="https://github.githubassets.com/assets/chunk-extent-7ae2cb79.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-wsUwgwxED8pP99OX+oHo/gihRkaVCoUOuKeuca5uSpYTkOdSpJJSQr0ERYaQU9/pW2LO17/5kSLM4dBNFd8kWQ==" data-module-id="./chunk-failbot.js" data-src="https://github.githubassets.com/assets/chunk-failbot-c2c53083.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-vu9Jz7uYqWEzuZt9vTxZhokIyojtlOeJeuKlm9VXk9X+D0mEbs4wZrBFvaOuIGUfYLD+cWL87P3uWLWu4ddocA==" data-module-id="./chunk-feature-callout-element.js" data-src="https://github.githubassets.com/assets/chunk-feature-callout-element-beef49cf.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-5r/m4Q9I8PFeDYmfZIE5Nmi+ua6kmrqzCpKXwr/9uKdNZe3Vcywf3vzVHxc8ggzU8ujHJqGIMTZXF/E2N+tFtg==" data-module-id="./chunk-file-filter-element.js" data-src="https://github.githubassets.com/assets/chunk-file-filter-element-e6bfe6e1.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-cQopiBGegX6qPxClQh138wh1u0rUe3TbHSXvaKK3HspEZJxyF5f2R0lRFNBNrZC5GJrLIFWcqysr48cFGmzcEw==" data-module-id="./chunk-file-filter-persistence.js" data-src="https://github.githubassets.com/assets/chunk-file-filter-persistence-710a2988.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-A5HhYU1TqdtjmTjviiO+TDDQ3WSk9410MLCRq1ZutGkluYHRe2BdeLD6FAemyQw6EKcRnsel1e2Nogln7nDOxQ==" data-module-id="./chunk-file-tree-element.js" data-src="https://github.githubassets.com/assets/chunk-file-tree-element-0391e161.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-HmlTAbYYypu6xIfkc5lZknDVCpWNWBWqotVdG16NPCcFVn1eCQMAjQZMgYtwONmU97MwJ3QBSjlj3RZpBI8QcQ==" data-module-id="./chunk-file-tree-toggle-element.js" data-src="https://github.githubassets.com/assets/chunk-file-tree-toggle-element-1e695301.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-1njRxGWK/1YwlIgBa4NNAJixjlS9EmfPdTPnDSw+H9qYm7JbF4wICBAJok9PJgX9iIvPcCFLr4+9VWa3aS6UGA==" data-module-id="./chunk-filter-input.js" data-src="https://github.githubassets.com/assets/chunk-filter-input-d678d1c4.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-PnU+sfTXdyJ04N6yBgLo5Z2SjobVkjg3KeIMPPFahdKGVHIjIB5qXL0Lyc251ZrlqGoiZy6pFaPeK5zn4MGjKg==" data-module-id="./chunk-format-symbol.js" data-src="https://github.githubassets.com/assets/chunk-format-symbol-3e753eb1.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-I3f3Mg+8lKnfufPcdki3NWiXyR/WOJ2EQCE+IlCS0OzAZ/9/YzYJ5v+9qUAZNyHB8eS7M0CCARJ1nQCjlHe8mQ==" data-module-id="./chunk-get-repo-element.js" data-src="https://github.githubassets.com/assets/chunk-get-repo-element-2377f732.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-1YyRxy7P1eKjAsJP+/J5r58i7pUkqQV1iLcEi8BM8mXtvgkCx5oGBTsTCXY7kNxZwdM89wuW0bUqEmT/K2pAmA==" data-module-id="./chunk-index.esm.js" data-src="https://github.githubassets.com/assets/chunk-index.esm-d58c91c7.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-l1nMNuiARJ5TD7tYJoxL9CWJpuRIQizQB5Yow6uYdQLjHF+jhlhjIRCOkjlwu2cPdw5IZjD4cR21hGYyX4fQ2w==" data-module-id="./chunk-index.js" data-src="https://github.githubassets.com/assets/chunk-index-9759cc36.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-qOUpd16ML/w+JHQ+AgsVZx091bwb/LDsyH4VCFRjcgYSyvOX3C9sKGbPD71wRrLGXuAVmZMhW/rHxciExPYJhg==" data-module-id="./chunk-index2.js" data-src="https://github.githubassets.com/assets/chunk-index2-a8e52977.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-QNDWaHxe34aiO2cy7YLEP+JwDSLTn2f6XbiLs57XjWDv+fCEsKSju2pBNnbQ0gW1BNvmnKTdFm3a0Bfks7G8cg==" data-module-id="./chunk-index3.js" data-src="https://github.githubassets.com/assets/chunk-index3-40d0d668.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-/lTFJkfTffOvpQ3Fs6eq02kNzMlBwxwonQU6if7W0VbA7+7Kq2zWUUlX8iVH0/oA8DcVVps3tP5lFqBr/6oj6g==" data-module-id="./chunk-index4.js" data-src="https://github.githubassets.com/assets/chunk-index4-fe54c526.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-Ntnd0/5ZBGVRYTRI3XtP6vjjlgg5MyYB+mTrkAR16+nHItQyS+EVU5IeydLg7OtU30Xk85euBkFABjLw4BmU1g==" data-module-id="./chunk-index5.js" data-src="https://github.githubassets.com/assets/chunk-index5-36d9ddd3.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-MS1Zii7vEXvNGfCzfot3Ay7Rb4jDjjTve/4lJs0ZVeznfQClBiTPhjvURBIH+eaoHprIg+ajqeamiG2/TNkKFQ==" data-module-id="./chunk-index6.js" data-src="https://github.githubassets.com/assets/chunk-index6-312d598a.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-PzguLzCZSX4+hasAu7u8YDVWgFv/0OVZooA+vfjBMr3TYfRwT+DCbLq3B08j4ntyYKddfGSKJjfh4r4bVz3YyQ==" data-module-id="./chunk-index7.js" data-src="https://github.githubassets.com/assets/chunk-index7-3f382e2f.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-97hqkbIvwW7HJzpWnhaTFrvWSA/scr+5o7FqPsphio+ngTnkbV6LlA0PE5jFHs15vOVqtJvkHHpYL0iIITjgjA==" data-module-id="./chunk-input-demux.js" data-src="https://github.githubassets.com/assets/chunk-input-demux-f7b86a91.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-4ZToQVMOXo8sxNzItJtpJQ/aBNgkzSVfq2YGbUQnbX59DpBemMGOuph6ShQgeRcuJk+x92FKYlhl92AbejD+ww==" data-module-id="./chunk-insights-query.js" data-src="https://github.githubassets.com/assets/chunk-insights-query-e194e841.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-nmIxH2oA7GcqwFhlReohkQ0DXjx9bHbppBRl4Yuv/rTze5Jf9588SH+TEGpqfBa2jcHLV7JuG1JTmGjBHUnXfA==" data-module-id="./chunk-invitations.js" data-src="https://github.githubassets.com/assets/chunk-invitations-9e62311f.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-XYGWvZSm5OSePme3YEdjKrbXMYaPph55zeHFhRZX33TRfumL+0SDyVFYwoIFz68xFi3MLWDk/OgG+IupiBa8Ig==" data-module-id="./chunk-jump-to.js" data-src="https://github.githubassets.com/assets/chunk-jump-to-5d8196bd.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-8Zr3D4tATIN9RgbnUQPSG6ynrNzIHEQBEC2X9FWxfXk4tbP4gp+ey/Qin4S/7Ey38XRxRg16Ut2fhSHkH1zA1g==" data-module-id="./chunk-launch-code-element.js" data-src="https://github.githubassets.com/assets/chunk-launch-code-element-f19af70f.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-92jpdKelNx62F7UBT82SokGtEavcA+2aKd7tNcefzagcDmCnjTk/8ffmZ24eOPBi62VW4CDooFMXLenxxWercA==" data-module-id="./chunk-line-chart.js" data-src="https://github.githubassets.com/assets/chunk-line-chart-f768e974.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-GHMEiXdvG00Lv7Tnj+S7/TnqlcyVi41j6xapftzfnYoGWz5iYCMK5XCoDFmCmSgliaA0pmVHO356D2u3zJCicw==" data-module-id="./chunk-line.js" data-src="https://github.githubassets.com/assets/chunk-line-18730489.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-SErVGzFh5d4RY684E3TP0k4oymFEXft5zG2STX8WWBVsYLU1CzKWKooMuhIGsL77HG7pyviD12Dy3zs0GN41bg==" data-module-id="./chunk-linear.js" data-src="https://github.githubassets.com/assets/chunk-linear-484ad51b.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-YUCb5GVAF8qPEnN/WtyP9j81k8qOlMzl35cLqVFLixJgBMqQ+ZT+ELoBUx2OTqs5IrYwqq9c+gk4O0qRN3h0EQ==" data-module-id="./chunk-locale.js" data-src="https://github.githubassets.com/assets/chunk-locale-61409be4.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-z5CnRrYFTqXt/cLpxeZbeOJFhX9E0mmje1Cf2cNNuGf8Wiu8zKxbOgH5o1gb2FL7PpCBcq4NWx+OR0J7h0eTjw==" data-module-id="./chunk-map.js" data-src="https://github.githubassets.com/assets/chunk-map-cf90a746.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-ptvLZkNg+C03ttOe2BfDaeurTiJY+zXDVgUaCzdTLlXVtlNo1JN5cijLL0vTxKncUtTavVi887fyRKhbW8eQPA==" data-module-id="./chunk-marketplace-insights-graph-element.js" data-src="https://github.githubassets.com/assets/chunk-marketplace-insights-graph-element-a6dbcb66.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-JIPOaJ7z9Bi0Xad2Dx7xnVXqQkO9WwcyqkaSN8aj0wZiIR+bt4q35DM8Wda+aB6frkFSEMaeiNm+NPWE1KBPVg==" data-module-id="./chunk-memex-project-picker-element.js" data-src="https://github.githubassets.com/assets/chunk-memex-project-picker-element-2483ce68.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-cvjyIYhR2ZkuFAXHYZSjPTc5wXYOdISgqbXw69CXpDXdxffXmXuzjCcGJNVk3mDNYsVH4Q9sb2UMNPFrNxxRUQ==" data-module-id="./chunk-metric-selection-element.js" data-src="https://github.githubassets.com/assets/chunk-metric-selection-element-72f8f221.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-wpN+s55e0JkuffVR++S87PjAhQog0M/U4+l4pD/Ps8w9yNma6Pdmeij+RTxCSdDzqjgC9knsjPpZ5+ohkRd4ww==" data-module-id="./chunk-min.js" data-src="https://github.githubassets.com/assets/chunk-min-c2937eb3.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-+C+U3GQMIfd4xTRuMutY0mInBQA6ttqvxHzA/8+K9YwSFjlMftzHIzdu6pfFYZw7L0gfsBqx3UtFchaNhU9xPA==" data-module-id="./chunk-monthly-spend-graph-element.js" data-src="https://github.githubassets.com/assets/chunk-monthly-spend-graph-element-f82f94dc.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-aYNntJOZeBzyhsX35l/XAH5STic/eL+BLWcOEitDxJJdLPzhFCMC/uuVZkTr0uEk84PgB6OLeGNVhF1xh28v2w==" data-module-id="./chunk-navigation-list-element.js" data-src="https://github.githubassets.com/assets/chunk-navigation-list-element-698367b4.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-WzJo2Eq37iwRDfYZ9ngZJbN52zuMLQkuQXobpeMWml+/E8dBE+3HWk1qGAlcpryADA7GzaWSnkGoK2F7aOV+mA==" data-module-id="./chunk-network-graph-element.js" data-src="https://github.githubassets.com/assets/chunk-network-graph-element-5b3268d8.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-MYHfk4RC1G7um5oS3Cg8p/6FekxAiWQQvmCR526sy3/Yxbe6WEgDm5D64atvKXEqPps/0VgTxmSUH4XICbv5sw==" data-module-id="./chunk-nodrag.js" data-src="https://github.githubassets.com/assets/chunk-nodrag-3181df93.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-aDaQ+F8RsgwBl1LRs67xeUFjE3p4pUpzr9syp9YXmjjMyu6of5TEg3tyO+jAN2WL4h7KkP248G5XAsAppewcvA==" data-module-id="./chunk-notification-list-focus.js" data-src="https://github.githubassets.com/assets/chunk-notification-list-focus-683690f8.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-iYBUevXUcub+DHA/rBwZFpBh+4j+99HdAZcr9GnhJW4r0+RL3Znj+JK0+PE0t9aTuEZ9cdTpVFE+OSAXJQro+w==" data-module-id="./chunk-org-insights-graph-element.js" data-src="https://github.githubassets.com/assets/chunk-org-insights-graph-element-8980547a.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-UpfXcE8D72JtkgF68l5LopywUMIDLi+ov+G9Kyaiz+zZUQxAXzu3jkIOJ5D0IaK7A54EOHWGpFSsMWnZQ+GsEQ==" data-module-id="./chunk-overview.js" data-src="https://github.githubassets.com/assets/chunk-overview-5297d770.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-tJgiApJcFJ0jL8UvfL7qx7j9aXTzPymdLhbbKlQtYOTijtqK9fMhJvW/dFkG4I27HcesAef/06xERFczvVOCvQ==" data-module-id="./chunk-package-dependencies-security-graph-element.js" data-src="https://github.githubassets.com/assets/chunk-package-dependencies-security-graph-element-b4982202.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-rm1qIXRm4iMgRzHKiWNxs89dEXeQEvDZZ7qiYVFDhwbPBgNGl2Thwc/fSe8jjtq9eErkecWSDrFycssBZgoxyw==" data-module-id="./chunk-pointer.js" data-src="https://github.githubassets.com/assets/chunk-pointer-ae6d6a21.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-qEMigPltoBeFtlfHd0r2kjylnlwHjhf9+QfoggBvDF5uYSMtRBn1YvtRU7nwpoWRwtH/PQ/eFTNkSNKjQ1mauQ==" data-module-id="./chunk-premium-runners.js" data-src="https://github.githubassets.com/assets/chunk-premium-runners-a8432280.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-Qu2HKdUf+ynK1J0vOiJR+WFSbEKE9vxITioZftbwGk9Q3rCXpvwFbCBhrICrMFw0QMR/sWrvDdLHwdkCh5Nb3A==" data-module-id="./chunk-presence-avatars.js" data-src="https://github.githubassets.com/assets/chunk-presence-avatars-42ed8729.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-5H5N/3G/20nmVKntphXb9z0H9q3URFDmHSccLhFkMSA8ILAA9mYlRKCWAWoDcl/W437jtGw1tIxjWStfInvidw==" data-module-id="./chunk-profile-pins-element.js" data-src="https://github.githubassets.com/assets/chunk-profile-pins-element-e47e4dff.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-vFR+IqThljOLrAWmjhOL/kiQrjgZZg95uPovX0J7kRH5p7Y049LDRZaXLMDijfeqqk71d3MMn9XP5bUcH+lB9w==" data-module-id="./chunk-profile.js" data-src="https://github.githubassets.com/assets/chunk-profile-bc547e22.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-RMjqfhv/Vks92zF45BCcDmPIABqRFk5HkEXyWTTX7gKmrTNx/bS/CGzEeBnWjgImkh9OTW6oJ8Ss8AtrUMjE9Q==" data-module-id="./chunk-project-picker-element.js" data-src="https://github.githubassets.com/assets/chunk-project-picker-element-44c8ea7e.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-MU7UjNfhOwMpfRSJ+AFgxtPNDENF6fScgs30W0liiQOAUXS4V+XcI2MQaun9+wQTxofnCiBFzTkhuLN2Jgtszw==" data-module-id="./chunk-pulse-authors-graph-element.js" data-src="https://github.githubassets.com/assets/chunk-pulse-authors-graph-element-314ed48c.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-MU7VY0mux9rnjbuPVXGG86/+7UndHVzcSyt3JvD+cxDXvvPzpQA8k/XrZHykVBw+5qUSjjjAnQ5WD/T/q5EJng==" data-module-id="./chunk-range.js" data-src="https://github.githubassets.com/assets/chunk-range-314ed563.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-zIAc7HphyO3fK9Vw6jTuHLgStO86B04bJ2sGGH0Oo6Ito2yJcRFH0InikGcVCYN3ijhvCn2kvfnUqq1Cp0h1cg==" data-module-id="./chunk-readme-toc-element.js" data-src="https://github.githubassets.com/assets/chunk-readme-toc-element-cc801cec.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-4aLsPyiz8vqmHsO/bT8AF1ucYnON4JsLOfK5rD85xxOWbSpjet1Ljn4lIy+c/Un7AawwEPW7MBiG+5u+JDD2aA==" data-module-id="./chunk-ref-selector.js" data-src="https://github.githubassets.com/assets/chunk-ref-selector-e1a2ec3f.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-rylM3uiZ0RoRl560qJv60gb35nFfvE8DRrVVYM3IAJQnjbqiewiw9KwY/3R3bdKp/ER3Knadmvc0xZWgjk8g3w==" data-module-id="./chunk-reload-after-polling-element.js" data-src="https://github.githubassets.com/assets/chunk-reload-after-polling-element-af294cde.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-wcrWJiip1kaZ5bE/0aT1pOYiQFetta4wJDJ1S/8rh5qVtBqzcopOQHuXGl/T81TokDQqnntm5aGHrcvdunteNQ==" data-module-id="./chunk-remote-clipboard-copy.js" data-src="https://github.githubassets.com/assets/chunk-remote-clipboard-copy-c1cad626.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-8ME7nLIXe5Oqqah8+VbsNkORdavh5B6Pddl9RvJGniLt1e85L3nu2N5yWhMaucy+pyqg3jUR0pJ7RI8nlNYDtA==" data-module-id="./chunk-remote-content-element.js" data-src="https://github.githubassets.com/assets/chunk-remote-content-element-f0c13b9c.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-pynyz8YmX6HxypunfwRC0mIeaBCgJQjNh//4T1PmwKUnYQDUIpDv6BhtFBZhnUhfMLvf35mePZJFSfnJDhokNA==" data-module-id="./chunk-reopen-button-element.js" data-src="https://github.githubassets.com/assets/chunk-reopen-button-element-a729f2cf.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-7t8DY9+F6n2sx9nbGLh1RyPJIkDB4uCJC2BGhD3M02aasID5qJQ+/Z9UwrW/ISQnk0UZjnskhSNb5qDVPISR9g==" data-module-id="./chunk-responsive-underlinenav.js" data-src="https://github.githubassets.com/assets/chunk-responsive-underlinenav-eedf0363.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-OtjCc7UezN3MvWiHOS/5lYkrBdHOAhcFrGD6/zMgTAugw5BSOaRrrux3wJxv9OlHHgxI32nOkesATHdRyucitA==" data-module-id="./chunk-runner-groups.js" data-src="https://github.githubassets.com/assets/chunk-runner-groups-3ad8c273.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-YT1sZoBexRNsvw2mnXAtdf87/5j3cL8ji/WS6h9F0mMh0wyUEx3EElel6roRMoI2Zq+bn5d1i8TSCeZJ84a6Rw==" data-module-id="./chunk-series-table.js" data-src="https://github.githubassets.com/assets/chunk-series-table-613d6c66.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-0ho0SIKf1TsQpvFNdpkKw57DmpU8LampLRvO67Q0G+6744f/qI8uTtL96F5tOPT56dG40cwoKB8v6kYqyGipvw==" data-module-id="./chunk-severity-calculator-element.js" data-src="https://github.githubassets.com/assets/chunk-severity-calculator-element-d21a3448.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-aVCinzyk7et6Yl7Swp8R2b9oxUBj8Usx4G/eLk+kaDr7kdk57F3SxXYHIaK6jTMBMpWRsRrdz8oQQhlnbCz50g==" data-module-id="./chunk-signalr-socket.js" data-src="https://github.githubassets.com/assets/chunk-signalr-socket-6950a29f.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-kpk/xM5AhmkuByDnb1knDUQvnMBr0eqesh59GTwuNVXvJ7sNe592sjSmcEcNK1hjGmNb2ekERsB07n0SseMD7w==" data-module-id="./chunk-slug.js" data-src="https://github.githubassets.com/assets/chunk-slug-92993fc4.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-SGxKZJPMoMDPJ4mVhReJ1NPmXxuTuePhizAUPkKphsivzZhVQstruqwewm3oUpP1yONOG8MITAodv/5iKRsEtw==" data-module-id="./chunk-sortable-behavior.js" data-src="https://github.githubassets.com/assets/chunk-sortable-behavior-486c4a64.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-roc/0cfaua9wDuXAOgLBYymh7ketXEgdvrXH5cKsDrwrHA8RdLZyyKvncKkwMTtAXvFBYnhOfxrRYJuu5kCyCQ==" data-module-id="./chunk-spoofed-commit-warning.js" data-src="https://github.githubassets.com/assets/chunk-spoofed-commit-warning-ae873fd1.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-n9CzyJxFxwIDn7201fJbWS0Pb+zHZ55ZREoB+DPm2fEEcVi6NQy9u74s28zd23c4HZcOQb+hgBHfx/evvTz0gg==" data-module-id="./chunk-stacked-area-chart.js" data-src="https://github.githubassets.com/assets/chunk-stacked-area-chart-9fd0b3c8.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-Z5vxYqlrzgKkUgwWnpxHQ7mGgyY4QVo6rX+t+/+TEiFrVv4hH0bIN7cl/YvFJ5FVrLz/LFu7mhSnEWByM5sJXw==" data-module-id="./chunk-stacks-input-config-view.js" data-src="https://github.githubassets.com/assets/chunk-stacks-input-config-view-679bf162.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-u7s7do1VEWaTTTYVuuV0g/DoKo0PULhBR2gyZ8zdD+qeypOEud/VSlmmgugsqS1qa2ee7tWW0hZtfW64NUV2LA==" data-module-id="./chunk-sync-details-icon.js" data-src="https://github.githubassets.com/assets/chunk-sync-details-icon-bbbb3b76.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-gmw7obKL/JEHWPp6zWFh+ynbXUFOidj1DN2aPiTDwP8Gair0moVuDmA340LD84A29I3ZPak19CEiumG+oIiseg==" data-module-id="./chunk-tag-input.js" data-src="https://github.githubassets.com/assets/chunk-tag-input-826c3ba1.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-0IOfDfOHJW06z0GwRYJjp03TxPkyF3OxjI4KP+rgd565nAqN0uN7QChz1+/v2/ueP2WXmWKOA6BA7byyMw2Lfw==" data-module-id="./chunk-three.module.js" data-src="https://github.githubassets.com/assets/chunk-three.module-d0839f0d.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-wbtDXrsp1UlaVwYqy/OhzlQoCcW05Y6X4Yij81VM9EVikXjOi1IFOj94YTV7/4pn8V0fzIC2tXTbqV3H9c215Q==" data-module-id="./chunk-time.js" data-src="https://github.githubassets.com/assets/chunk-time-c1bb435e.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-wIbptf1DKOsqdNtk6eFJNttwm/Rpkl3djUJp4AFKbFOJ29W4u19sJtGhVOQEgeCycpaRZKGuluEeSlilsTvV0A==" data-module-id="./chunk-tip.js" data-src="https://github.githubassets.com/assets/chunk-tip-c086e9b5.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-4GJz2wyWwjq7P4hyx3qSkjvnTO7RG5cWvnePVXPB+Oji6MBVugAdl7kCTKbpX8+Ae2ONvGJwFzSc9A7m1pqzXw==" data-module-id="./chunk-toast.js" data-src="https://github.githubassets.com/assets/chunk-toast-e06273db.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-ltLCW8IMbyitm42Birq6zurdnrQISouzbBpmdRjtSfspJQHfIU6K47VYlBYNFI+/WWyeOqCKX3gXJAkaYZUp8g==" data-module-id="./chunk-traffic-clones-graph-element.js" data-src="https://github.githubassets.com/assets/chunk-traffic-clones-graph-element-96d2c25b.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-pVgjdqKHFObxyJ0mlVHj6JtCh2L+fyRrMXxhVXt6t/vInTDhfRiOrf5qNh6Ymqq92JjKyXNJbmOsy/LGm3o3LA==" data-module-id="./chunk-traffic-visitors-graph-element.js" data-src="https://github.githubassets.com/assets/chunk-traffic-visitors-graph-element-a5582376.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-zSAZt0KaQlTdiPwxtiJWRHdMz6uoW46PkM/zU78IyWQre/829J0AFfNUuHwXBihMmjDnlUF8k1DE3Ecqo4RtFg==" data-module-id="./chunk-traffic.js" data-src="https://github.githubassets.com/assets/chunk-traffic-cd2019b7.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-R+tG3SLlxMfqFe/QsCsVkiImlyr9aDIRGs81jLQFG/8IC/WqUcHWrS4KJdn93V23uBIhL1CStpD5WOGltedi9g==" data-module-id="./chunk-turbo.es2017-esm.js" data-src="https://github.githubassets.com/assets/chunk-turbo.es2017-esm-47eb46dd.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-rI2FdWWXcE56q7o7zcRQcCNa7donqsw3tMrn5WWG6lCwDRUiNUkFOWooJnZvh6lITRL+vV6jIOlZYFn5M+4stg==" data-module-id="./chunk-tweetsodium.js" data-src="https://github.githubassets.com/assets/chunk-tweetsodium-ac8d8575.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-ODZJzCJpaOfusrIka5QVZQcPiO9LBGyrrMYjhhJWSLuCN5WbZ5xiEiiOPOKVu71dqygyRdB2TY7AKPA1J5hqdg==" data-module-id="./chunk-unveil.js" data-src="https://github.githubassets.com/assets/chunk-unveil-383649cc.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-glyISNNH3PCYkBseGJ4D7QcS+SljFMPQAEXxUn1zL3Z3ClEGD2h0ADSEq31GWGmSO9DCNDIbtxoCRnCxa0aAnA==" data-module-id="./chunk-user-status-submit.js" data-src="https://github.githubassets.com/assets/chunk-user-status-submit-825c8848.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-6yI/t7GcFRajrquWdg5NqQdrvgI4rWRWcuZhNmAHH/T2aw2iB0uAco9nNYoETW3zzJ+tmnC7qqfArrHaYmk1oQ==" data-module-id="./chunk-voting.js" data-src="https://github.githubassets.com/assets/chunk-voting-eb223fb7.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-q34Q0/s/exmYECvsCRWCxp+22UY2cZK8MPrKv3LjI3bNU5AD3Fzv+JhN0Lgfvd2mgju3llixlQ4z2RvkTIw2oA==" data-module-id="./chunk-webgl-warp.js" data-src="https://github.githubassets.com/assets/chunk-webgl-warp-ab7e10d3.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-fhp8EDqbNbae6xwqU8vIxb89PjZnn5tMKAJRXukI4l3n/MMRnhDkQ0XLt1a8gcaHTOvJ0HTElC0eU8RPpMboYA==" src="https://github.githubassets.com/assets/optimizely-7e1a7c10.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-sR1gW8F2rFzUxGOSFqgiREt05WjUvVe0tmpcMUzEUmsOG/vjdoYwnQLLGlmE/SGeRuxH+fA58WIv78XcLQPV0Q==" src="https://github.githubassets.com/assets/repositories-b11d605b.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-6MTdkW5Oj1vl4bYzQOpszj29H6pO1jBbhMQmgxMZJWhKrKopmOPV2IqVRWa9UiIYqHgcnGaco+JQNKeGIilkdg==" src="https://github.githubassets.com/assets/diffs-e8c4dd91.js"></script>
+  <script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-eq69kAPQRvi+t3BI+maGR7hFvMMonl5oCmDPrIgo4j5wrZ5Rzw+TXt+QvIcZvpVCBa1KollT4cDBVT8loGLjpw==" src="https://github.githubassets.com/assets/runtime-7aaebd9003d046f8beb7.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-4R07M5DT8py6P2DXtfrVThhQLmbpKrtvKzpesEDvv+u+peHdZYhUqO29lKtqIV2xSsRsp+0Je/rqGiP5DrzfsA==" src="https://github.githubassets.com/assets/environment-e11d3b3390d3f29cba3f.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-kNqwHlav5L2Mukcle7tXupmMeiHVLT3uLCMsysHozylFy7B3Y19x4Wz0lriaCP5ta5JUFS8HRCGq9nJkenK1dA==" src="https://github.githubassets.com/assets/vendors-node_modules_github_time-elements_dist_index_js-90dab01e56afe4bd8cba.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-sKp52WSw8LBxXX0h+UJSlH9MYZW98GsYOcSGRd4LcdGOG/CvGGh0QmRul8UOImgWT9SDRMrJ5tqesfD9IBySOA==" src="https://github.githubassets.com/assets/vendors-node_modules_github_clipboard-copy-element_dist_index_esm_js-node_modules_github_filt-19a0ad-b0aa79d964b0f0b0715d.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-rLCQojxysTkr6F4irGi01FcQpLibaqJHkhW3UuvlH95X3lKG8tz18pCMXJT3KYyyJZhA0/m68xOMAqX7J8F/Gw==" src="https://github.githubassets.com/assets/vendors-node_modules_github_file-attachment-element_dist_index_js-node_modules_primer_view-co-39bb4c-acb090a23c72b1392be8.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-aHgZnXJSGZ7fAdbqKmEl4GkYVB+flzM5Sw98Fxd6g7IlZmEA5FB9ekIFlPA/T2St2/QHPHGOo8WfYabvp78RMw==" src="https://github.githubassets.com/assets/github-elements-6878199d7252199edf01.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-8tE9d5PLdOnAWIw4nQXs61NQNnnfEgpAcDPU5Nluh7FbJcLESryauLbKbOUejHdBCqLOIrugLd7G6N5gMPLZWQ==" src="https://github.githubassets.com/assets/element-registry-f2d13d7793cb74e9c058.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-F7SA3pC11PslAEUk6TA2SQ+6Ir2A6OpLntLpKADLvDtUEMh3fXccjnmrM/0pUHeGsaFASjfMKVaLTG39h8j3gQ==" src="https://github.githubassets.com/assets/vendors-node_modules_selector-observer_dist_index_esm_js-17b480de90b5d4fb2500.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-76CFuCMhuPY9Ls7V4o/+lC/yS4EqrgL7sjnuP3MDAnIhvnGOFTUM9ppMnV0i8faC8z2vyGRRckdQ7p8Q/x3n1A==" src="https://github.githubassets.com/assets/vendors-node_modules_lit-html_lit-html_js-efa085b82321b8f63d2e.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-QnIHqG67H6D3T/FX6olsalm/FFMdAOc1FxuRkh2M9vzopeiH5IfiZhqQr79WSBWs2KMLACd9yTtjXRE3BawrXA==" src="https://github.githubassets.com/assets/vendors-node_modules_delegated-events_dist_index_js-node_modules_github_details-dialog-elemen-63debe-427207a86ebb1fa0f74f.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-/z1MQT2tQfPysaTcgXgT9uPWb9uCt2Ov7n4u1SFcdhW8sj8b37MfV7VjtLFqRVShasB8UYUMBJJ+IlOl+jF4Zg==" src="https://github.githubassets.com/assets/vendors-node_modules_github_remote-form_dist_index_js-node_modules_github_catalyst_lib_index_-87b1b3-ff3d4c413dad41f3f2b1.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-ItqMsiht+artrQ1p60HN/VqoxP0yt85mY5XlM8TZNq0wRJ9Z7Q0ph4oEgg9R1V5Xu3V3nL7eHV+N0EltYYIfow==" src="https://github.githubassets.com/assets/vendors-node_modules_github_mini-throttle_dist_index_js-node_modules_scroll-anchoring_dist_sc-c73d33-22da8cb2286df9aaedad.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-cVuaBDQZZFiRWPL76bZPbrNIIIE0M1vBkBC2EDi82Rk4ojjLIre9HX/pLu8WjE+W/eSFuLLgBcYMTyF2iYCaSQ==" src="https://github.githubassets.com/assets/vendors-node_modules_github_paste-markdown_dist_index_esm_js-node_modules_github_quote-select-64ba38-715b9a04341964589158.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-y1vYWcCoFyTv870y4rwJaXLS2lxqq9I4VOZwvFY4SUXkNoeh/NBZIZCU+iyo+yJz+xu14ALRsZxNlJ/hXL0y+Q==" src="https://github.githubassets.com/assets/github_behaviors_pjax_ts-cb5bd859c0a81724eff3.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-213i141Jjp8PP4OId/WT3JwY0p5JAWZnrpwlwNVvZ/4vOd9pzd4XrBCMatCS9q4UlsSj3+gppSAJWMBZh6d3pw==" src="https://github.githubassets.com/assets/github_behaviors_keyboard-shortcuts-helper_ts-github_behaviors_task-list_ts-github_has-intera-a8ebf7-db5de2d78d498e9f0f3f.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-zEW6ggSUelaDV4vqQevJAr2HyW6GrhBN/RKRITX1+lxNYzPQ3LGjhYG30FakXLAJmdvHF7GEwIVhPWtaKzOCDw==" src="https://github.githubassets.com/assets/github_behaviors_check-all_ts-github_behaviors_details_ts-github_behaviors_filterable_ts-gith-2ae856-cc45ba8204947a568357.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-wN9hphpXZj5sCGzQ5s1SkgTDs3DBMHT64l0lljAiTsJFhN4c0M8IJjN2NidWrKeMBJHoNCoL7xBHN8A9apegsQ==" src="https://github.githubassets.com/assets/github_behaviors_commenting_edit_ts-github_behaviors_html-validation_ts-c0df61a61a57663e6c08.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-35A7U6sVdIpQd7J8tb+v+ad3FJR2nE3ZC1l9uAlMRf6u09CYIBSuvZ/uG4P2obWEBBBxFOz4UWglAULITOX5Nw==" src="https://github.githubassets.com/assets/behaviors-df903b53ab15748a5077.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-BkycBDTQ+tHPyBQm7zqIOY5eSqZYMPqePdTfBS6rW9nq8VGUHpBw5mlC8Sy4fTa6bXmJxVN85NGaK+RlAx6inw==" src="https://github.githubassets.com/assets/vendors-node_modules_delegated-events_dist_index_js-node_modules_github_catalyst_lib_index_js-6e358f-064c9c0434d0fad1cfc8.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-gSUlnGnHKmINoRk01/KoBK0LxVdBMqfK0U6X2nc0ZmTDy8xrNKVIgoHmftuVrGqIPCyAoqy72PcpQImXIYkK2w==" src="https://github.githubassets.com/assets/notifications-global-8125259c69c72a620da1.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-Mee/pn7NIxi7MbRFsEguSyt3cXZX7E+jPhBFkNPUTLEJl7oH8QcvloHEXtgkWVA+nZUxMy7x0Y+BNDJ0/ZfTuQ==" src="https://github.githubassets.com/assets/vendors-node_modules_optimizely_optimizely-sdk_dist_optimizely_browser_es_min_js-node_modules-05bb82-31e7bfa67ecd2318bb31.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-IMpvTieRApomiO9HUQOZdCgTUgjTrX2l5PV3tYGCFT8xbAUB/9ANZmhijQjUuz5p2bEgAWtsTnMtmN4oN3Hmsg==" src="https://github.githubassets.com/assets/optimizely-20ca6f4e2791029a2688.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-Bsq/vnWDkuEm+QXwPfwYDBWkBS6m/qT1yMP16ynceWM9HX0JnWGHAypPMBI4Ti7KNL/iatWlQxrtr3e7zUxSXQ==" src="https://github.githubassets.com/assets/vendors-node_modules_virtualized-list_es_index_js-node_modules_github_template-parts_lib_index_js-06cabfbe758392e126f9.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-LuCb7WKNA821NqguMh3UGslY3SXw8hpFemsV4Efo3MRHiV/eG5JoHDCKIMo8Gr5oMSsh2J0M1nTi7uh+7Rd8UQ==" src="https://github.githubassets.com/assets/vendors-node_modules_github_mini-throttle_dist_decorators_js-node_modules_github_remote-form_-4b83bb-2ee09bed628d03cdb536.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-val03d8WUzq9ju6lfNY0AxrRqJZ620iv360gYE1Xxzh4AV0dJo2Lgas3VAtMuLHNA+HvRGfVssFDTxFO5v6O0g==" src="https://github.githubassets.com/assets/vendors-node_modules_github_file-attachment-element_dist_index_js-node_modules_github_filter--fd67a9-bda974dddf16533abd8e.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-ftc7EKFrKjVGYFfaI+m9AMoZbeup3sXJGzYGzRqXmM3eANkHupbbEk20tRNcaDfAJ1JFdttYxu985wUhxdrPhQ==" src="https://github.githubassets.com/assets/github_fetch_ts-github_form_ts-github_input-demux_ts-github_onfocus_ts-github_ref-selector_ts-607464-7ed73b10a16b2a354660.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-TM4HodFuaIQVNgT/F1j9HgLkV1d6EdUIPRwECU+K0ZCamS6xrj4dZy9H0qtM+MUQCPhXIOCYc5J6ziLPPhdFBw==" src="https://github.githubassets.com/assets/repositories-4cce07a1d16e68841536.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-oGqOqM/E2w1ZApZO7nVMiZovY8RcIdN8ScqiAYB8RmxpIXzmic+lCeA2NO4M/Dp8upEctVF+X0JI3RLA2f0Cig==" src="https://github.githubassets.com/assets/diffs-a06a8ea8cfc4db0d5902.js"></script>
   
 
   <meta name="viewport" content="width=device-width">
@@ -169,11 +73,11 @@
     
 
   <link rel="assets" href="https://github.githubassets.com/">
-    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/89189253/ws?session=eyJ2IjoiVjMiLCJ1Ijo4OTE4OTI1MywicyI6ODI4NTEwODYwLCJjIjozNDEzNjA4NjMyLCJ0IjoxNjQ2MzQyMzk4fQ==--c913c299865d1c2621f63f7ef94e360b628a6ddc074c936df2cb913416b1a34e" data-refresh-url="/_alive" data-session-id="149fb31a40c2b8b7113f225f72bde9d753a783c2d65df77459cd24d8b4160f69">
-    <link rel="shared-web-socket-src" href="/assets-cdn/worker/socket-worker-941b4c1e.js">
+    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/89189253/ws?session=eyJ2IjoiVjMiLCJ1Ijo4OTE4OTI1MywicyI6ODI4NTEwODYwLCJjIjoyMjI5NjM4MTU3LCJ0IjoxNjQ2NzM1MzgyfQ==--7dce7972a3557277cbe6044813322ec728a1c9b4c66154955f3c89fde4e1605f" data-refresh-url="/_alive" data-session-id="149fb31a40c2b8b7113f225f72bde9d753a783c2d65df77459cd24d8b4160f69">
+    <link rel="shared-web-socket-src" href="/assets-cdn/worker/socket-worker-22a4eda703748fc3479d.js">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
 
-  <meta name="request-id" content="066F:60AE:4FA1F9:53E041:622130F7" data-pjax-transient="true" /><meta name="html-safe-nonce" content="04bb07d5c5988cf8fce2da264ba6214efca4577cd214b036bc9c97bc58fe8389" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9lcmRlbWdvY2VuNDQvSmF2YVNjcmlwdC90cmVlL21hc3Rlci8wNF9Eb20vMDFfT3JuZWswMV9TZWxlY3RvciIsInJlcXVlc3RfaWQiOiIwNjZGOjYwQUU6NEZBMUY5OjUzRTA0MTo2MjIxMzBGNyIsInZpc2l0b3JfaWQiOiIzMzM1OTEzNjExNjc3MDgyNDA0IiwicmVnaW9uX2VkZ2UiOiJmcmEiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-pjax-transient="true" /><meta name="visitor-hmac" content="c610b1e0dd1b14383cf38d8c033fe83a6da877f63ed858581b722fe77df94fb3" data-pjax-transient="true" />
+  <meta name="request-id" content="F19A:06B4:2A42B20:2C844B8:62273014" data-pjax-transient="true" /><meta name="html-safe-nonce" content="04bb07d5c5988cf8fce2da264ba6214efca4577cd214b036bc9c97bc58fe8389" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9lcmRlbWdvY2VuNDQvSmF2YVNjcmlwdC90cmVlL21hc3Rlci9jb3VudGVyUHJvamVjdCIsInJlcXVlc3RfaWQiOiJGMTlBOjA2QjQ6MkE0MkIyMDoyQzg0NEI4OjYyMjczMDE0IiwidmlzaXRvcl9pZCI6IjMzMzU5MTM2MTE2NzcwODI0MDQiLCJyZWdpb25fZWRnZSI6ImZyYSIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-pjax-transient="true" /><meta name="visitor-hmac" content="bcf7af9cb57b7e8a931cb4d3651a6c7ed9ad1b70144744dd0bab8f97bf0a8694" data-pjax-transient="true" />
 
     <meta name="hovercard-subject-tag" content="repository:409684841" data-pjax-transient>
 
@@ -206,17 +110,17 @@
 
       <meta name="expected-hostname" content="github.com">
 
-      <meta name="js-proxy-site-detection-payload" content="ZTlmMzVlMzJlNGYyMDVkMDUyYjM1NmMxYmIzZWI3YWFkYTE4ODMwN2YyODc3MGYzNmIwNGRiODQ4OGM1NDU1OXx7InJlbW90ZV9hZGRyZXNzIjoiNS4xNzMuMTM3LjE4MCIsInJlcXVlc3RfaWQiOiIwNjZGOjYwQUU6NEZBMUY5OjUzRTA0MTo2MjIxMzBGNyIsInRpbWVzdGFtcCI6MTY0NjM0MjM5OCwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
+      <meta name="js-proxy-site-detection-payload" content="ZTEwZGYxOGQ5N2MyOWMyZjkxNTllMjJlNTZmOTgyMzc5YjBiYTg0MTdmYmYyY2M4NWUyZTg4ODU4OGU5MDIyMnx7InJlbW90ZV9hZGRyZXNzIjoiNS4xNzMuMTM2LjY2IiwicmVxdWVzdF9pZCI6IkYxOUE6MDZCNDoyQTQyQjIwOjJDODQ0Qjg6NjIyNzMwMTQiLCJ0aW1lc3RhbXAiOjE2NDY3MzUzODIsImhvc3QiOiJnaXRodWIuY29tIn0=">
       <meta name="keyboard-shortcuts-preference" content="all">
       <script type="application/json" id="memex_keyboard_shortcuts_preference">"all"</script>
 
     <meta name="enabled-features" content="ACTIONS_CALLABLE_WORKFLOWS,MARKETPLACE_PENDING_INSTALLATIONS,PRESENCE_IDLE">
 
 
-  <meta http-equiv="x-pjax-version" content="90252b1bf25f1e0c4cf1b09b11fc057ec51f85ac5ae47a05688d8cd636f881ba" data-turbo-track="reload">
+  <meta http-equiv="x-pjax-version" content="66ff9c7b656bf87aa03973ec9e7f77a26505c683dc1368ac9ea1196d66120e7c" data-turbo-track="reload">
   <meta http-equiv="x-pjax-csp-version" content="ad743a89372c421844ffcba4fd906096b07b7fd7c2a57617ff2d2f0fdf463e56" data-turbo-track="reload">
-  <meta http-equiv="x-pjax-css-version" content="51838b7fac5685cca82289cc316f3e63602d0444a5a3e71d164d478e1fbd31d3" data-turbo-track="reload">
-  <meta http-equiv="x-pjax-js-version" content="f817e63e6b6d409230f02bf46564889250d2d027b2b94d3aafa7b65295c91494" data-turbo-track="reload">
+  <meta http-equiv="x-pjax-css-version" content="25ac27538b5b08afb3a2ff78aa801af9d4ed14aa4e8a9de6849a500bbfba3486" data-turbo-track="reload">
+  <meta http-equiv="x-pjax-js-version" content="a17ff02b022feab5b28e8a77543176d6d9df07c5f2a9cb2d5ffa1ce2b560a85f" data-turbo-track="reload">
   
 
     
@@ -226,7 +130,7 @@
 
 
 
-    <link rel="canonical" href="https://github.com/erdemgocen44/JavaScript/blob/master/04_Dom/01_Ornek01_Selector/app.js" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/erdemgocen44/JavaScript/blob/master/counterProject/app.js" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -258,7 +162,10 @@
       
 
 
-        <script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-Esc1yPTVjWpCksIUePEa1SM0rQSdKnBgi3YoyjrbG/NNOirnj6uEak/rpYLmYo/oWUJGzvUouA49VLVQraWJbA==" src="https://github.githubassets.com/assets/command-palette-12c735c8.js"></script>
+        <script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-C82X5i0YvHVKQrmS024sJ0z7fQURX7WMh707B6VtNO00L0ZytQaGN6hCtTR9Vu+il8oaOs64WL3DOsHHukogLQ==" src="https://github.githubassets.com/assets/vendors-node_modules_github_mini-throttle_dist_decorators_js-node_modules_github_catalyst_lib-098f88-0bcd97e62d18bc754a42.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-QF/dXWNSgH/GxA4i2LS1u/uQdbfrJRXm/7WR8OXty7UHxYZ88BN8UYRkD2t+jhdfLjZ5kbr82oLn5XdERZmuzg==" src="https://github.githubassets.com/assets/vendors-node_modules_github_clipboard-copy-element_dist_index_esm_js-node_modules_delegated-e-e4591b-405fdd5d6352807fc6c4.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-HqOF1cf/LdOeyCwS0omnLUumbwFBUQbLNp+NB7GSqM3RZmKs+lfh7d0iDVjdLEdQW5G34xTSA3JQI6v7vlO1LA==" src="https://github.githubassets.com/assets/github_command-palette_command-palette-item-element_ts-1ea385d5c7ff2dd39ec8.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-eDojtzz7KW4Rc53XbQSaKCAf0LfuJArrH5dmUameltDzQBz9Xal/aHVIl9DqiJx0z2SprLtRKRhwOXVxrtN2hQ==" src="https://github.githubassets.com/assets/command-palette-783a23b73cfb296e1173.js"></script>
 
             <header class="Header js-details-container Details px-3 px-md-4 px-lg-5 flex-wrap flex-md-nowrap" role="banner" >
     <div class="Header-item mt-n1 mb-n1  d-none d-md-flex">
@@ -267,7 +174,7 @@
   href="https://github.com/"
   data-hotkey="g d"
   aria-label="Homepage "
-  data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/04_Dom/01_Ornek01_Selector/app.js&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="ccfd1aedc1b3d6ada6e3728dac78ecbb031883dbc6a73beff4f4b6c6cd0e56b6" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;}"
+  data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/counterProject/app.js&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="333265fc0f01d42b38824279bb135d51f6405cd3dc77ae9050a624673edf1906" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;}"
 >
   <svg height="32" aria-hidden="true" viewBox="0 0 16 16" version="1.1" width="32" data-view-component="true" class="octicon octicon-mark-github v-align-middle">
     <path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path>
@@ -311,7 +218,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" value="c1udoqgKCxld-Moj4IA7nbdYClJuQE-BrNiIkFKXttb__cUfWhRjmc3xduIWT-AT7JvD_i4fH56_Q7ZF22r_YQ" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+        <input type="hidden" value="cTcEE1OR0RhOrmWVD3kJ8gEihiT-yQ0lQo1jIVHwvN39kVyuoY-5mN6n2VT5ttJ8WuFPiL6WXTpRFl302A31ag" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -515,7 +422,7 @@
     <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:workspaces context:user" data-selected-links="/codespaces /codespaces" href="/codespaces">
       Codespaces
 </a>
-      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;Korkmaz29&quot;,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/04_Dom/01_Ornek01_Selector/app.js&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="79415ca0ac43af57ea635bcb62eae721ad23d504abebe63f344679f7d55dc506" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
+      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;Korkmaz29&quot;,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/counterProject/app.js&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="c91be964608f1550d70b00ee19c8af31e581e1bea4bd60d665980c1b4f03d350" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
 
     <a class="Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade" href="/settings/profile">
       Settings
@@ -524,12 +431,12 @@
       <img class="avatar avatar-user" loading="lazy" decoding="async" src="https://avatars.githubusercontent.com/u/89189253?s=40&amp;v=4" width="20" height="20" alt="@Korkmaz29" />
       Korkmaz29
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="mq0SrBzgr9dFTnZtSP6c0XTehKSbT2_-E9r8CW0SHtTIXLhTQ7bIbbmZt8iXGEEDimAn7565c284ThOA8LUj1g" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="1PkodNtg88-tsq3KzKbKSRXRPs1666CGyIDfc4gnB8aGCIKLhDaUdVFlbG8TQBeb62-dhn8dvBfjFDD6FYA6xA" />
       <button
         type="submit"
         class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade d-md-none btn-link d-block width-full text-left"
         style="padding-left: 2px;"
-        data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;sign out&quot;,&quot;label&quot;:&quot;icon:logout&quot;,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/04_Dom/01_Ornek01_Selector/app.js&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="f29910aab0f58c64e37b3a689886a919d02a50a4cfc9b53342e2499f7c65cf34" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;sign out&quot;,&quot;label&quot;:&quot;icon:logout&quot;}"
+        data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;sign out&quot;,&quot;label&quot;:&quot;icon:logout&quot;,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/counterProject/app.js&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="5fa3e0d8c73fc408142e04fa5629e8ae50775cae23cdf8f8c02f72d4ab8fd864" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;sign out&quot;,&quot;label&quot;:&quot;icon:logout&quot;}"
       >
         <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-sign-out v-align-middle">
     <path fill-rule="evenodd" d="M2 2.75C2 1.784 2.784 1 3.75 1h2.5a.75.75 0 010 1.5h-2.5a.25.25 0 00-.25.25v10.5c0 .138.112.25.25.25h2.5a.75.75 0 010 1.5h-2.5A1.75 1.75 0 012 13.25V2.75zm10.44 4.5H6.75a.75.75 0 000 1.5h5.69l-1.97 1.97a.75.75 0 101.06 1.06l3.25-3.25a.75.75 0 000-1.06l-3.25-3.25a.75.75 0 10-1.06 1.06l1.97 1.97z"></path>
@@ -546,7 +453,7 @@
   href="https://github.com/"
   data-hotkey="g d"
   aria-label="Homepage "
-  data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/04_Dom/01_Ornek01_Selector/app.js&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="ccfd1aedc1b3d6ada6e3728dac78ecbb031883dbc6a73beff4f4b6c6cd0e56b6" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;}"
+  data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/counterProject/app.js&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="333265fc0f01d42b38824279bb135d51f6405cd3dc77ae9050a624673edf1906" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;}"
 >
   <svg height="32" aria-hidden="true" viewBox="0 0 16 16" version="1.1" width="32" data-view-component="true" class="octicon octicon-mark-github v-align-middle">
     <path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path>
@@ -562,7 +469,7 @@
       <notification-indicator
         class="js-socket-channel"
         data-test-selector="notifications-indicator"
-        data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6ODkxODkyNTMiLCJ0IjoxNjQ2MzQyMzk4fQ==--cd8cd819892ec12e64dc8116eceead10f71004e1057f4c952e7f05d4f8e71c9a">
+        data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6ODkxODkyNTMiLCJ0IjoxNjQ2NzM1MzgyfQ==--8bcd3445d02d147a17347d61c86fdc30670471ccc2af809abc58aa706a573a60">
         <a href="/notifications"
           class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
           
@@ -585,7 +492,7 @@
   <summary
     class="Header-link"
     aria-label="Create new…"
-    data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;create new&quot;,&quot;label&quot;:&quot;icon:add&quot;,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/04_Dom/01_Ornek01_Selector/app.js&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="fa6925e1ad7f5741ea47b7879e2c82a22a4d6ae0897c494dc72c8ecb5d52a1f8" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;create new&quot;,&quot;label&quot;:&quot;icon:add&quot;}"
+    data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;create new&quot;,&quot;label&quot;:&quot;icon:add&quot;,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/counterProject/app.js&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="7626380e38bd5188819b2636bd322d90580902ecefbe272a81e603f389da0370" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;create new&quot;,&quot;label&quot;:&quot;icon:add&quot;}"
   >
       <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-plus">
     <path fill-rule="evenodd" d="M7.75 2a.75.75 0 01.75.75V7h4.25a.75.75 0 110 1.5H8.5v4.25a.75.75 0 11-1.5 0V8.5H2.75a.75.75 0 010-1.5H7V2.75A.75.75 0 017.75 2z"></path>
@@ -623,7 +530,7 @@
   <summary
     class="Header-link"
     aria-label="View profile and more"
-    data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;show menu&quot;,&quot;label&quot;:&quot;icon:avatar&quot;,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/04_Dom/01_Ornek01_Selector/app.js&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="edd912bbca5903d478161ad0ae4822b1eb877346355ae443d4b7e8d0e05054f5" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;show menu&quot;,&quot;label&quot;:&quot;icon:avatar&quot;}"
+    data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;show menu&quot;,&quot;label&quot;:&quot;icon:avatar&quot;,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/counterProject/app.js&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="e65fd66de822b8885a101802f819d758c7ef89e99839f7725a9a1e76d71ee97e" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;show menu&quot;,&quot;label&quot;:&quot;icon:avatar&quot;}"
   >
     <img src="https://avatars.githubusercontent.com/u/89189253?s=40&amp;v=4" alt="@Korkmaz29" size="20" height="20" width="20" data-view-component="true" class="avatar avatar-small circle" />
       <span class="feature-preview-indicator js-feature-preview-indicator" style="top: 1px;" hidden></span>
@@ -698,14 +605,19 @@
   <details-dialog class="command-palette-details-dialog d-flex flex-column flex-justify-center height-fit" aria-label="command palette">
     <command-palette
       class="command-palette color-bg-default rounded-3"
-      data-return-to=/erdemgocen44/JavaScript/blob/master/04_Dom/01_Ornek01_Selector/app.js
+      data-return-to=/erdemgocen44/JavaScript/blob/master/counterProject/app.js
       data-user-id="89189253"
       data-activation-hotkey="Mod+k,Mod+Alt+k"
       data-command-mode-hotkey="Mod+Shift+k"
+        data-action="
+          keydown:command-palette#onKeydown
+          loadingStateChanged:command-palette#loadingStateChanged
+          selectedItemChanged:command-palette#selectedItemChanged
+        "
       >
 
       <input type="hidden" name="color-mode-path" id="color-mode-path" value="/settings/appearance/color_mode" class="js-color-mode-path" autocomplete="off" />
-      <input type="hidden" value="TIbjmeP09QSzLpxo2PdcjMZHIy2wzW50exDAvl-E9LeNXz1gI6Gqg6A89uKHnxjxOMGULV4eFQihYQ3WKXK6DQ" data-csrf="true" class="js-color-mode-csrf" />
+      <input type="hidden" value="msOIPp3wzowxMmyUtHJ4yMytW7_VrQ4QldgWbTE87vtbGlbHXaWRCyIgBh7rGjy1Mivsvzt-dWxPqdsFR8qgQQ" data-csrf="true" class="js-color-mode-csrf" />
 
         <command-palette-mode
           data-char="#"
@@ -756,6 +668,12 @@
       ></command-palette-mode>
 
       <command-palette-input placeholder="Search or jump to..."
+        data-action="
+          command-palette-input:command-palette#onInput
+          command-palette-select:command-palette#onSelect
+          command-palette-descope:command-palette#onDescope
+          command-palette-cleared:command-palette#onInputClear
+        "
       >
         <div class="js-search-icon d-flex flex-items-center mr-2" style="height: 26px">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-search color-fg-muted">
@@ -828,15 +746,26 @@
             aria-autocomplete="list"
             aria-controls="command-palette-item-stack"
             role="combobox"
+            data-action="
+              input:command-palette-input#onInput
+              keydown:command-palette-input#onKeydown
+            "
           >
         </div>
-        <button aria-label="clear command palette" aria-keyshortcuts="Control+Backspace" id="command-palette-clear-button" type="button" data-view-component="true" class="btn-octicon js-clear command-palette-input-clear-button"><svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x-circle-fill">
+        <button aria-label="clear command palette" aria-keyshortcuts="Control+Backspace" data-action="click:command-palette-input#onClear keydown:command-palette-input#onClear" id="command-palette-clear-button" type="button" data-view-component="true" class="btn-octicon js-clear command-palette-input-clear-button"><svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x-circle-fill">
     <path fill-rule="evenodd" d="M2.343 13.657A8 8 0 1113.657 2.343 8 8 0 012.343 13.657zM6.03 4.97a.75.75 0 00-1.06 1.06L6.94 8 4.97 9.97a.75.75 0 101.06 1.06L8 9.06l1.97 1.97a.75.75 0 101.06-1.06L9.06 8l1.97-1.97a.75.75 0 10-1.06-1.06L8 6.94 6.03 4.97z"></path>
 </svg></button>
         <primer-tooltip hidden="hidden" for="command-palette-clear-button" data-direction="w" data-type="description" data-view-component="true">Clear</primer-tooltip>
       </command-palette-input>
 
-        <command-palette-item-stack id="command-palette-item-stack" class="item-stack-transition-height"  role="listbox" aria-label="Command palette results">
+        <command-palette-item-stack
+          id="command-palette-item-stack"
+          class="item-stack-transition-height"
+          
+          role="listbox"
+          aria-label="Command palette results"
+          data-action="itemsUpdated:command-palette#itemsUpdated"
+        >
             <command-palette-tip
               class="color-fg-muted f6 px-3 py-1 my-2"
               data-mode=""
@@ -1567,7 +1496,7 @@
         data-action="toggle:notifications-list-subscription-form#detailsToggled"
       >
 
-      <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:409684841,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/04_Dom/01_Ornek01_Selector/app.js&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="26a1be1b2650032c8d625f5d78b9c2b09810898a2119f70997a49fc195b2f155" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">  <span data-menu-button>
+      <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:409684841,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/counterProject/app.js&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="f35e678d50a924b98a71428ed9ad5b17c0f463643f854b9e1b7d5769a54bae53" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">  <span data-menu-button>
             <span
               hidden
               
@@ -1619,7 +1548,7 @@
             </header>
 
             <div class="SelectMenu-list">
-              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="8P6focl510JUz9rh4lMhfGvmC_6IoWrzIWt2IEck6EqEWgNzmw7UAp69mDCYJonF6LMPtCGhG1BwEM6KTD-8IA" autocomplete="off" />
+              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="F_MqKrZXm71pqfXtxUheiYUX0yaawiVt6NTbke-C_AtjV7b45CCY_aPbtzy_PfYwBkLXbDPCVM65r2M75JmoYQ" autocomplete="off" />
 
                 <input type="hidden" name="repository_id" value="409684841">
 
@@ -1747,7 +1676,7 @@
           hidden
         >
           <div class="SelectMenu-modal notifications-component-dialog-modal overflow-visible">
-            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="9zbsDEWU8PRMCeMdDZWZNmJua1nDv_FXemYwwvF4w3WDknDeF-PztIZ7ocx34DGP4TtvE2q_gPQrHYho-mOXHw" autocomplete="off" />
+            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="1irpJ6EhFr1RQXHoL_CodmCsEozyGruuat0Uo1Xj1mSijnX181YV_ZszMzlVhQDP4_kWxlsayg07pqwJXviCDg" autocomplete="off" />
 
               <input type="hidden" name="repository_id" value="409684841">
 
@@ -1892,8 +1821,8 @@
   </li>
 
   <li>
-            <form class="btn-with-count" action="/erdemgocen44/JavaScript/fork" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="POxO0zPgJe0V_PKbaghsT2J_EUZKTr7ynNNcZQrnKdneUvC_M-o0CugEPDD_tSMZOYnHI26yN6nX2Nfn65vkGQ" autocomplete="off" />
-        <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:409684841,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/04_Dom/01_Ornek01_Selector/app.js&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="feb2e1625042bccf18acc7c53ab9be1502173911de605fa6a1fddcd58de6d09c" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" aria-label="Fork your own copy of erdemgocen44/JavaScript to your account" type="submit" data-view-component="true" class="btn-sm btn">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
+            <form class="btn-with-count" action="/erdemgocen44/JavaScript/fork" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="wL83e2eUflachmwN-E26D-6hVdS6A0qcg-jEKlmxhJIiAYkXZ55vsWF-oqZt8PVZtVeDsZ7_w8fI40-ouM1JUg" autocomplete="off" />
+        <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:409684841,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/counterProject/app.js&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="2c8850ce10ea09a74aeee1d046541bdd0932bb0172627e3a157288dad4ae2164" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" aria-label="Fork your own copy of erdemgocen44/JavaScript to your account" type="submit" data-view-component="true" class="btn-sm btn">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
     <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path>
 </svg>Fork
           <span id="repo-network-counter" data-pjax-replace="true" title="0" data-view-component="true" class="Counter">0</span>
@@ -1920,24 +1849,24 @@
 </template>
 
   <div data-view-component="true" class="js-toggler-container js-social-container starring-container BtnGroup d-flex">
-    <form class="starred js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" action="/erdemgocen44/JavaScript/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Jogfuuw9NyzEewyh29R8Uf-nq34axzC-BfQKpt7CBtkJPZwZgfhz9wNHhpW-c5CkUNTjQQN0YwLonqtGsNU8vw" autocomplete="off" />
-        <input type="hidden" value="ZnTyTQmqg37znsAY6jh9sUKVqzgEvsO6Zj-Ag5eZiudJwXHuZG_HpTSiSiyPn5FE7ebjBx0NkAaLVSFj-Y6wgQ" data-csrf="true" class="js-confirm-csrf-token" />
+    <form class="starred js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" action="/erdemgocen44/JavaScript/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="0qHjrWdIBlbjpCWv3vPExwp5DUJm2TtSANopOOMaLuP9FGAOCo1CjSSYr5u7VCgypQpFfX9qaO7tsIjYjQ0UhQ" autocomplete="off" />
+        <input type="hidden" value="gQasAZJSxdmA13EqtQzbOU1c1nLEv2onD3qCFRZUH-Kusy-i_5eBAkfr-x7QqzfM4i-eTd0MOZviECP1eEMlhA" data-csrf="true" class="js-confirm-csrf-token" />
       <input type="hidden" name="context" value="repository">
-      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:409684841,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/04_Dom/01_Ornek01_Selector/app.js&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="52a49fbb65743c56c64ed4c94e56b16c97863cb3ff8e335e4f286776d094671e" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository" type="submit" data-view-component="true" class="rounded-left-2 border-right-0 btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
+      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:409684841,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/counterProject/app.js&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="dc7561ac54c0f88d12d3eb54d4bee382831ec1b450ab89aba69668579b53744e" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository" type="submit" data-view-component="true" class="rounded-left-2 border-right-0 btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path>
 </svg><span data-view-component="true" class="d-inline">
           Starred
 </span>          <span id="repo-stars-counter-unstar" aria-label="0 users starred this repository" data-singular-suffix="user starred this repository" data-plural-suffix="users starred this repository" data-pjax-replace="true" title="0" data-view-component="true" class="Counter js-social-count">0</span>
 </button></form>
-    <form class="unstarred js-social-form BtnGroup-parent flex-auto" action="/erdemgocen44/JavaScript/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="v915s4_6WMeNdjAomBCyAyVQH2xy-BrfAtyUfeFimTGE9sgh6-o70gUUDmNIsxykPPDZwtjTlL_27ZPydSqHPQ" autocomplete="off" />
+    <form class="unstarred js-social-form BtnGroup-parent flex-auto" action="/erdemgocen44/JavaScript/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Z4l7eOWJNAQ29fn6q0NPaoyP_hDENG2MgSyRfLWlHQpcosrqgZlXEb6Xx7F74OHNlS84vm4f4-x1HZbzIe0DBg" autocomplete="off" />
       <input type="hidden" name="context" value="repository">
-      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:409684841,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/04_Dom/01_Ornek01_Selector/app.js&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="6a32765100189c92b3fc1a00c98eb15d5670cf6f927b118b834de1731a1f791f" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
+      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:409684841,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/counterProject/app.js&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="4b14e0b2a770b7450163bc462b1fda21cb80c0995d37ba0da4687228f36886ff" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path>
 </svg><span data-view-component="true" class="d-inline">
           Star
 </span>          <span id="repo-stars-counter-star" aria-label="0 users starred this repository" data-singular-suffix="user starred this repository" data-plural-suffix="users starred this repository" data-pjax-replace="true" title="0" data-view-component="true" class="Counter js-social-count">0</span>
 </button></form>
-      <details id="details-fa861c" data-view-component="true" class="details-reset details-overlay BtnGroup-parent js-user-list-menu d-inline-block position-relative">
+      <details id="details-da85b8" data-view-component="true" class="details-reset details-overlay BtnGroup-parent js-user-list-menu d-inline-block position-relative">
       <summary aria-label="Add this repository to a list" data-view-component="true" class="btn-sm btn BtnGroup-item px-2 float-none">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-triangle-down">
     <path d="M4.427 7.427l3.396 3.396a.25.25 0 00.354 0l3.396-3.396A.25.25 0 0011.396 7H4.604a.25.25 0 00-.177.427z"></path>
 </svg>
@@ -1950,13 +1879,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-fa861c">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-da85b8">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-fa861c"
+        id="filter-menu-da85b8"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2157,11 +2086,12 @@
 
 
 
-    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/erdemgocen44/JavaScript/blob/09efd10765b547e31943667097977203d57ff0a9/04_Dom/01_Ornek01_Selector/app.js">Permalink</a>
 
+    
+<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/erdemgocen44/JavaScript/blob/09efd10765b547e31943667097977203d57ff0a9/counterProject/app.js">Permalink</a>
 
-    <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
-      
+<div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
+  
 <div class="position-relative">
   <details class="details-reset details-overlay mr-0 mb-0 " id="branch-select-menu">
     <summary class="btn css-truncate"
@@ -2243,7 +2173,7 @@
             </div>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/erdemgocen44/JavaScript/blob/{{ urlEncodedRefName }}/04_Dom/01_Ornek01_Selector/app.js" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/erdemgocen44/JavaScript/blob/{{ urlEncodedRefName }}/counterProject/app.js" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2283,7 +2213,7 @@
             </template>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/erdemgocen44/JavaScript/blob/{{ urlEncodedRefName }}/04_Dom/01_Ornek01_Selector/app.js" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/erdemgocen44/JavaScript/blob/{{ urlEncodedRefName }}/counterProject/app.js" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2313,10 +2243,10 @@
 
 </div>
 
-      <h2 id="blob-path" class="breadcrumb flex-auto flex-self-center min-width-0 text-normal mx-2 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-        <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/erdemgocen44/JavaScript"><span>JavaScript</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/erdemgocen44/JavaScript/tree/master/04_Dom"><span>04_Dom</span></a></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/erdemgocen44/JavaScript/tree/master/04_Dom/01_Ornek01_Selector"><span>01_Ornek01_Selector</span></a></span><span class="separator">/</span><strong class="final-path">app.js</strong>
-          <span class="separator">/</span><details class="details-reset details-overlay d-inline" id="jumpto-symbol-select-menu">
-  <summary aria-haspopup="true" data-hotkey="r" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.click_on_blob_definitions&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;click_on_blob_definitions&quot;,&quot;repository_id&quot;:409684841,&quot;ref&quot;:&quot;master&quot;,&quot;language&quot;:&quot;JavaScript&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/04_Dom/01_Ornek01_Selector/app.js&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="9e5e6dfa710d99ab22ed13bb43779c51c59596c3beb5b3a5136f551a5af43035" data-view-component="true" class="Link--secondary css-truncate btn-link">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
+  <h2 id="blob-path" class="breadcrumb flex-auto flex-self-center min-width-0 text-normal mx-2 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
+    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/erdemgocen44/JavaScript"><span>JavaScript</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/erdemgocen44/JavaScript/tree/master/counterProject"><span>counterProject</span></a></span><span class="separator">/</span><strong class="final-path">app.js</strong>
+      <span class="separator">/</span><details class="details-reset details-overlay d-inline" id="jumpto-symbol-select-menu">
+  <summary aria-haspopup="true" data-hotkey="r" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.click_on_blob_definitions&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;click_on_blob_definitions&quot;,&quot;repository_id&quot;:409684841,&quot;ref&quot;:&quot;master&quot;,&quot;language&quot;:&quot;JavaScript&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/counterProject/app.js&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="170216d6264ffca8c53807a5b29675e7868d820663a08ab4a763d196275ecf3e" data-view-component="true" class="Link--secondary css-truncate btn-link">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
     <path fill-rule="evenodd" d="M4.72 3.22a.75.75 0 011.06 1.06L2.06 8l3.72 3.72a.75.75 0 11-1.06 1.06L.47 8.53a.75.75 0 010-1.06l4.25-4.25zm6.56 0a.75.75 0 10-1.06 1.06L13.94 8l-3.72 3.72a.75.75 0 101.06 1.06l4.25-4.25a.75.75 0 000-1.06l-4.25-4.25z"></path>
 </svg>
     <span data-menu-button>Jump to</span>
@@ -2344,25 +2274,7 @@
         </div>
       <div class="SelectMenu-list">
         <div data-filterable-for="jumpto-symbols-filter-field" data-filterable-type="substring">
-            <a class="SelectMenu-item d-flex flex-justify-between css-truncate" role="menuitemradio" aria-checked="false" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.navigate_to_blob_definition&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;navigate_to_blob_definition&quot;,&quot;repository_id&quot;:409684841,&quot;ref&quot;:&quot;master&quot;,&quot;language&quot;:&quot;JavaScript&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/04_Dom/01_Ornek01_Selector/app.js&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="85c1dec3599576c342aa36d75ea5031fce2be17238407b8b2a3404e36b4dbae2" href="/erdemgocen44/JavaScript/blob/master/04_Dom/01_Ornek01_Selector/app.js#L98">
-              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
-    <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
-</svg>
-              <span class="flex-auto css-truncate-target" data-menu-button-text>onclick</span>
-              <span class="flex-auto d-flex flex-justify-end">Function</span>
-</a>            <a class="SelectMenu-item d-flex flex-justify-between css-truncate" role="menuitemradio" aria-checked="false" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.navigate_to_blob_definition&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;navigate_to_blob_definition&quot;,&quot;repository_id&quot;:409684841,&quot;ref&quot;:&quot;master&quot;,&quot;language&quot;:&quot;JavaScript&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/04_Dom/01_Ornek01_Selector/app.js&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="85c1dec3599576c342aa36d75ea5031fce2be17238407b8b2a3404e36b4dbae2" href="/erdemgocen44/JavaScript/blob/master/04_Dom/01_Ornek01_Selector/app.js#L108">
-              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
-    <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
-</svg>
-              <span class="flex-auto css-truncate-target" data-menu-button-text>onmouseover</span>
-              <span class="flex-auto d-flex flex-justify-end">Function</span>
-</a>            <a class="SelectMenu-item d-flex flex-justify-between css-truncate" role="menuitemradio" aria-checked="false" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.navigate_to_blob_definition&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;navigate_to_blob_definition&quot;,&quot;repository_id&quot;:409684841,&quot;ref&quot;:&quot;master&quot;,&quot;language&quot;:&quot;JavaScript&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/04_Dom/01_Ornek01_Selector/app.js&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="85c1dec3599576c342aa36d75ea5031fce2be17238407b8b2a3404e36b4dbae2" href="/erdemgocen44/JavaScript/blob/master/04_Dom/01_Ornek01_Selector/app.js#L112">
-              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
-    <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
-</svg>
-              <span class="flex-auto css-truncate-target" data-menu-button-text>onmouseout</span>
-              <span class="flex-auto d-flex flex-justify-end">Function</span>
-</a>        </div>
+        </div>
       </div>
       <footer class="SelectMenu-footer">
         <div class="d-flex flex-justify-between">
@@ -2374,55 +2286,51 @@
   </details-menu>
 </details>
 
-      </h2>
-      <a href="/erdemgocen44/JavaScript/find/master"
-            class="js-pjax-capture-input btn mr-2 d-none d-md-block"
-            data-pjax
-            data-hotkey="t">
-        Go to file
-      </a>
-
-      <details id="blob-more-options-details" data-view-component="true" class="details-overlay details-reset position-relative">
+  </h2>
+  <a href="/erdemgocen44/JavaScript/find/master" data-pjax="" data-hotkey="t" data-view-component="true" class="js-pjax-capture-input btn mr-2 d-none d-md-block">  Go to file
+</a>
+  <details id="blob-more-options-details" data-view-component="true" class="details-overlay details-reset position-relative">
   <summary role="button" data-view-component="true" class="btn">  <svg aria-label="More options" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal">
     <path d="M8 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM1.5 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zm13 0a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path>
 </svg>
 </summary>
-  <div data-view-component="true">          <ul class="dropdown-menu dropdown-menu-sw">
-            <li class="d-block d-md-none">
-              <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:409684841,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/04_Dom/01_Ornek01_Selector/app.js&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="01948b7494ea92ed4787578f6f2a382a627deede0b015a0ed3ff037901129dc1" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/erdemgocen44/JavaScript/find/master">
-                <span class="flex-auto">Go to file</span>
-                <span class="text-small color-fg-muted" aria-hidden="true">T</span>
-</a>            </li>
-            <li data-toggle-for="blob-more-options-details">
-              <button data-toggle-for="jumpto-line-details-dialog" type="button" data-view-component="true" class="dropdown-item btn-link">  <span class="d-flex flex-items-baseline">
-                  <span class="flex-auto">Go to line</span>
-                  <span class="text-small color-fg-muted" aria-hidden="true">L</span>
-                </span>
-</button>            </li>
-            <li data-toggle-for="blob-more-options-details">
-              <button data-toggle-for="jumpto-symbol-select-menu" type="button" data-view-component="true" class="dropdown-item btn-link">  <span class="d-flex flex-items-baseline">
-                  <span class="flex-auto">Go to definition</span>
-                  <span class="text-small color-fg-muted" aria-hidden="true">R</span>
-                </span>
-</button>            </li>
-            <li class="dropdown-divider" role="none"></li>
-            <li>
-              <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="04_Dom/01_Ornek01_Selector/app.js" data-view-component="true" class="dropdown-item cursor-pointer">
+  <div data-view-component="true">      <ul class="dropdown-menu dropdown-menu-sw">
+        <li class="d-block d-md-none">
+          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:409684841,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/counterProject/app.js&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="87a94ea99a58da44fc246355b00978523eef3c4f2a9c256c481105d08942d638" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/erdemgocen44/JavaScript/find/master">
+            <span class="flex-auto">Go to file</span>
+            <span class="text-small color-fg-muted" aria-hidden="true">T</span>
+</a>        </li>
+        <li data-toggle-for="blob-more-options-details">
+          <button data-toggle-for="jumpto-line-details-dialog" type="button" data-view-component="true" class="dropdown-item btn-link">  <span class="d-flex flex-items-baseline">
+              <span class="flex-auto">Go to line</span>
+              <span class="text-small color-fg-muted" aria-hidden="true">L</span>
+            </span>
+</button>        </li>
+        <li data-toggle-for="blob-more-options-details">
+          <button data-toggle-for="jumpto-symbol-select-menu" type="button" data-view-component="true" class="dropdown-item btn-link">  <span class="d-flex flex-items-baseline">
+              <span class="flex-auto">Go to definition</span>
+              <span class="text-small color-fg-muted" aria-hidden="true">R</span>
+            </span>
+</button>        </li>
+        <li class="dropdown-divider" role="none"></li>
+        <li>
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="counterProject/app.js" data-view-component="true" class="dropdown-item cursor-pointer">
     
-                Copy path
+            Copy path
 
-</clipboard-copy>            </li>
-            <li>
-              <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/erdemgocen44/JavaScript/blob/09efd10765b547e31943667097977203d57ff0a9/04_Dom/01_Ornek01_Selector/app.js" data-view-component="true" class="dropdown-item cursor-pointer">
+</clipboard-copy>        </li>
+        <li>
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/erdemgocen44/JavaScript/blob/09efd10765b547e31943667097977203d57ff0a9/counterProject/app.js" data-view-component="true" class="dropdown-item cursor-pointer">
     
-                <span class="d-flex flex-items-baseline">
-                  <span class="flex-auto">Copy permalink</span>
-                </span>
+            <span class="d-flex flex-items-baseline">
+              <span class="flex-auto">Copy permalink</span>
+            </span>
 
-</clipboard-copy>            </li>
-          </ul>
+</clipboard-copy>        </li>
+      </ul>
 </div>
-</details>    </div>
+</details></div>
+
 
 
 
@@ -2444,17 +2352,18 @@
     <include-fragment src="/erdemgocen44/JavaScript/spoofed_commit_check/09efd10765b547e31943667097977203d57ff0a9" data-test-selector="spoofed-commit-check"></include-fragment>
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-      <include-fragment src="/erdemgocen44/JavaScript/contributors/master/04_Dom/01_Ornek01_Selector/app.js" class="commit-loader">
-        <div class="Box-header d-flex flex-items-center">
-          <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
-          <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
-        </div>
+  <include-fragment src="/erdemgocen44/JavaScript/contributors/master/counterProject/app.js" class="commit-loader">
+    <div class="Box-header d-flex flex-items-center">
+      <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
+      <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
+    </div>
 
-        <div class="Box-body d-flex flex-items-center" >
-          <div class="Skeleton Skeleton--text col-1">&nbsp;</div>
-          <span class="color-fg-danger h6 loader-error">Cannot retrieve contributors at this time</span>
-        </div>
-</include-fragment>    </div>
+    <div class="Box-body d-flex flex-items-center" >
+      <div class="Skeleton Skeleton--text col-1">&nbsp;</div>
+      <span class="color-fg-danger h6 loader-error">Cannot retrieve contributors at this time</span>
+    </div>
+</include-fragment></div>
+
 
 
       
@@ -2476,17 +2385,17 @@
 
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1">
 
-      115 lines (90 sloc)
+      27 lines (25 sloc)
       <span class="file-info-divider"></span>
-    4.63 KB
+    694 Bytes
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between hide-sm hide-md">
       
 
     <div class="BtnGroup">
-      <a data-permalink-href="/erdemgocen44/JavaScript/raw/09efd10765b547e31943667097977203d57ff0a9/04_Dom/01_Ornek01_Selector/app.js" href="/erdemgocen44/JavaScript/raw/master/04_Dom/01_Ornek01_Selector/app.js" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">  Raw
-</a>        <a data-permalink-href="/erdemgocen44/JavaScript/blame/09efd10765b547e31943667097977203d57ff0a9/04_Dom/01_Ornek01_Selector/app.js" href="/erdemgocen44/JavaScript/blame/master/04_Dom/01_Ornek01_Selector/app.js" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">  Blame
+      <a data-permalink-href="/erdemgocen44/JavaScript/raw/09efd10765b547e31943667097977203d57ff0a9/counterProject/app.js" href="/erdemgocen44/JavaScript/raw/master/counterProject/app.js" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">  Raw
+</a>        <a data-permalink-href="/erdemgocen44/JavaScript/blame/09efd10765b547e31943667097977203d57ff0a9/counterProject/app.js" href="/erdemgocen44/JavaScript/blame/master/counterProject/app.js" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">  Blame
 </a>    </div>
 
     <div>
@@ -2500,11 +2409,11 @@
 </svg>
           </a>
 
-        <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/erdemgocen44/JavaScript/raw/master/04_Dom/01_Ornek01_Selector/app.js" data-action="click:remote-clipboard-copy#remoteCopy">
+        <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/erdemgocen44/JavaScript/raw/master/counterProject/app.js" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
 
-  <span data-target="remote-clipboard-copy.idle">            <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:409684841,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/04_Dom/01_Ornek01_Selector/app.js&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="bf641f4e39458c704c1afbd3c1aa9c45f6802f78aca228f8d98e0fb62554c59f" aria-label="Copy raw contents">
+  <span data-target="remote-clipboard-copy.idle">            <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:409684841,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/counterProject/app.js&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="517f9df3ad90fbaf3e8eaec57550caa2786c5e9d127f042d6f916dd29883192e" aria-label="Copy raw contents">
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy">
     <path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path>
 </svg>
@@ -2527,7 +2436,7 @@
             </span>
 </span>
 </remote-clipboard-copy>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/erdemgocen44/JavaScript/edit/master/04_Dom/01_Ornek01_Selector/app.js" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="yBgk1IKfCBt6cNWJoPbfFF4WMiVl1YeQ1TfyXxeO0cZfLUsUYRCZpMrWuoLW_rIkJlj3AEJLdUtJC-o-UpnasA" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/erdemgocen44/JavaScript/edit/master/counterProject/app.js" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="o3ki9sQP67A9xQOhYkO5Q-L9R5zCieX4OJFOllS2MviVK9JG3IceQRNmP8Oq9UJi2HDxPnAX5xX1ycIAI_iR8w" />
             <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and edit the file" data-hotkey="e" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
@@ -2535,7 +2444,7 @@
 </svg>
             </button>
 </form>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/erdemgocen44/JavaScript/delete/master/04_Dom/01_Ornek01_Selector/app.js" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="DcbIjJlI1z5UPLvXAuBtOJLyU7GSsOEsO1aIcqLekcJU-IqZQTfBajuIrBSdh16ty7cbdcW72Fu2RHm2IB1ybA" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/erdemgocen44/JavaScript/delete/master/counterProject/app.js" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="wolMVvDhak6KsJTEstV-_5kxEmfyc2pSaA0VG_0CuNKjnrGaEDcBMBwahJ2hkXVAK6zUwfx6I5-oFFI2BmF97g" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and delete the file" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-trash">
@@ -2563,15 +2472,15 @@
                 </a>
             </li>
           <li>
-            <a class="dropdown-item" href="/erdemgocen44/JavaScript/raw/master/04_Dom/01_Ornek01_Selector/app.js">
+            <a class="dropdown-item" href="/erdemgocen44/JavaScript/raw/master/counterProject/app.js">
               View raw
             </a>
           </li>
             <li>
-              <remote-clipboard-copy class="dropdown-item" data-src="/erdemgocen44/JavaScript/raw/master/04_Dom/01_Ornek01_Selector/app.js" data-action="click:remote-clipboard-copy#remoteCopy">
+              <remote-clipboard-copy class="dropdown-item" data-src="/erdemgocen44/JavaScript/raw/master/counterProject/app.js" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
-  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:409684841,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/04_Dom/01_Ornek01_Selector/app.js&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="bf641f4e39458c704c1afbd3c1aa9c45f6802f78aca228f8d98e0fb62554c59f">
+  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:409684841,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/counterProject/app.js&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="517f9df3ad90fbaf3e8eaec57550caa2786c5e9d127f042d6f916dd29883192e">
                     Copy raw contents
 </span></span>
   <span data-target="remote-clipboard-copy.fetching" hidden="hidden">                  Copy raw contents
@@ -2594,17 +2503,17 @@
 </span>
 </remote-clipboard-copy>            </li>
             <li>
-              <a class="dropdown-item" href="/erdemgocen44/JavaScript/blame/master/04_Dom/01_Ornek01_Selector/app.js">
+              <a class="dropdown-item" href="/erdemgocen44/JavaScript/blame/master/counterProject/app.js">
                 View blame
               </a>
             </li>
 
               <li class="dropdown-divider" role="none"></li>
               <li>
-                <a class="dropdown-item" href="/erdemgocen44/JavaScript/edit/master/04_Dom/01_Ornek01_Selector/app.js">Edit file</a>
+                <a class="dropdown-item" href="/erdemgocen44/JavaScript/edit/master/counterProject/app.js">Edit file</a>
               </li>
               <li>
-                <a class="dropdown-item menu-item-danger" href="/erdemgocen44/JavaScript/delete/master/04_Dom/01_Ornek01_Selector/app.js">Delete file</a>
+                <a class="dropdown-item menu-item-danger" href="/erdemgocen44/JavaScript/delete/master/counterProject/app.js">Delete file</a>
               </li>
         </ul>
       </details>
@@ -2641,490 +2550,116 @@
 </svg>
 </span></template>
 
-  <table class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="JavaScript" data-tagsearch-path="04_Dom/01_Ornek01_Selector/app.js">
+  <table class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="JavaScript" data-tagsearch-path="counterProject/app.js">
         <tr>
           <td id="L1" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="1"></td>
-          <td id="LC1" class="blob-code blob-code-inner js-file-line"><span class=pl-c>/*</span></td>
+          <td id="LC1" class="blob-code blob-code-inner js-file-line"><span class=pl-k>var</span> <span class=pl-s1>count</span> <span class=pl-c1>=</span> <span class=pl-c1>0</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L2" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="2"></td>
-          <td id="LC2" class="blob-code blob-code-inner js-file-line"><span class=pl-c>! Kısaca DOM</span></td>
+          <td id="LC2" class="blob-code blob-code-inner js-file-line">
+</td>
         </tr>
         <tr>
           <td id="L3" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="3"></td>
-          <td id="LC3" class="blob-code blob-code-inner js-file-line"><span class=pl-c></span></td>
+          <td id="LC3" class="blob-code blob-code-inner js-file-line"><span class=pl-k>const</span> <span class=pl-s1>value</span> <span class=pl-c1>=</span> <span class=pl-smi>document</span><span class=pl-kos>.</span><span class=pl-en>querySelector</span><span class=pl-kos>(</span><span class=pl-s>&quot;#value&quot;</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L4" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="4"></td>
-          <td id="LC4" class="blob-code blob-code-inner js-file-line"><span class=pl-c>• HTML dökümanları için standart nesne modeli ve programlama</span></td>
+          <td id="LC4" class="blob-code blob-code-inner js-file-line"><span class=pl-k>const</span> <span class=pl-s1>btns</span> <span class=pl-c1>=</span> <span class=pl-smi>document</span><span class=pl-kos>.</span><span class=pl-en>querySelectorAll</span><span class=pl-kos>(</span><span class=pl-s>&quot;.btn&quot;</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L5" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="5"></td>
-          <td id="LC5" class="blob-code blob-code-inner js-file-line"><span class=pl-c>arabirimidir (API ).</span></td>
+          <td id="LC5" class="blob-code blob-code-inner js-file-line">
+</td>
         </tr>
         <tr>
           <td id="L6" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="6"></td>
-          <td id="LC6" class="blob-code blob-code-inner js-file-line"><span class=pl-c>• DOM şunları tanımlar;</span></td>
+          <td id="LC6" class="blob-code blob-code-inner js-file-line"><span class=pl-s1>btns</span><span class=pl-kos>.</span><span class=pl-en>forEach</span><span class=pl-kos>(</span><span class=pl-k>function</span><span class=pl-kos>(</span><span class=pl-s1>btn</span><span class=pl-kos>)</span> <span class=pl-kos>{</span></td>
         </tr>
         <tr>
           <td id="L7" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="7"></td>
-          <td id="LC7" class="blob-code blob-code-inner js-file-line"><span class=pl-c>• HTML elemanlarını Nesneler (objects) olarak,</span></td>
+          <td id="LC7" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1>btn</span><span class=pl-kos>.</span><span class=pl-en>addEventListener</span><span class=pl-kos>(</span><span class=pl-s>&quot;click&quot;</span><span class=pl-kos>,</span> <span class=pl-k>function</span><span class=pl-kos>(</span><span class=pl-s1>e</span><span class=pl-kos>)</span> <span class=pl-kos>{</span></td>
         </tr>
         <tr>
           <td id="L8" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="8"></td>
-          <td id="LC8" class="blob-code blob-code-inner js-file-line"><span class=pl-c>• Tüm HTML elemanlarını özelliklerini (properties)</span></td>
+          <td id="LC8" class="blob-code blob-code-inner js-file-line">        <span class=pl-k>const</span> <span class=pl-s1>styles</span> <span class=pl-c1>=</span> <span class=pl-s1>e</span><span class=pl-kos>.</span><span class=pl-c1>currentTarget</span><span class=pl-kos>.</span><span class=pl-c1>classList</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L9" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="9"></td>
-          <td id="LC9" class="blob-code blob-code-inner js-file-line"><span class=pl-c>• Tüm HTML elemanlarının erişimine olanak sağlayan metotları (methods),</span></td>
+          <td id="LC9" class="blob-code blob-code-inner js-file-line">        <span class=pl-k>if</span> <span class=pl-kos>(</span><span class=pl-s1>styles</span><span class=pl-kos>.</span><span class=pl-en>contains</span><span class=pl-kos>(</span><span class=pl-s>&quot;azalt&quot;</span><span class=pl-kos>)</span><span class=pl-kos>)</span> <span class=pl-kos>{</span></td>
         </tr>
         <tr>
           <td id="L10" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="10"></td>
-          <td id="LC10" class="blob-code blob-code-inner js-file-line"><span class=pl-c>• Tüm HTML elemanları için olayları (events)</span></td>
+          <td id="LC10" class="blob-code blob-code-inner js-file-line">            <span class=pl-s1>count</span><span class=pl-c1>--</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L11" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="11"></td>
-          <td id="LC11" class="blob-code blob-code-inner js-file-line"><span class=pl-c>• Diğer bir ifade ile HTML elemanlarının okunması, değiştirilmesi,</span></td>
+          <td id="LC11" class="blob-code blob-code-inner js-file-line">        <span class=pl-kos>}</span> <span class=pl-k>else</span> <span class=pl-k>if</span> <span class=pl-kos>(</span><span class=pl-s1>styles</span><span class=pl-kos>.</span><span class=pl-en>contains</span><span class=pl-kos>(</span><span class=pl-s>&quot;arttir&quot;</span><span class=pl-kos>)</span><span class=pl-kos>)</span> <span class=pl-kos>{</span></td>
         </tr>
         <tr>
           <td id="L12" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="12"></td>
-          <td id="LC12" class="blob-code blob-code-inner js-file-line"><span class=pl-c>eklenmesi ve silinmesi gibi işlemlerin nasıl yapılacağını belirleyen bir</span></td>
+          <td id="LC12" class="blob-code blob-code-inner js-file-line">            <span class=pl-s1>count</span><span class=pl-c1>++</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L13" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="13"></td>
-          <td id="LC13" class="blob-code blob-code-inner js-file-line"><span class=pl-c>standarttır.</span></td>
+          <td id="LC13" class="blob-code blob-code-inner js-file-line">        <span class=pl-kos>}</span> <span class=pl-k>else</span> <span class=pl-kos>{</span></td>
         </tr>
         <tr>
           <td id="L14" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="14"></td>
-          <td id="LC14" class="blob-code blob-code-inner js-file-line"><span class=pl-c>*/</span></td>
+          <td id="LC14" class="blob-code blob-code-inner js-file-line">            <span class=pl-s1>count</span> <span class=pl-c1>=</span> <span class=pl-c1>0</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L15" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="15"></td>
-          <td id="LC15" class="blob-code blob-code-inner js-file-line">
-</td>
+          <td id="LC15" class="blob-code blob-code-inner js-file-line">        <span class=pl-kos>}</span></td>
         </tr>
         <tr>
           <td id="L16" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="16"></td>
-          <td id="LC16" class="blob-code blob-code-inner js-file-line"><span class=pl-c>//TODO Dom Elemanları</span></td>
+          <td id="LC16" class="blob-code blob-code-inner js-file-line">        <span class=pl-k>if</span> <span class=pl-kos>(</span><span class=pl-s1>count</span> <span class=pl-c1>&gt;</span> <span class=pl-c1>0</span><span class=pl-kos>)</span> <span class=pl-kos>{</span></td>
         </tr>
         <tr>
           <td id="L17" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="17"></td>
-          <td id="LC17" class="blob-code blob-code-inner js-file-line">
-</td>
+          <td id="LC17" class="blob-code blob-code-inner js-file-line">            <span class=pl-s1>value</span><span class=pl-kos>.</span><span class=pl-c1>style</span><span class=pl-kos>.</span><span class=pl-c1>color</span> <span class=pl-c1>=</span> <span class=pl-s>&quot;green&quot;</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L18" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="18"></td>
-          <td id="LC18" class="blob-code blob-code-inner js-file-line"><span class=pl-c>//! 1-getElementById ; Bir elemanı id ye göre bul... % 20 oranında bu kullanılır..</span></td>
+          <td id="LC18" class="blob-code blob-code-inner js-file-line">        <span class=pl-kos>}</span></td>
         </tr>
         <tr>
           <td id="L19" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="19"></td>
-          <td id="LC19" class="blob-code blob-code-inner js-file-line">
-</td>
+          <td id="LC19" class="blob-code blob-code-inner js-file-line">        <span class=pl-k>if</span> <span class=pl-kos>(</span><span class=pl-s1>count</span> <span class=pl-c1>&lt;</span> <span class=pl-c1>0</span><span class=pl-kos>)</span> <span class=pl-kos>{</span></td>
         </tr>
         <tr>
           <td id="L20" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="20"></td>
-          <td id="LC20" class="blob-code blob-code-inner js-file-line"><span class=pl-k>const</span> <span class=pl-s1>paragraf</span> <span class=pl-c1>=</span> <span class=pl-smi>document</span><span class=pl-kos>.</span><span class=pl-en>getElementById</span><span class=pl-kos>(</span><span class=pl-s>&quot;paragraf&quot;</span><span class=pl-kos>)</span><span class=pl-kos>.</span><span class=pl-c1>style</span><span class=pl-kos>;</span></td>
+          <td id="LC20" class="blob-code blob-code-inner js-file-line">            <span class=pl-s1>value</span><span class=pl-kos>.</span><span class=pl-c1>style</span><span class=pl-kos>.</span><span class=pl-c1>color</span> <span class=pl-c1>=</span> <span class=pl-s>&quot;red&quot;</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L21" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="21"></td>
-          <td id="LC21" class="blob-code blob-code-inner js-file-line"><span class=pl-c>// document.getElementById(&quot;paragraf&quot;).style; bunu paragraf a atamış oldum...</span></td>
+          <td id="LC21" class="blob-code blob-code-inner js-file-line">        <span class=pl-kos>}</span></td>
         </tr>
         <tr>
           <td id="L22" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="22"></td>
-          <td id="LC22" class="blob-code blob-code-inner js-file-line"><span class=pl-s1>paragraf</span><span class=pl-kos>.</span><span class=pl-c1>backgroundColor</span> <span class=pl-c1>=</span> <span class=pl-s>&quot;black&quot;</span><span class=pl-kos>;</span></td>
+          <td id="LC22" class="blob-code blob-code-inner js-file-line">        <span class=pl-k>if</span> <span class=pl-kos>(</span><span class=pl-s1>count</span> <span class=pl-c1>===</span> <span class=pl-c1>0</span><span class=pl-kos>)</span> <span class=pl-kos>{</span></td>
         </tr>
         <tr>
           <td id="L23" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="23"></td>
-          <td id="LC23" class="blob-code blob-code-inner js-file-line"><span class=pl-s1>paragraf</span><span class=pl-kos>.</span><span class=pl-c1>color</span> <span class=pl-c1>=</span> <span class=pl-s>&quot;white&quot;</span><span class=pl-kos>;</span></td>
+          <td id="LC23" class="blob-code blob-code-inner js-file-line">            <span class=pl-s1>value</span><span class=pl-kos>.</span><span class=pl-c1>style</span><span class=pl-kos>.</span><span class=pl-c1>color</span> <span class=pl-c1>=</span> <span class=pl-s>&quot;black&quot;</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L24" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="24"></td>
-          <td id="LC24" class="blob-code blob-code-inner js-file-line"><span class=pl-s1>paragraf</span><span class=pl-kos>.</span><span class=pl-c1>fontSize</span> <span class=pl-c1>=</span> <span class=pl-s>&quot;20px&quot;</span><span class=pl-kos>;</span></td>
+          <td id="LC24" class="blob-code blob-code-inner js-file-line">        <span class=pl-kos>}</span></td>
         </tr>
         <tr>
           <td id="L25" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="25"></td>
-          <td id="LC25" class="blob-code blob-code-inner js-file-line"><span class=pl-s1>paragraf</span><span class=pl-kos>.</span><span class=pl-c1>fontFamily</span> <span class=pl-c1>=</span> <span class=pl-s>&quot;cambria&quot;</span><span class=pl-kos>;</span></td>
+          <td id="LC25" class="blob-code blob-code-inner js-file-line">        <span class=pl-s1>value</span><span class=pl-kos>.</span><span class=pl-c1>textContent</span> <span class=pl-c1>=</span> <span class=pl-s1>count</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L26" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="26"></td>
-          <td id="LC26" class="blob-code blob-code-inner js-file-line"><span class=pl-s1>paragraf</span><span class=pl-kos>.</span><span class=pl-c1>fontStyle</span> <span class=pl-c1>=</span> <span class=pl-s>&quot;italic&quot;</span><span class=pl-kos>;</span></td>
+          <td id="LC26" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>}</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L27" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="27"></td>
-          <td id="LC27" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L28" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="28"></td>
-          <td id="LC28" class="blob-code blob-code-inner js-file-line"><span class=pl-k>const</span> <span class=pl-s1>buton</span> <span class=pl-c1>=</span> <span class=pl-smi>document</span><span class=pl-kos>.</span><span class=pl-en>getElementById</span><span class=pl-kos>(</span><span class=pl-s>&quot;btn&quot;</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
-        </tr>
-        <tr>
-          <td id="L29" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="29"></td>
-          <td id="LC29" class="blob-code blob-code-inner js-file-line"><span class=pl-c>// document.getElementById(&quot;btn&quot;).style; bunu buton a atamış oldum...</span></td>
-        </tr>
-        <tr>
-          <td id="L30" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="30"></td>
-          <td id="LC30" class="blob-code blob-code-inner js-file-line"><span class=pl-c>// style yazmadık eğer yazarsak sınırlandırmış oluruz... İlgili yere ekleyerek yazabiliriz...</span></td>
-        </tr>
-        <tr>
-          <td id="L31" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="31"></td>
-          <td id="LC31" class="blob-code blob-code-inner js-file-line"><span class=pl-s1>buton</span><span class=pl-kos>.</span><span class=pl-c1>style</span><span class=pl-kos>.</span><span class=pl-c1>width</span> <span class=pl-c1>=</span> <span class=pl-s>&quot;100px&quot;</span><span class=pl-kos>;</span></td>
-        </tr>
-        <tr>
-          <td id="L32" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="32"></td>
-          <td id="LC32" class="blob-code blob-code-inner js-file-line"><span class=pl-s1>buton</span><span class=pl-kos>.</span><span class=pl-c1>style</span><span class=pl-kos>.</span><span class=pl-c1>color</span> <span class=pl-c1>=</span> <span class=pl-s>&quot;red&quot;</span><span class=pl-kos>;</span></td>
-        </tr>
-        <tr>
-          <td id="L33" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="33"></td>
-          <td id="LC33" class="blob-code blob-code-inner js-file-line"><span class=pl-s1>buton</span><span class=pl-kos>.</span><span class=pl-c1>style</span><span class=pl-kos>.</span><span class=pl-c1>fontSize</span> <span class=pl-c1>=</span> <span class=pl-s>&quot;18px&quot;</span><span class=pl-kos>;</span></td>
-        </tr>
-        <tr>
-          <td id="L34" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="34"></td>
-          <td id="LC34" class="blob-code blob-code-inner js-file-line"><span class=pl-s1>buton</span><span class=pl-kos>.</span><span class=pl-c1>textContent</span> <span class=pl-c1>=</span> <span class=pl-s>&quot;ARA&quot;</span><span class=pl-kos>;</span></td>
-        </tr>
-        <tr>
-          <td id="L35" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="35"></td>
-          <td id="LC35" class="blob-code blob-code-inner js-file-line"><span class=pl-c>//*** textContent --&gt; button gibi tag lerin içeriğindeki yazıyı değiştirmek istersek kullanırız...</span></td>
-        </tr>
-        <tr>
-          <td id="L36" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="36"></td>
-          <td id="LC36" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L37" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="37"></td>
-          <td id="LC37" class="blob-code blob-code-inner js-file-line"><span class=pl-c>//TODO ************************************************************************************************</span></td>
-        </tr>
-        <tr>
-          <td id="L38" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="38"></td>
-          <td id="LC38" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L39" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="39"></td>
-          <td id="LC39" class="blob-code blob-code-inner js-file-line"><span class=pl-c>//! 2-getElementsByTagName ; Bir elemanı Tag (Etiket) adına göre bul</span></td>
-        </tr>
-        <tr>
-          <td id="L40" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="40"></td>
-          <td id="LC40" class="blob-code blob-code-inner js-file-line"><span class=pl-c>// Bu kullanım tercih edilmiyor...</span></td>
-        </tr>
-        <tr>
-          <td id="L41" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="41"></td>
-          <td id="LC41" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L42" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="42"></td>
-          <td id="LC42" class="blob-code blob-code-inner js-file-line"><span class=pl-k>const</span> <span class=pl-s1>resim</span> <span class=pl-c1>=</span> <span class=pl-smi>document</span><span class=pl-kos>.</span><span class=pl-en>getElementsByTagName</span><span class=pl-kos>(</span><span class=pl-s>&quot;img&quot;</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
-        </tr>
-        <tr>
-          <td id="L43" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="43"></td>
-          <td id="LC43" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L44" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="44"></td>
-          <td id="LC44" class="blob-code blob-code-inner js-file-line"><span class=pl-s1>resim</span><span class=pl-kos>[</span><span class=pl-c1>0</span><span class=pl-kos>]</span><span class=pl-kos>.</span><span class=pl-c1>style</span><span class=pl-kos>.</span><span class=pl-c1>width</span> <span class=pl-c1>=</span> <span class=pl-s>&quot;250px&quot;</span><span class=pl-kos>;</span> <span class=pl-c>// resim [0] ile indexe göre aldığından 1. resmi ayarlıyor</span></td>
-        </tr>
-        <tr>
-          <td id="L45" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="45"></td>
-          <td id="LC45" class="blob-code blob-code-inner js-file-line"><span class=pl-s1>resim</span><span class=pl-kos>[</span><span class=pl-c1>0</span><span class=pl-kos>]</span><span class=pl-kos>.</span><span class=pl-c1>style</span><span class=pl-kos>.</span><span class=pl-c1>height</span> <span class=pl-c1>=</span> <span class=pl-s>&quot;250px&quot;</span><span class=pl-kos>;</span> <span class=pl-c>// resim [0] ile indexe göre aldığından  1. resmi ayarlıyor</span></td>
-        </tr>
-        <tr>
-          <td id="L46" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="46"></td>
-          <td id="LC46" class="blob-code blob-code-inner js-file-line"><span class=pl-s1>resim</span><span class=pl-kos>[</span><span class=pl-c1>1</span><span class=pl-kos>]</span><span class=pl-kos>.</span><span class=pl-c1>style</span><span class=pl-kos>.</span><span class=pl-c1>border</span> <span class=pl-c1>=</span> <span class=pl-s>&quot;11px solid red&quot;</span><span class=pl-kos>;</span> <span class=pl-c>// resim [1] ile indexe göre aldığından 2. resmi ayarlıyor</span></td>
-        </tr>
-        <tr>
-          <td id="L47" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="47"></td>
-          <td id="LC47" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L48" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="48"></td>
-          <td id="LC48" class="blob-code blob-code-inner js-file-line"><span class=pl-c>//TODO ************************************************************************************************</span></td>
-        </tr>
-        <tr>
-          <td id="L49" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="49"></td>
-          <td id="LC49" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L50" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="50"></td>
-          <td id="LC50" class="blob-code blob-code-inner js-file-line"><span class=pl-c>//! 3-getElementsByClassName ; Bir elemanı Class (Sınıf) adına göre bul</span></td>
-        </tr>
-        <tr>
-          <td id="L51" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="51"></td>
-          <td id="LC51" class="blob-code blob-code-inner js-file-line"><span class=pl-c>//! ama getElementsByTagName gibi dizi şeklinde algılıyor.</span></td>
-        </tr>
-        <tr>
-          <td id="L52" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="52"></td>
-          <td id="LC52" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L53" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="53"></td>
-          <td id="LC53" class="blob-code blob-code-inner js-file-line"><span class=pl-c>// H1 başlığında değişiklikler yapmak istersek ;</span></td>
-        </tr>
-        <tr>
-          <td id="L54" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="54"></td>
-          <td id="LC54" class="blob-code blob-code-inner js-file-line"><span class=pl-k>const</span> <span class=pl-s1>header</span> <span class=pl-c1>=</span> <span class=pl-smi>document</span><span class=pl-kos>.</span><span class=pl-en>getElementsByClassName</span><span class=pl-kos>(</span><span class=pl-s>&quot;H1&quot;</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
-        </tr>
-        <tr>
-          <td id="L55" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="55"></td>
-          <td id="LC55" class="blob-code blob-code-inner js-file-line"><span class=pl-s1>header</span><span class=pl-kos>[</span><span class=pl-c1>0</span><span class=pl-kos>]</span><span class=pl-kos>.</span><span class=pl-c1>style</span><span class=pl-kos>.</span><span class=pl-c1>textAlign</span> <span class=pl-c1>=</span> <span class=pl-s>&quot;center&quot;</span><span class=pl-kos>;</span></td>
-        </tr>
-        <tr>
-          <td id="L56" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="56"></td>
-          <td id="LC56" class="blob-code blob-code-inner js-file-line"><span class=pl-s1>header</span><span class=pl-kos>[</span><span class=pl-c1>0</span><span class=pl-kos>]</span><span class=pl-kos>.</span><span class=pl-c1>innerHTML</span> <span class=pl-c1>=</span> <span class=pl-s>&quot;DOM Manipülasyonu Çok ilginç&quot;</span><span class=pl-kos>;</span></td>
-        </tr>
-        <tr>
-          <td id="L57" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="57"></td>
-          <td id="LC57" class="blob-code blob-code-inner js-file-line"><span class=pl-s1>header</span><span class=pl-kos>[</span><span class=pl-c1>0</span><span class=pl-kos>]</span><span class=pl-kos>.</span><span class=pl-c1>style</span><span class=pl-kos>.</span><span class=pl-c1>fontSize</span> <span class=pl-c1>=</span> <span class=pl-c1>25</span><span class=pl-kos>;</span></td>
-        </tr>
-        <tr>
-          <td id="L58" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="58"></td>
-          <td id="LC58" class="blob-code blob-code-inner js-file-line"><span class=pl-s1>header</span><span class=pl-kos>[</span><span class=pl-c1>0</span><span class=pl-kos>]</span><span class=pl-kos>.</span><span class=pl-c1>style</span><span class=pl-kos>.</span><span class=pl-c1>fontFamily</span> <span class=pl-c1>=</span> <span class=pl-s>&quot;candara&quot;</span><span class=pl-kos>;</span></td>
-        </tr>
-        <tr>
-          <td id="L59" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="59"></td>
-          <td id="LC59" class="blob-code blob-code-inner js-file-line"><span class=pl-s1>header</span><span class=pl-kos>[</span><span class=pl-c1>0</span><span class=pl-kos>]</span><span class=pl-kos>.</span><span class=pl-c1>style</span><span class=pl-kos>.</span><span class=pl-c1>color</span> <span class=pl-c1>=</span> <span class=pl-s>&quot;white&quot;</span><span class=pl-kos>;</span></td>
-        </tr>
-        <tr>
-          <td id="L60" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="60"></td>
-          <td id="LC60" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L61" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="61"></td>
-          <td id="LC61" class="blob-code blob-code-inner js-file-line"><span class=pl-c>//TODO ************************************************************************************************</span></td>
-        </tr>
-        <tr>
-          <td id="L62" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="62"></td>
-          <td id="LC62" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L63" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="63"></td>
-          <td id="LC63" class="blob-code blob-code-inner js-file-line"><span class=pl-c>//! 4-querySelector(CSS seçici) ; Bir elemanı id, class, özellik,</span></td>
-        </tr>
-        <tr>
-          <td id="L64" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="64"></td>
-          <td id="LC64" class="blob-code blob-code-inner js-file-line"><span class=pl-c>//! tür ve değere göre seçmek için kullanılır. Eşleşen ilk elemanı seçer.</span></td>
-        </tr>
-        <tr>
-          <td id="L65" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="65"></td>
-          <td id="LC65" class="blob-code blob-code-inner js-file-line"><span class=pl-c>// ! En çok kullanılan çağırma yolu.. % 80 oranında kullanılır...</span></td>
-        </tr>
-        <tr>
-          <td id="L66" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="66"></td>
-          <td id="LC66" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L67" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="67"></td>
-          <td id="LC67" class="blob-code blob-code-inner js-file-line"><span class=pl-smi>document</span><span class=pl-kos>.</span><span class=pl-en>querySelector</span><span class=pl-kos>(</span><span class=pl-s>&quot;.sayfaAdi&quot;</span><span class=pl-kos>)</span><span class=pl-kos>.</span><span class=pl-c1>textContent</span> <span class=pl-c1>=</span> <span class=pl-s>&quot;DOM SELECTOR KAVRAMI👋&quot;</span><span class=pl-kos>;</span></td>
-        </tr>
-        <tr>
-          <td id="L68" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="68"></td>
-          <td id="LC68" class="blob-code blob-code-inner js-file-line"><span class=pl-c>// document.querySelector(&quot;.sayfaAdi&quot;) --&gt; class isminde &quot;.&quot; koyuyoruz...</span></td>
-        </tr>
-        <tr>
-          <td id="L69" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="69"></td>
-          <td id="LC69" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L70" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="70"></td>
-          <td id="LC70" class="blob-code blob-code-inner js-file-line"><span class=pl-c>// document.querySelector(&quot;#govde&quot;) --&gt; id isminde &quot;#&quot; koyuyoruz...</span></td>
-        </tr>
-        <tr>
-          <td id="L71" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="71"></td>
-          <td id="LC71" class="blob-code blob-code-inner js-file-line"><span class=pl-smi>document</span><span class=pl-kos>.</span><span class=pl-en>querySelector</span><span class=pl-kos>(</span><span class=pl-s>&quot;#govde&quot;</span><span class=pl-kos>)</span><span class=pl-kos>.</span><span class=pl-c1>style</span><span class=pl-kos>.</span><span class=pl-c1>backgroundImage</span> <span class=pl-c1>=</span></td>
-        </tr>
-        <tr>
-          <td id="L72" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="72"></td>
-          <td id="LC72" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;linear-gradient(green,yellow,red,pink)&quot;</span><span class=pl-kos>;</span></td>
-        </tr>
-        <tr>
-          <td id="L73" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="73"></td>
-          <td id="LC73" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L74" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="74"></td>
-          <td id="LC74" class="blob-code blob-code-inner js-file-line"><span class=pl-c>//TODO ************************************************************************************************</span></td>
-        </tr>
-        <tr>
-          <td id="L75" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="75"></td>
-          <td id="LC75" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L76" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="76"></td>
-          <td id="LC76" class="blob-code blob-code-inner js-file-line"><span class=pl-c>//TODO DOM Olayları--Events</span></td>
-        </tr>
-        <tr>
-          <td id="L77" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="77"></td>
-          <td id="LC77" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L78" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="78"></td>
-          <td id="LC78" class="blob-code blob-code-inner js-file-line"><span class=pl-c>/*</span></td>
-        </tr>
-        <tr>
-          <td id="L79" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="79"></td>
-          <td id="LC79" class="blob-code blob-code-inner js-file-line"><span class=pl-c>DOM sayesinde JavaScript, HTML olayları ile etkileşimi halinde olabilir.</span></td>
-        </tr>
-        <tr>
-          <td id="L80" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="80"></td>
-          <td id="LC80" class="blob-code blob-code-inner js-file-line"><span class=pl-c>• Örneğin, kullanıcı bir HTML elemanına tıkladığında (bir olay meydana geldiğinde) bir</span></td>
-        </tr>
-        <tr>
-          <td id="L81" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="81"></td>
-          <td id="LC81" class="blob-code blob-code-inner js-file-line"><span class=pl-c>Javascript kodu çalıştırılabilir.</span></td>
-        </tr>
-        <tr>
-          <td id="L82" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="82"></td>
-          <td id="LC82" class="blob-code blob-code-inner js-file-line"><span class=pl-c>• Bir olay meydana geldiğinde bir JS kodu çalıştırmak için ilgili elemanın olay özelliği</span></td>
-        </tr>
-        <tr>
-          <td id="L83" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="83"></td>
-          <td id="LC83" class="blob-code blob-code-inner js-file-line"><span class=pl-c>kullanılır.</span></td>
-        </tr>
-        <tr>
-          <td id="L84" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="84"></td>
-          <td id="LC84" class="blob-code blob-code-inner js-file-line"><span class=pl-c>• HTML olayları için bir çok örnek verilebilir.</span></td>
-        </tr>
-        <tr>
-          <td id="L85" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="85"></td>
-          <td id="LC85" class="blob-code blob-code-inner js-file-line"><span class=pl-c>• Kullanıcı Fareyi tıkladığında (onclick)</span></td>
-        </tr>
-        <tr>
-          <td id="L86" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="86"></td>
-          <td id="LC86" class="blob-code blob-code-inner js-file-line"><span class=pl-c>• Bir web sayfası yüklendiğinde (onload)</span></td>
-        </tr>
-        <tr>
-          <td id="L87" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="87"></td>
-          <td id="LC87" class="blob-code blob-code-inner js-file-line"><span class=pl-c>• Fare bir elemanın üzerine geldiğinde (onmouseover)</span></td>
-        </tr>
-        <tr>
-          <td id="L88" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="88"></td>
-          <td id="LC88" class="blob-code blob-code-inner js-file-line"><span class=pl-c>• Fare bir elemanın üzerinden ayrıldığında (onmouseout)</span></td>
-        </tr>
-        <tr>
-          <td id="L89" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="89"></td>
-          <td id="LC89" class="blob-code blob-code-inner js-file-line"><span class=pl-c>• Bir elemanın içeriği değiştiğinde (onchange)</span></td>
-        </tr>
-        <tr>
-          <td id="L90" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="90"></td>
-          <td id="LC90" class="blob-code blob-code-inner js-file-line"><span class=pl-c>• Bir HTML formu gönderildiğinde (onsubmit)</span></td>
-        </tr>
-        <tr>
-          <td id="L91" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="91"></td>
-          <td id="LC91" class="blob-code blob-code-inner js-file-line"><span class=pl-c>• Klavyeden bir tuşa basıldığında (onkeyup)</span></td>
-        </tr>
-        <tr>
-          <td id="L92" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="92"></td>
-          <td id="LC92" class="blob-code blob-code-inner js-file-line"><span class=pl-c>*/</span></td>
-        </tr>
-        <tr>
-          <td id="L93" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="93"></td>
-          <td id="LC93" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L94" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="94"></td>
-          <td id="LC94" class="blob-code blob-code-inner js-file-line"><span class=pl-c>//! onclick ; Kullanıcı Fareyi tıkladığında</span></td>
-        </tr>
-        <tr>
-          <td id="L95" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="95"></td>
-          <td id="LC95" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L96" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="96"></td>
-          <td id="LC96" class="blob-code blob-code-inner js-file-line"><span class=pl-c>//1.resme tıkladığımızda img ler yer değiştirsin</span></td>
-        </tr>
-        <tr>
-          <td id="L97" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="97"></td>
-          <td id="LC97" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L98" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="98"></td>
-          <td id="LC98" class="blob-code blob-code-inner js-file-line"><span class=pl-smi>document</span><span class=pl-kos>.</span><span class=pl-en>querySelector</span><span class=pl-kos>(</span><span class=pl-s>&quot;.bir&quot;</span><span class=pl-kos>)</span><span class=pl-kos>.</span><span class=pl-en>onclick</span> <span class=pl-c1>=</span> <span class=pl-k>function</span> <span class=pl-kos>(</span><span class=pl-kos>)</span> <span class=pl-kos>{</span></td>
-        </tr>
-        <tr>
-          <td id="L99" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="99"></td>
-          <td id="LC99" class="blob-code blob-code-inner js-file-line">  <span class=pl-smi>document</span><span class=pl-kos>.</span><span class=pl-en>querySelector</span><span class=pl-kos>(</span><span class=pl-s>&quot;.bir&quot;</span><span class=pl-kos>)</span><span class=pl-kos>.</span><span class=pl-c1>src</span> <span class=pl-c1>=</span> <span class=pl-s>&quot;./img/logo2-1.png&quot;</span><span class=pl-kos>;</span></td>
-        </tr>
-        <tr>
-          <td id="L100" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="100"></td>
-          <td id="LC100" class="blob-code blob-code-inner js-file-line">  <span class=pl-smi>document</span><span class=pl-kos>.</span><span class=pl-en>querySelector</span><span class=pl-kos>(</span><span class=pl-s>&quot;.iki&quot;</span><span class=pl-kos>)</span><span class=pl-kos>.</span><span class=pl-c1>src</span> <span class=pl-c1>=</span> <span class=pl-s>&quot;./img/js_logo.png&quot;</span><span class=pl-kos>;</span></td>
-        </tr>
-        <tr>
-          <td id="L101" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="101"></td>
-          <td id="LC101" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>}</span><span class=pl-kos>;</span></td>
-        </tr>
-        <tr>
-          <td id="L102" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="102"></td>
-          <td id="LC102" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L103" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="103"></td>
-          <td id="LC103" class="blob-code blob-code-inner js-file-line"><span class=pl-c>//! onmouseover ; Fare bir elemanın üzerine geldiğinde</span></td>
-        </tr>
-        <tr>
-          <td id="L104" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="104"></td>
-          <td id="LC104" class="blob-code blob-code-inner js-file-line"><span class=pl-c>//! onmouseout ; Fare bir elemanın üzerinden ayrıldığında</span></td>
-        </tr>
-        <tr>
-          <td id="L105" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="105"></td>
-          <td id="LC105" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L106" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="106"></td>
-          <td id="LC106" class="blob-code blob-code-inner js-file-line"><span class=pl-k>const</span> <span class=pl-s1>h</span> <span class=pl-c1>=</span> <span class=pl-smi>document</span><span class=pl-kos>.</span><span class=pl-en>querySelector</span><span class=pl-kos>(</span><span class=pl-s>&quot;.H1&quot;</span><span class=pl-kos>)</span><span class=pl-kos>;</span> <span class=pl-c>// h isminde atama yaptım..</span></td>
-        </tr>
-        <tr>
-          <td id="L107" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="107"></td>
-          <td id="LC107" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L108" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="108"></td>
-          <td id="LC108" class="blob-code blob-code-inner js-file-line"><span class=pl-s1>h</span><span class=pl-kos>.</span><span class=pl-en>onmouseover</span> <span class=pl-c1>=</span> <span class=pl-k>function</span> <span class=pl-kos>(</span><span class=pl-kos>)</span> <span class=pl-kos>{</span></td>
-        </tr>
-        <tr>
-          <td id="L109" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="109"></td>
-          <td id="LC109" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1>h</span><span class=pl-kos>.</span><span class=pl-c1>style</span><span class=pl-kos>.</span><span class=pl-c1>color</span> <span class=pl-c1>=</span> <span class=pl-s>&quot;red&quot;</span><span class=pl-kos>;</span></td>
-        </tr>
-        <tr>
-          <td id="L110" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="110"></td>
-          <td id="LC110" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1>h</span><span class=pl-kos>.</span><span class=pl-c1>style</span><span class=pl-kos>.</span><span class=pl-c1>backgroundColor</span> <span class=pl-c1>=</span> <span class=pl-s>&quot;gray&quot;</span><span class=pl-kos>;</span></td>
-        </tr>
-        <tr>
-          <td id="L111" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="111"></td>
-          <td id="LC111" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>}</span><span class=pl-kos>;</span></td>
-        </tr>
-        <tr>
-          <td id="L112" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="112"></td>
-          <td id="LC112" class="blob-code blob-code-inner js-file-line"><span class=pl-s1>h</span><span class=pl-kos>.</span><span class=pl-en>onmouseout</span> <span class=pl-c1>=</span> <span class=pl-k>function</span> <span class=pl-kos>(</span><span class=pl-kos>)</span> <span class=pl-kos>{</span></td>
-        </tr>
-        <tr>
-          <td id="L113" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="113"></td>
-          <td id="LC113" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1>h</span><span class=pl-kos>.</span><span class=pl-c1>style</span><span class=pl-kos>.</span><span class=pl-c1>color</span> <span class=pl-c1>=</span> <span class=pl-s>&quot;white&quot;</span><span class=pl-kos>;</span></td>
-        </tr>
-        <tr>
-          <td id="L114" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="114"></td>
-          <td id="LC114" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1>h</span><span class=pl-kos>.</span><span class=pl-c1>style</span><span class=pl-kos>.</span><span class=pl-c1>backgroundColor</span> <span class=pl-c1>=</span> <span class=pl-s>&quot;red&quot;</span><span class=pl-kos>;</span></td>
-        </tr>
-        <tr>
-          <td id="L115" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="115"></td>
-          <td id="LC115" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>}</span><span class=pl-kos>;</span></td>
+          <td id="LC27" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>}</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
         </tr>
   </table>
 </div>
@@ -3150,7 +2685,7 @@
             Copy permalink
           </clipboard-copy>
         </li>
-        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/erdemgocen44/JavaScript/blame/09efd10765b547e31943667097977203d57ff0a9/04_Dom/01_Ornek01_Selector/app.js">View git blame</a></li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/erdemgocen44/JavaScript/blame/09efd10765b547e31943667097977203d57ff0a9/counterProject/app.js">View git blame</a></li>
           <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/erdemgocen44/JavaScript/issues/new">Reference in new issue</a></li>
       </ul>
     </details-menu>
@@ -3213,16 +2748,16 @@
       </li>
     </ul>
     <ul class="list-style-none d-flex flex-wrap col-12 col-lg-8 flex-justify-center flex-lg-justify-between mb-2 mb-lg-0">
-        <li class="mr-3 mr-lg-0"><a href="https://docs.github.com/en/github/site-policy/github-terms-of-service" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to terms&quot;,&quot;label&quot;:&quot;text:terms&quot;,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/04_Dom/01_Ornek01_Selector/app.js&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="ee6f5c715097737790c8b49cc614dac7da9a7edf075bd2db4fd5698da21ce900" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to terms&quot;,&quot;label&quot;:&quot;text:terms&quot;}">Terms</a></li>
-        <li class="mr-3 mr-lg-0"><a href="https://docs.github.com/en/github/site-policy/github-privacy-statement" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to privacy&quot;,&quot;label&quot;:&quot;text:privacy&quot;,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/04_Dom/01_Ornek01_Selector/app.js&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="aba281d13f159c155f800562dae61117dff34c413d1ef174651f30a07a7b5474" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to privacy&quot;,&quot;label&quot;:&quot;text:privacy&quot;}">Privacy</a></li>
-        <li class="mr-3 mr-lg-0"><a data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to security&quot;,&quot;label&quot;:&quot;text:security&quot;,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/04_Dom/01_Ornek01_Selector/app.js&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="3b134b1506fad33bb25f82d73a21f8b4a79c33f29dc84f0ce1afe43bcd477df2" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to security&quot;,&quot;label&quot;:&quot;text:security&quot;}" href="https://github.com/security">Security</a></li>
-        <li class="mr-3 mr-lg-0"><a href="https://www.githubstatus.com/" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to status&quot;,&quot;label&quot;:&quot;text:status&quot;,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/04_Dom/01_Ornek01_Selector/app.js&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="9c98740139be619b863f2cee883214d89b13bc1adbde08a91d752ac38a5a2846" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to status&quot;,&quot;label&quot;:&quot;text:status&quot;}">Status</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://docs.github.com/en/github/site-policy/github-terms-of-service" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to terms&quot;,&quot;label&quot;:&quot;text:terms&quot;,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/counterProject/app.js&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="40e940852f81224689ce5b4322605580ffb5bb0e379d68538199d51e2848f39d" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to terms&quot;,&quot;label&quot;:&quot;text:terms&quot;}">Terms</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://docs.github.com/en/github/site-policy/github-privacy-statement" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to privacy&quot;,&quot;label&quot;:&quot;text:privacy&quot;,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/counterProject/app.js&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="f326e72e8bcff0519e22b1ce9e72eec6303656bdc38ad8a071cc151b3b051707" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to privacy&quot;,&quot;label&quot;:&quot;text:privacy&quot;}">Privacy</a></li>
+        <li class="mr-3 mr-lg-0"><a data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to security&quot;,&quot;label&quot;:&quot;text:security&quot;,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/counterProject/app.js&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="766a1920a52c1b96adea986c450551c9d7c38d7f93a4f163f345e3628afa04f9" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to security&quot;,&quot;label&quot;:&quot;text:security&quot;}" href="https://github.com/security">Security</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://www.githubstatus.com/" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to status&quot;,&quot;label&quot;:&quot;text:status&quot;,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/counterProject/app.js&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="43c280d8984b7e6348c5c12c506a8dcfb77114b782aef6ad0bdea699a18dc01d" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to status&quot;,&quot;label&quot;:&quot;text:status&quot;}">Status</a></li>
         <li class="mr-3 mr-lg-0"><a data-ga-click="Footer, go to help, text:Docs" href="https://docs.github.com">Docs</a></li>
-        <li class="mr-3 mr-lg-0"><a href="https://support.github.com?tags=dotcom-footer" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to contact&quot;,&quot;label&quot;:&quot;text:contact&quot;,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/04_Dom/01_Ornek01_Selector/app.js&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="0c68c12b0f1fdaf24169d19ee4cefffe22e589853fbbc67ccbb2a9cb7ee380ba" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to contact&quot;,&quot;label&quot;:&quot;text:contact&quot;}">Contact GitHub</a></li>
-        <li class="mr-3 mr-lg-0"><a href="https://github.com/pricing" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to Pricing&quot;,&quot;label&quot;:&quot;text:Pricing&quot;,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/04_Dom/01_Ornek01_Selector/app.js&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="c0e006356a2bc380cdbd37b6ae76d6e755e55c72a717464f1ea27c89bb74ab79" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to Pricing&quot;,&quot;label&quot;:&quot;text:Pricing&quot;}">Pricing</a></li>
-      <li class="mr-3 mr-lg-0"><a href="https://docs.github.com" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to api&quot;,&quot;label&quot;:&quot;text:api&quot;,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/04_Dom/01_Ornek01_Selector/app.js&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="6c6683a3840be9fb8fdfe36e60baf57e190ecbd670d7925f44810bf45127f0f7" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to api&quot;,&quot;label&quot;:&quot;text:api&quot;}">API</a></li>
-      <li class="mr-3 mr-lg-0"><a href="https://services.github.com" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to training&quot;,&quot;label&quot;:&quot;text:training&quot;,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/04_Dom/01_Ornek01_Selector/app.js&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="a508fe2d946ac640ccc6924aa404a427b241d13a860c8190551cdb0d72059628" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to training&quot;,&quot;label&quot;:&quot;text:training&quot;}">Training</a></li>
-        <li class="mr-3 mr-lg-0"><a href="https://github.blog" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to blog&quot;,&quot;label&quot;:&quot;text:blog&quot;,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/04_Dom/01_Ornek01_Selector/app.js&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="53df9b00b94367080115b2749074627b360f01314052649731e8344745d21e0f" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to blog&quot;,&quot;label&quot;:&quot;text:blog&quot;}">Blog</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://support.github.com?tags=dotcom-footer" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to contact&quot;,&quot;label&quot;:&quot;text:contact&quot;,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/counterProject/app.js&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="8040113c2970af9c0eab46bc51e7b3ff619e8892c9341d12f9fcf2df4d01c543" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to contact&quot;,&quot;label&quot;:&quot;text:contact&quot;}">Contact GitHub</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://github.com/pricing" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to Pricing&quot;,&quot;label&quot;:&quot;text:Pricing&quot;,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/counterProject/app.js&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="4dc3e460f76a19e812a60a01eb444731e08bc6c86b0a1af4a39a39c8f79cb43b" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to Pricing&quot;,&quot;label&quot;:&quot;text:Pricing&quot;}">Pricing</a></li>
+      <li class="mr-3 mr-lg-0"><a href="https://docs.github.com" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to api&quot;,&quot;label&quot;:&quot;text:api&quot;,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/counterProject/app.js&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="149953df4601a5780f043c341f90511e6f6e094e37c6b66622c7780ead97d460" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to api&quot;,&quot;label&quot;:&quot;text:api&quot;}">API</a></li>
+      <li class="mr-3 mr-lg-0"><a href="https://services.github.com" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to training&quot;,&quot;label&quot;:&quot;text:training&quot;,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/counterProject/app.js&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="305709523c6299ee8a89fd5a8a5cfe87be5618a749e7ef765b96ff48a1321b79" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to training&quot;,&quot;label&quot;:&quot;text:training&quot;}">Training</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://github.blog" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to blog&quot;,&quot;label&quot;:&quot;text:blog&quot;,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/counterProject/app.js&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="80b7e98d10f61fbc97433e3650a756119c3675ab703f9be0ed7ad572a38d6cc8" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to blog&quot;,&quot;label&quot;:&quot;text:blog&quot;}">Blog</a></li>
         <li><a data-ga-click="Footer, go to about, text:about" href="https://github.com/about">About</a></li>
     </ul>
   </div>

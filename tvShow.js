@@ -58,14 +58,14 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>JavaScript/index.html at master · erdemgocen44/JavaScript</title>
+  <title>JavaScript/tvShow.js at master · erdemgocen44/JavaScript</title>
     <meta name="description" content="Contribute to erdemgocen44/JavaScript development by creating an account on GitHub.">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
   <meta property="fb:app_id" content="1401488693436528">
   <meta name="apple-itunes-app" content="app-id=1477376905" />
-    <meta name="twitter:image:src" content="https://opengraph.githubassets.com/9d14572404163dfcb9274a031e42e29f4fa336804b8e3a5e5f36dbe7daeab1fd/erdemgocen44/JavaScript" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="JavaScript/index.html at master · erdemgocen44/JavaScript" /><meta name="twitter:description" content="Contribute to erdemgocen44/JavaScript development by creating an account on GitHub." />
-    <meta property="og:image" content="https://opengraph.githubassets.com/9d14572404163dfcb9274a031e42e29f4fa336804b8e3a5e5f36dbe7daeab1fd/erdemgocen44/JavaScript" /><meta property="og:image:alt" content="Contribute to erdemgocen44/JavaScript development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="JavaScript/index.html at master · erdemgocen44/JavaScript" /><meta property="og:url" content="https://github.com/erdemgocen44/JavaScript" /><meta property="og:description" content="Contribute to erdemgocen44/JavaScript development by creating an account on GitHub." />
+    <meta name="twitter:image:src" content="https://opengraph.githubassets.com/9d14572404163dfcb9274a031e42e29f4fa336804b8e3a5e5f36dbe7daeab1fd/erdemgocen44/JavaScript" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="JavaScript/tvShow.js at master · erdemgocen44/JavaScript" /><meta name="twitter:description" content="Contribute to erdemgocen44/JavaScript development by creating an account on GitHub." />
+    <meta property="og:image" content="https://opengraph.githubassets.com/9d14572404163dfcb9274a031e42e29f4fa336804b8e3a5e5f36dbe7daeab1fd/erdemgocen44/JavaScript" /><meta property="og:image:alt" content="Contribute to erdemgocen44/JavaScript development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="JavaScript/tvShow.js at master · erdemgocen44/JavaScript" /><meta property="og:url" content="https://github.com/erdemgocen44/JavaScript" /><meta property="og:description" content="Contribute to erdemgocen44/JavaScript development by creating an account on GitHub." />
     
 
 
@@ -73,11 +73,11 @@
     
 
   <link rel="assets" href="https://github.githubassets.com/">
-    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/89189253/ws?session=eyJ2IjoiVjMiLCJ1Ijo4OTE4OTI1MywicyI6ODI4NTEwODYwLCJjIjo0MTc4NDU0OTU2LCJ0IjoxNjQ2NzM1MzM5fQ==--ead830262acf32afb3111e12087acaeb93d18756383b4435e52838d1527859df" data-refresh-url="/_alive" data-session-id="149fb31a40c2b8b7113f225f72bde9d753a783c2d65df77459cd24d8b4160f69">
+    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/89189253/ws?session=eyJ2IjoiVjMiLCJ1Ijo4OTE4OTI1MywicyI6ODI4NTEwODYwLCJjIjoyMjIwNTE1NTA1LCJ0IjoxNjQ2NzM1MzQ3fQ==--6ad7c16ecd7e21e582116ad503136d92bf20629a3add04c10640ca09bc3fab09" data-refresh-url="/_alive" data-session-id="149fb31a40c2b8b7113f225f72bde9d753a783c2d65df77459cd24d8b4160f69">
     <link rel="shared-web-socket-src" href="/assets-cdn/worker/socket-worker-22a4eda703748fc3479d.js">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
 
-  <meta name="request-id" content="F19A:06B4:2A3FBF6:2C8134A:62272FE6" data-pjax-transient="true" /><meta name="html-safe-nonce" content="04bb07d5c5988cf8fce2da264ba6214efca4577cd214b036bc9c97bc58fe8389" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9lcmRlbWdvY2VuNDQvSmF2YVNjcmlwdC90cmVlL21hc3Rlci9kZXJzNi1uZXNuZWxlci90dlNob3ciLCJyZXF1ZXN0X2lkIjoiRjE5QTowNkI0OjJBM0ZCRjY6MkM4MTM0QTo2MjI3MkZFNiIsInZpc2l0b3JfaWQiOiIzMzM1OTEzNjExNjc3MDgyNDA0IiwicmVnaW9uX2VkZ2UiOiJmcmEiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-pjax-transient="true" /><meta name="visitor-hmac" content="f94b31696a9bb675fa637e53a1ff9161b8d9624368b12d9e8ba9d99ef5d72d3f" data-pjax-transient="true" />
+  <meta name="request-id" content="F19A:06B4:2A406E4:2C81EB7:62272FEF" data-pjax-transient="true" /><meta name="html-safe-nonce" content="04bb07d5c5988cf8fce2da264ba6214efca4577cd214b036bc9c97bc58fe8389" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9lcmRlbWdvY2VuNDQvSmF2YVNjcmlwdC90cmVlL21hc3Rlci9kZXJzNi1uZXNuZWxlci90dlNob3ciLCJyZXF1ZXN0X2lkIjoiRjE5QTowNkI0OjJBNDA2RTQ6MkM4MUVCNzo2MjI3MkZFRiIsInZpc2l0b3JfaWQiOiIzMzM1OTEzNjExNjc3MDgyNDA0IiwicmVnaW9uX2VkZ2UiOiJmcmEiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-pjax-transient="true" /><meta name="visitor-hmac" content="0302fe52624a70fbff6dd75c0951b6a0127cb6d3678822214f293226e6b67c4f" data-pjax-transient="true" />
 
     <meta name="hovercard-subject-tag" content="repository:409684841" data-pjax-transient>
 
@@ -110,7 +110,7 @@
 
       <meta name="expected-hostname" content="github.com">
 
-      <meta name="js-proxy-site-detection-payload" content="ZWUxMWU4NzdmMjk5NDhlOTY1OTc5NTk4ZjQ5OGVkMzcwOTY4OTFkYjBlNjY5MDQyZjMwOTIzNDBiOWRlZmMzOHx7InJlbW90ZV9hZGRyZXNzIjoiNS4xNzMuMTM2LjY2IiwicmVxdWVzdF9pZCI6IkYxOUE6MDZCNDoyQTNGQkY2OjJDODEzNEE6NjIyNzJGRTYiLCJ0aW1lc3RhbXAiOjE2NDY3MzUzMzksImhvc3QiOiJnaXRodWIuY29tIn0=">
+      <meta name="js-proxy-site-detection-payload" content="MjliOGM1ZTI3YjVhNTlkNjhhODRlNWQxZTM5ZWU1MjkxNzRhZmMxY2Q3Y2RhYjlhMDM0ZTMxZDJiMjA4OTM4NXx7InJlbW90ZV9hZGRyZXNzIjoiNS4xNzMuMTM2LjY2IiwicmVxdWVzdF9pZCI6IkYxOUE6MDZCNDoyQTQwNkU0OjJDODFFQjc6NjIyNzJGRUYiLCJ0aW1lc3RhbXAiOjE2NDY3MzUzNDcsImhvc3QiOiJnaXRodWIuY29tIn0=">
       <meta name="keyboard-shortcuts-preference" content="all">
       <script type="application/json" id="memex_keyboard_shortcuts_preference">"all"</script>
 
@@ -130,7 +130,7 @@
 
 
 
-    <link rel="canonical" href="https://github.com/erdemgocen44/JavaScript/blob/master/ders6-nesneler/tvShow/index.html" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/erdemgocen44/JavaScript/blob/master/ders6-nesneler/tvShow/tvShow.js" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -174,7 +174,7 @@
   href="https://github.com/"
   data-hotkey="g d"
   aria-label="Homepage "
-  data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/ders6-nesneler/tvShow/index.html&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="33dd8038b932a5951433e33dcbdb05ae0c06320ed76cedc133bac0e68049aa65" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;}"
+  data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/ders6-nesneler/tvShow/tvShow.js&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="3ecd568f6da7415c5ca36be7e32226c89ca0822ec43b8e7b7a0c24c85aa7e68c" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;}"
 >
   <svg height="32" aria-hidden="true" viewBox="0 0 16 16" version="1.1" width="32" data-view-component="true" class="octicon octicon-mark-github v-align-middle">
     <path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path>
@@ -218,7 +218,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" value="_oLJyCBuyQMY-8vwmCMJPx4dr6MiiQMcd0ct9-7_XZdyJJF10nChg4jydzFu7NKxRd5mD2LWUwNk3BMiZwIUIA" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+        <input type="hidden" value="JKUsmZwtoqwgswvhItDCsJDKV4cetiyRNkjVyxb40saoA3QkbjPKLLC6tyDUHxk-ywmeK17pfI4l0-senwWbcQ" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -422,7 +422,7 @@
     <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:workspaces context:user" data-selected-links="/codespaces /codespaces" href="/codespaces">
       Codespaces
 </a>
-      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;Korkmaz29&quot;,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/ders6-nesneler/tvShow/index.html&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="2a404e4bec54c27601e381c7e3f609e24c7d7bf284883f3751789dfbb77a7c79" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
+      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;Korkmaz29&quot;,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/ders6-nesneler/tvShow/tvShow.js&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="d43ef4c08e89064e85ed2e75bdc3895c003526c34df36a605667b4d401099135" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
 
     <a class="Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade" href="/settings/profile">
       Settings
@@ -431,12 +431,12 @@
       <img class="avatar avatar-user" loading="lazy" decoding="async" src="https://avatars.githubusercontent.com/u/89189253?s=40&amp;v=4" width="20" height="20" alt="@Korkmaz29" />
       Korkmaz29
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="SYj2bZHiQrHMSlDXUzjilJHJkIOAkVtamCfcbKJJ7MgbeVySzrQlCzCdkXKM3j9Gb3czyIVnR8uzszPlP-7Ryg" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="fHNuMYsivVfFqe6YuGlNhhl-B2LGI0BskTK_TV2RjsYugsTO1HTa7Tl-Lz1nj5BU58CkKcPVXP26plDEwDazxA" />
       <button
         type="submit"
         class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade d-md-none btn-link d-block width-full text-left"
         style="padding-left: 2px;"
-        data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;sign out&quot;,&quot;label&quot;:&quot;icon:logout&quot;,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/ders6-nesneler/tvShow/index.html&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="e1d013d330363091a613a28db814bec89a7ea2232ee4f5cb106794dea9f3d123" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;sign out&quot;,&quot;label&quot;:&quot;icon:logout&quot;}"
+        data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;sign out&quot;,&quot;label&quot;:&quot;icon:logout&quot;,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/ders6-nesneler/tvShow/tvShow.js&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="b4f1d4a9a04b69cb28f2a50e4b78aa68c33921deda399c7363ba1d4dd4adb8d2" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;sign out&quot;,&quot;label&quot;:&quot;icon:logout&quot;}"
       >
         <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-sign-out v-align-middle">
     <path fill-rule="evenodd" d="M2 2.75C2 1.784 2.784 1 3.75 1h2.5a.75.75 0 010 1.5h-2.5a.25.25 0 00-.25.25v10.5c0 .138.112.25.25.25h2.5a.75.75 0 010 1.5h-2.5A1.75 1.75 0 012 13.25V2.75zm10.44 4.5H6.75a.75.75 0 000 1.5h5.69l-1.97 1.97a.75.75 0 101.06 1.06l3.25-3.25a.75.75 0 000-1.06l-3.25-3.25a.75.75 0 10-1.06 1.06l1.97 1.97z"></path>
@@ -453,7 +453,7 @@
   href="https://github.com/"
   data-hotkey="g d"
   aria-label="Homepage "
-  data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/ders6-nesneler/tvShow/index.html&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="33dd8038b932a5951433e33dcbdb05ae0c06320ed76cedc133bac0e68049aa65" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;}"
+  data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/ders6-nesneler/tvShow/tvShow.js&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="3ecd568f6da7415c5ca36be7e32226c89ca0822ec43b8e7b7a0c24c85aa7e68c" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;}"
 >
   <svg height="32" aria-hidden="true" viewBox="0 0 16 16" version="1.1" width="32" data-view-component="true" class="octicon octicon-mark-github v-align-middle">
     <path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path>
@@ -469,7 +469,7 @@
       <notification-indicator
         class="js-socket-channel"
         data-test-selector="notifications-indicator"
-        data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6ODkxODkyNTMiLCJ0IjoxNjQ2NzM1MzM5fQ==--bdacfdc7f733cc3e4c0e1f7eeccdf6ff0e808957bcf31124880c74adefd456a4">
+        data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6ODkxODkyNTMiLCJ0IjoxNjQ2NzM1MzQ3fQ==--602d9cc2abaf9838b9ae0d888aac18ffe395b5b2bf1f5118cea9aa6a1e31a867">
         <a href="/notifications"
           class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
           
@@ -492,7 +492,7 @@
   <summary
     class="Header-link"
     aria-label="Create new…"
-    data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;create new&quot;,&quot;label&quot;:&quot;icon:add&quot;,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/ders6-nesneler/tvShow/index.html&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="0344fb85e128e8debff2d60629d9ba1707b38ef9ea8cf9a1f9ffbe0db5c3550d" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;create new&quot;,&quot;label&quot;:&quot;icon:add&quot;}"
+    data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;create new&quot;,&quot;label&quot;:&quot;icon:add&quot;,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/ders6-nesneler/tvShow/tvShow.js&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="02fd33704917ca591d5d6e074997e1ffd5dd66c3a28e8ba1c6966f836bc643f6" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;create new&quot;,&quot;label&quot;:&quot;icon:add&quot;}"
   >
       <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-plus">
     <path fill-rule="evenodd" d="M7.75 2a.75.75 0 01.75.75V7h4.25a.75.75 0 110 1.5H8.5v4.25a.75.75 0 11-1.5 0V8.5H2.75a.75.75 0 010-1.5H7V2.75A.75.75 0 017.75 2z"></path>
@@ -530,7 +530,7 @@
   <summary
     class="Header-link"
     aria-label="View profile and more"
-    data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;show menu&quot;,&quot;label&quot;:&quot;icon:avatar&quot;,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/ders6-nesneler/tvShow/index.html&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="32b4ba91cb43d430c9c4ff7af13f2519f0740e8279a37e2fadff9d93b9d188ef" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;show menu&quot;,&quot;label&quot;:&quot;icon:avatar&quot;}"
+    data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;show menu&quot;,&quot;label&quot;:&quot;icon:avatar&quot;,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/ders6-nesneler/tvShow/tvShow.js&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="6b1b9286a1e59f8a396b1fceca8cfa7b814b411fe52ed54b25ac4560323cf5d7" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;show menu&quot;,&quot;label&quot;:&quot;icon:avatar&quot;}"
   >
     <img src="https://avatars.githubusercontent.com/u/89189253?s=40&amp;v=4" alt="@Korkmaz29" size="20" height="20" width="20" data-view-component="true" class="avatar avatar-small circle" />
       <span class="feature-preview-indicator js-feature-preview-indicator" style="top: 1px;" hidden></span>
@@ -605,7 +605,7 @@
   <details-dialog class="command-palette-details-dialog d-flex flex-column flex-justify-center height-fit" aria-label="command palette">
     <command-palette
       class="command-palette color-bg-default rounded-3"
-      data-return-to=/erdemgocen44/JavaScript/blob/master/ders6-nesneler/tvShow/index.html
+      data-return-to=/erdemgocen44/JavaScript/blob/master/ders6-nesneler/tvShow/tvShow.js
       data-user-id="89189253"
       data-activation-hotkey="Mod+k,Mod+Alt+k"
       data-command-mode-hotkey="Mod+Shift+k"
@@ -617,7 +617,7 @@
       >
 
       <input type="hidden" name="color-mode-path" id="color-mode-path" value="/settings/appearance/color_mode" class="js-color-mode-path" autocomplete="off" />
-      <input type="hidden" value="QFU-66AdIUg4I3La8GV_uNel3Nu-dhTgd3s8DakKnd2BjOASYEh-zysxGFCvDTvFKSNr21Clb5ytCvFl3_zTZw" data-csrf="true" class="js-color-mode-csrf" />
+      <input type="hidden" value="vMmgAsqzC1kKbSa2wtkqK87Gqg751bjPGHwjODcD1E99EH77CuZU3hl_TDydsW5WMEAdDhcGw7PCDe5QQfWa9Q" data-csrf="true" class="js-color-mode-csrf" />
 
         <command-palette-mode
           data-char="#"
@@ -1496,7 +1496,7 @@
         data-action="toggle:notifications-list-subscription-form#detailsToggled"
       >
 
-      <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:409684841,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/ders6-nesneler/tvShow/index.html&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="fd2bd2b9b37115e147e23aba0083c2688ebef2739b737e359dcafd83e74235a5" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">  <span data-menu-button>
+      <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:409684841,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/ders6-nesneler/tvShow/tvShow.js&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="fce6a1909c4014946098a792eee9a1cb787332e1055f7d6fac2b64ff1784c0e1" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">  <span data-menu-button>
             <span
               hidden
               
@@ -1548,7 +1548,7 @@
             </header>
 
             <div class="SelectMenu-list">
-              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="yR0hGHkrtINQtMJw3QqphqQnETAFWGCCzv5cZsj0K4W9ub3KK1y3w5rGgKGnfwE_J3IVeqxYESGfheTMw-9_7w" autocomplete="off" />
+              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="oNju8b49RtHegNZ1vYQTrb0b9AiHBgkOnbOF4tfiYjLUfHIj7EpFkRTylKTH8bsUPk7wQi4GeK3MyD1I3Pk2WA" autocomplete="off" />
 
                 <input type="hidden" name="repository_id" value="409684841">
 
@@ -1676,7 +1676,7 @@
           hidden
         >
           <div class="SelectMenu-modal notifications-component-dialog-modal overflow-visible">
-            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Mo11HvmWNAqfG7K7g6M5-6PHKrfQYUJd4QGDYwpHFB1GKenMq-E3SlVp8Gr51pFCIJIu_XlhM_6wejvJAVxAdw" autocomplete="off" />
+            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="PIRV60kmqd4HwVXkLIQRjbqYYzjnIxdL1mPzyg_n1dpIIMk5G1Gqns2zFzVW8bk0Oc1nck4jZuiHGEtgBPyBsA" autocomplete="off" />
 
               <input type="hidden" name="repository_id" value="409684841">
 
@@ -1821,8 +1821,8 @@
   </li>
 
   <li>
-            <form class="btn-with-count" action="/erdemgocen44/JavaScript/fork" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="YUIjJRAFm_JkWxddkppbMFqCiJoMqxQ9w6cpMHK2QaaD_J1JEA-KFZmj2fYHJxRmAXRe_yhXnWaIrKKyk8qMZg" autocomplete="off" />
-        <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:409684841,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/ders6-nesneler/tvShow/index.html&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="9b89f6da2aa39c29f485b0926ae3d98d0cc928066ea90a36db8dc161d51ee7d0" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" aria-label="Fork your own copy of erdemgocen44/JavaScript to your account" type="submit" data-view-component="true" class="btn-sm btn">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
+            <form class="btn-with-count" action="/erdemgocen44/JavaScript/fork" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="dO_1w5HO14LQoccPjYZxYtrs7rOnWP9XhpzTkkm_x1iWUUuvkcTGZS1ZCaQYOz40gRo41oOkdgzNl1gQqMMKmA" autocomplete="off" />
+        <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:409684841,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/ders6-nesneler/tvShow/tvShow.js&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="bc7fd0ad61f7fb45f2938ad6cf3e5e58b0792bb5e16d5dfbd879c6e71e7b88f5" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" aria-label="Fork your own copy of erdemgocen44/JavaScript to your account" type="submit" data-view-component="true" class="btn-sm btn">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
     <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path>
 </svg>Fork
           <span id="repo-network-counter" data-pjax-replace="true" title="0" data-view-component="true" class="Counter">0</span>
@@ -1849,24 +1849,24 @@
 </template>
 
   <div data-view-component="true" class="js-toggler-container js-social-container starring-container BtnGroup d-flex">
-    <form class="starred js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" action="/erdemgocen44/JavaScript/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="l-DSjjcT4eiv4piN1I7KKZz66FpsgE8NkmmXbjkt6N24VVEtWtalM2jeErmxKSbcM4mgZXUzHLF_AzaOVzrSuw" autocomplete="off" />
-        <input type="hidden" value="I16j2QSLKtwO5wSx0zmfnWln2W0ueEzUFynyzH0JVNcM6yB6aU5uB8nbjoW2nnNoxhSRUjfLH2j6Q1MsEx5usQ" data-csrf="true" class="js-confirm-csrf-token" />
+    <form class="starred js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" action="/erdemgocen44/JavaScript/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="_lug4AO195UKijExO5G1xe_sCyCLze4u6qJtZSLLV2TR7iNDbnCzTs22uwVeNlkwQJ9DH5J-vZIHyMyFTNxtAg" autocomplete="off" />
+        <input type="hidden" value="jG5kzQ3eWRZXeVtk-2F0ERibrLjYfPlmezbh3-tE4Qaj2-duYBsdzZBF0VCexpjkt-jkh8HPqtqWXEA_hVPbYA" data-csrf="true" class="js-confirm-csrf-token" />
       <input type="hidden" name="context" value="repository">
-      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:409684841,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/ders6-nesneler/tvShow/index.html&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="c8814aec347fcb106f44ff56ab64f516091aa4c059fa5957b963cf31ed418cb1" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository" type="submit" data-view-component="true" class="rounded-left-2 border-right-0 btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
+      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:409684841,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/ders6-nesneler/tvShow/tvShow.js&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="05807e99c447759b35fcc513b1e2c172f8b6d7d6005f66a9befeed265ac061eb" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository" type="submit" data-view-component="true" class="rounded-left-2 border-right-0 btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path>
 </svg><span data-view-component="true" class="d-inline">
           Starred
 </span>          <span id="repo-stars-counter-unstar" aria-label="0 users starred this repository" data-singular-suffix="user starred this repository" data-plural-suffix="users starred this repository" data-pjax-replace="true" title="0" data-view-component="true" class="Counter js-social-count">0</span>
 </button></form>
-    <form class="unstarred js-social-form BtnGroup-parent flex-auto" action="/erdemgocen44/JavaScript/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="6ZDJgX3ho10n86NP3FchRmTfKRFu4EqCgNKipukG3dbSu3gTGfHASK-RnQQM9I_hfX_vv8TLxOJ046UpfU7D2g" autocomplete="off" />
+    <form class="unstarred js-social-form BtnGroup-parent flex-auto" action="/erdemgocen44/JavaScript/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="sh3FtZvki7oI2hHdEGdqhkJaPBhlIUWqKzHRyRUqjaCJNnQn__Tor4C4L5bAxMQhW_r6ts8Ky8rfANZGgWKTrA" autocomplete="off" />
       <input type="hidden" name="context" value="repository">
-      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:409684841,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/ders6-nesneler/tvShow/index.html&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="1dae874cb5cc1fdc7dde2e147c0533e10e41ff6cad10836f1be9913aa924687c" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
+      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:409684841,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/ders6-nesneler/tvShow/tvShow.js&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="357f0071835b266f5776ad6bf25f2fb368acadfc7f31ec397c085ce3d074528f" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path>
 </svg><span data-view-component="true" class="d-inline">
           Star
 </span>          <span id="repo-stars-counter-star" aria-label="0 users starred this repository" data-singular-suffix="user starred this repository" data-plural-suffix="users starred this repository" data-pjax-replace="true" title="0" data-view-component="true" class="Counter js-social-count">0</span>
 </button></form>
-      <details id="details-b967de" data-view-component="true" class="details-reset details-overlay BtnGroup-parent js-user-list-menu d-inline-block position-relative">
+      <details id="details-3da0d8" data-view-component="true" class="details-reset details-overlay BtnGroup-parent js-user-list-menu d-inline-block position-relative">
       <summary aria-label="Add this repository to a list" data-view-component="true" class="btn-sm btn BtnGroup-item px-2 float-none">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-triangle-down">
     <path d="M4.427 7.427l3.396 3.396a.25.25 0 00.354 0l3.396-3.396A.25.25 0 0011.396 7H4.604a.25.25 0 00-.177.427z"></path>
 </svg>
@@ -1879,13 +1879,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-b967de">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-3da0d8">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-b967de"
+        id="filter-menu-3da0d8"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2088,7 +2088,7 @@
 
 
     
-<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/erdemgocen44/JavaScript/blob/09efd10765b547e31943667097977203d57ff0a9/ders6-nesneler/tvShow/index.html">Permalink</a>
+<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/erdemgocen44/JavaScript/blob/09efd10765b547e31943667097977203d57ff0a9/ders6-nesneler/tvShow/tvShow.js">Permalink</a>
 
 <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
   
@@ -2173,7 +2173,7 @@
             </div>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/erdemgocen44/JavaScript/blob/{{ urlEncodedRefName }}/ders6-nesneler/tvShow/index.html" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/erdemgocen44/JavaScript/blob/{{ urlEncodedRefName }}/ders6-nesneler/tvShow/tvShow.js" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2213,7 +2213,7 @@
             </template>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/erdemgocen44/JavaScript/blob/{{ urlEncodedRefName }}/ders6-nesneler/tvShow/index.html" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/erdemgocen44/JavaScript/blob/{{ urlEncodedRefName }}/ders6-nesneler/tvShow/tvShow.js" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2244,7 +2244,54 @@
 </div>
 
   <h2 id="blob-path" class="breadcrumb flex-auto flex-self-center min-width-0 text-normal mx-2 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/erdemgocen44/JavaScript"><span>JavaScript</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/erdemgocen44/JavaScript/tree/master/ders6-nesneler"><span>ders6-nesneler</span></a></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/erdemgocen44/JavaScript/tree/master/ders6-nesneler/tvShow"><span>tvShow</span></a></span><span class="separator">/</span><strong class="final-path">index.html</strong>
+    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/erdemgocen44/JavaScript"><span>JavaScript</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/erdemgocen44/JavaScript/tree/master/ders6-nesneler"><span>ders6-nesneler</span></a></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/erdemgocen44/JavaScript/tree/master/ders6-nesneler/tvShow"><span>tvShow</span></a></span><span class="separator">/</span><strong class="final-path">tvShow.js</strong>
+      <span class="separator">/</span><details class="details-reset details-overlay d-inline" id="jumpto-symbol-select-menu">
+  <summary aria-haspopup="true" data-hotkey="r" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.click_on_blob_definitions&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;click_on_blob_definitions&quot;,&quot;repository_id&quot;:409684841,&quot;ref&quot;:&quot;master&quot;,&quot;language&quot;:&quot;JavaScript&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/ders6-nesneler/tvShow/tvShow.js&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="e42d13ede3464439d7ae2b2a74daaa6698b4d673495283e9baccfd7d07612524" data-view-component="true" class="Link--secondary css-truncate btn-link">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
+    <path fill-rule="evenodd" d="M4.72 3.22a.75.75 0 011.06 1.06L2.06 8l3.72 3.72a.75.75 0 11-1.06 1.06L.47 8.53a.75.75 0 010-1.06l4.25-4.25zm6.56 0a.75.75 0 10-1.06 1.06L13.94 8l-3.72 3.72a.75.75 0 101.06 1.06l4.25-4.25a.75.75 0 000-1.06l-4.25-4.25z"></path>
+</svg>
+    <span data-menu-button>Jump to</span>
+    <span class="dropdown-caret"></span>
+</summary>  <details-menu class="SelectMenu SelectMenu--hasFilter" role="menu">
+    <div class="SelectMenu-modal">
+      <header class="SelectMenu-header">
+        <span class="SelectMenu-title">Code definitions</span>
+        <button class="SelectMenu-closeButton" type="button" data-toggle-for="jumpto-symbol-select-menu">
+          <svg aria-label="Close menu" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
+    <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
+</svg>
+        </button>
+      </header>
+        <div class="SelectMenu-filter">
+          <input
+            class="SelectMenu-input form-control js-filterable-field"
+            id="jumpto-symbols-filter-field"
+            type="text"
+            autocomplete="off"
+            spellcheck="false"
+            autofocus
+            placeholder="Filter definitions"
+            aria-label="Filter definitions">
+        </div>
+      <div class="SelectMenu-list">
+        <div data-filterable-for="jumpto-symbols-filter-field" data-filterable-type="substring">
+            <a class="SelectMenu-item d-flex flex-justify-between css-truncate" role="menuitemradio" aria-checked="false" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.navigate_to_blob_definition&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;navigate_to_blob_definition&quot;,&quot;repository_id&quot;:409684841,&quot;ref&quot;:&quot;master&quot;,&quot;language&quot;:&quot;JavaScript&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/ders6-nesneler/tvShow/tvShow.js&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="981322716a6594e05963b3cee4eb6feb5039ee46a215b066d3f0df65b3aca056" href="/erdemgocen44/JavaScript/blob/master/ders6-nesneler/tvShow/tvShow.js#L14">
+              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
+    <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
+</svg>
+              <span class="flex-auto css-truncate-target" data-menu-button-text>showIzle</span>
+              <span class="flex-auto d-flex flex-justify-end">Function</span>
+</a>        </div>
+      </div>
+      <footer class="SelectMenu-footer">
+        <div class="d-flex flex-justify-between">
+          Code navigation index up-to-date
+          <svg class="octicon octicon-dot-fill text-green" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+        </div>
+      </footer>
+    </div>
+  </details-menu>
+</details>
+
   </h2>
   <a href="/erdemgocen44/JavaScript/find/master" data-pjax="" data-hotkey="t" data-view-component="true" class="js-pjax-capture-input btn mr-2 d-none d-md-block">  Go to file
 </a>
@@ -2255,7 +2302,7 @@
 </summary>
   <div data-view-component="true">      <ul class="dropdown-menu dropdown-menu-sw">
         <li class="d-block d-md-none">
-          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:409684841,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/ders6-nesneler/tvShow/index.html&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="a62f7ff9dd36b0c4a30c38c48b436e34a5d8765c1937721c7ebc0c6e2fe4f996" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/erdemgocen44/JavaScript/find/master">
+          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:409684841,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/ders6-nesneler/tvShow/tvShow.js&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="f658d32b0b85c8d655037af0e5f4a694ff94238c86b0657d64e3ce420e411191" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/erdemgocen44/JavaScript/find/master">
             <span class="flex-auto">Go to file</span>
             <span class="text-small color-fg-muted" aria-hidden="true">T</span>
 </a>        </li>
@@ -2265,15 +2312,21 @@
               <span class="text-small color-fg-muted" aria-hidden="true">L</span>
             </span>
 </button>        </li>
+        <li data-toggle-for="blob-more-options-details">
+          <button data-toggle-for="jumpto-symbol-select-menu" type="button" data-view-component="true" class="dropdown-item btn-link">  <span class="d-flex flex-items-baseline">
+              <span class="flex-auto">Go to definition</span>
+              <span class="text-small color-fg-muted" aria-hidden="true">R</span>
+            </span>
+</button>        </li>
         <li class="dropdown-divider" role="none"></li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="ders6-nesneler/tvShow/index.html" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="ders6-nesneler/tvShow/tvShow.js" data-view-component="true" class="dropdown-item cursor-pointer">
     
             Copy path
 
 </clipboard-copy>        </li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/erdemgocen44/JavaScript/blob/09efd10765b547e31943667097977203d57ff0a9/ders6-nesneler/tvShow/index.html" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/erdemgocen44/JavaScript/blob/09efd10765b547e31943667097977203d57ff0a9/ders6-nesneler/tvShow/tvShow.js" data-view-component="true" class="dropdown-item cursor-pointer">
     
             <span class="d-flex flex-items-baseline">
               <span class="flex-auto">Copy permalink</span>
@@ -2305,7 +2358,7 @@
     <include-fragment src="/erdemgocen44/JavaScript/spoofed_commit_check/09efd10765b547e31943667097977203d57ff0a9" data-test-selector="spoofed-commit-check"></include-fragment>
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-  <include-fragment src="/erdemgocen44/JavaScript/contributors/master/ders6-nesneler/tvShow/index.html" class="commit-loader">
+  <include-fragment src="/erdemgocen44/JavaScript/contributors/master/ders6-nesneler/tvShow/tvShow.js" class="commit-loader">
     <div class="Box-header d-flex flex-items-center">
       <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
       <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
@@ -2338,17 +2391,17 @@
 
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1">
 
-      25 lines (21 sloc)
+      31 lines (28 sloc)
       <span class="file-info-divider"></span>
-    985 Bytes
+    920 Bytes
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between hide-sm hide-md">
       
 
     <div class="BtnGroup">
-      <a data-permalink-href="/erdemgocen44/JavaScript/raw/09efd10765b547e31943667097977203d57ff0a9/ders6-nesneler/tvShow/index.html" href="/erdemgocen44/JavaScript/raw/master/ders6-nesneler/tvShow/index.html" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">  Raw
-</a>        <a data-permalink-href="/erdemgocen44/JavaScript/blame/09efd10765b547e31943667097977203d57ff0a9/ders6-nesneler/tvShow/index.html" href="/erdemgocen44/JavaScript/blame/master/ders6-nesneler/tvShow/index.html" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">  Blame
+      <a data-permalink-href="/erdemgocen44/JavaScript/raw/09efd10765b547e31943667097977203d57ff0a9/ders6-nesneler/tvShow/tvShow.js" href="/erdemgocen44/JavaScript/raw/master/ders6-nesneler/tvShow/tvShow.js" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">  Raw
+</a>        <a data-permalink-href="/erdemgocen44/JavaScript/blame/09efd10765b547e31943667097977203d57ff0a9/ders6-nesneler/tvShow/tvShow.js" href="/erdemgocen44/JavaScript/blame/master/ders6-nesneler/tvShow/tvShow.js" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">  Blame
 </a>    </div>
 
     <div>
@@ -2362,11 +2415,11 @@
 </svg>
           </a>
 
-        <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/erdemgocen44/JavaScript/raw/master/ders6-nesneler/tvShow/index.html" data-action="click:remote-clipboard-copy#remoteCopy">
+        <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/erdemgocen44/JavaScript/raw/master/ders6-nesneler/tvShow/tvShow.js" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
 
-  <span data-target="remote-clipboard-copy.idle">            <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:409684841,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/ders6-nesneler/tvShow/index.html&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="358d194bf003ba2951e7f5407df48f15e7b3a1e3d59fd2ab27a4b5e93ae3cb03" aria-label="Copy raw contents">
+  <span data-target="remote-clipboard-copy.idle">            <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:409684841,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/ders6-nesneler/tvShow/tvShow.js&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="4bbef1c7416ca2a577488ad001058830c779630889c00c9c7b3f2930c6735347" aria-label="Copy raw contents">
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy">
     <path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path>
 </svg>
@@ -2389,7 +2442,7 @@
             </span>
 </span>
 </remote-clipboard-copy>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/erdemgocen44/JavaScript/edit/master/ders6-nesneler/tvShow/index.html" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Aj8DIaOumrrQeZqk-x2Z4KWDA_0VgRv7iVjE7DFBqdD-Unich3FeuPVq5k18FwaVXYeu9atCjq466a6FukG1ZA" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/erdemgocen44/JavaScript/edit/master/ders6-nesneler/tvShow/tvShow.js" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="wCkvnLHUvivXRMXTJEwbASWeC87o6T-nDrQM0zeieWP5psASxoD5ppYdUGl_MxJMi-doCtzL2gVs540S7bYVhw" />
             <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and edit the file" data-hotkey="e" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
@@ -2397,7 +2450,7 @@
 </svg>
             </button>
 </form>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/erdemgocen44/JavaScript/delete/master/ders6-nesneler/tvShow/index.html" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="B2lVq1Efd6j7IPgbmZEDH59KZEmyzSZc5r81gt0pVPXP0qF6JXoPlKP_i2IVCzUtkJLG23MOkHb9Ay7uYJdfbQ" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/erdemgocen44/JavaScript/delete/master/ders6-nesneler/tvShow/tvShow.js" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="hXZOtSKUKygvS5uqB-ioBVdET-tvwCwzxcsnKVicVO-F91bG1Flmc4-C8QGcDqBddeVrSWFG2T_sZ9Fys1WCWw" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and delete the file" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-trash">
@@ -2425,15 +2478,15 @@
                 </a>
             </li>
           <li>
-            <a class="dropdown-item" href="/erdemgocen44/JavaScript/raw/master/ders6-nesneler/tvShow/index.html">
+            <a class="dropdown-item" href="/erdemgocen44/JavaScript/raw/master/ders6-nesneler/tvShow/tvShow.js">
               View raw
             </a>
           </li>
             <li>
-              <remote-clipboard-copy class="dropdown-item" data-src="/erdemgocen44/JavaScript/raw/master/ders6-nesneler/tvShow/index.html" data-action="click:remote-clipboard-copy#remoteCopy">
+              <remote-clipboard-copy class="dropdown-item" data-src="/erdemgocen44/JavaScript/raw/master/ders6-nesneler/tvShow/tvShow.js" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
-  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:409684841,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/ders6-nesneler/tvShow/index.html&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="358d194bf003ba2951e7f5407df48f15e7b3a1e3d59fd2ab27a4b5e93ae3cb03">
+  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:409684841,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/ders6-nesneler/tvShow/tvShow.js&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="4bbef1c7416ca2a577488ad001058830c779630889c00c9c7b3f2930c6735347">
                     Copy raw contents
 </span></span>
   <span data-target="remote-clipboard-copy.fetching" hidden="hidden">                  Copy raw contents
@@ -2456,17 +2509,17 @@
 </span>
 </remote-clipboard-copy>            </li>
             <li>
-              <a class="dropdown-item" href="/erdemgocen44/JavaScript/blame/master/ders6-nesneler/tvShow/index.html">
+              <a class="dropdown-item" href="/erdemgocen44/JavaScript/blame/master/ders6-nesneler/tvShow/tvShow.js">
                 View blame
               </a>
             </li>
 
               <li class="dropdown-divider" role="none"></li>
               <li>
-                <a class="dropdown-item" href="/erdemgocen44/JavaScript/edit/master/ders6-nesneler/tvShow/index.html">Edit file</a>
+                <a class="dropdown-item" href="/erdemgocen44/JavaScript/edit/master/ders6-nesneler/tvShow/tvShow.js">Edit file</a>
               </li>
               <li>
-                <a class="dropdown-item menu-item-danger" href="/erdemgocen44/JavaScript/delete/master/ders6-nesneler/tvShow/index.html">Delete file</a>
+                <a class="dropdown-item menu-item-danger" href="/erdemgocen44/JavaScript/delete/master/ders6-nesneler/tvShow/tvShow.js">Delete file</a>
               </li>
         </ul>
       </details>
@@ -2475,7 +2528,7 @@
 
 
       
-  <div itemprop="text" class="Box-body p-0 blob-wrapper data type-html  gist-border-0">
+  <div itemprop="text" class="Box-body p-0 blob-wrapper data type-javascript  gist-border-0">
 
       
 <div class="js-check-bidi js-blob-code-container blob-code-content">
@@ -2503,110 +2556,133 @@
 </svg>
 </span></template>
 
-  <table class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="HTML" data-tagsearch-path="ders6-nesneler/tvShow/index.html">
+  <table class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="JavaScript" data-tagsearch-path="ders6-nesneler/tvShow/tvShow.js">
         <tr>
           <td id="L1" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="1"></td>
-          <td id="LC1" class="blob-code blob-code-inner js-file-line"><span class=pl-c1>&lt;!DOCTYPE html<span class=pl-kos>&gt;</span></span></td>
+          <td id="LC1" class="blob-code blob-code-inner js-file-line"><span class=pl-k>var</span> <span class=pl-s1>showListe</span> <span class=pl-c1>=</span> <span class=pl-kos>[</span><span class=pl-kos>]</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L2" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="2"></td>
-          <td id="LC2" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>html</span> <span class=pl-c1>lang</span>=&quot;<span class=pl-s>en</span>&quot;<span class=pl-kos>&gt;</span></td>
+          <td id="LC2" class="blob-code blob-code-inner js-file-line">
+</td>
         </tr>
         <tr>
           <td id="L3" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="3"></td>
-          <td id="LC3" class="blob-code blob-code-inner js-file-line">
-</td>
+          <td id="LC3" class="blob-code blob-code-inner js-file-line"><span class=pl-c>//!! json dosyasından veri getirme aşamaları (ezbere gerek yok google dan sonra bakılabilir)</span></td>
         </tr>
         <tr>
           <td id="L4" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="4"></td>
-          <td id="LC4" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>head</span><span class=pl-kos>&gt;</span></td>
+          <td id="LC4" class="blob-code blob-code-inner js-file-line">
+</td>
         </tr>
         <tr>
           <td id="L5" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="5"></td>
-          <td id="LC5" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>meta</span> <span class=pl-c1>charset</span>=&quot;<span class=pl-s>UTF-8</span>&quot; /&gt;</td>
+          <td id="LC5" class="blob-code blob-code-inner js-file-line"><span class=pl-en>fetch</span><span class=pl-kos>(</span><span class=pl-s>&quot;./tv-show.json&quot;</span><span class=pl-kos>)</span></td>
         </tr>
         <tr>
           <td id="L6" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="6"></td>
-          <td id="LC6" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>meta</span> <span class=pl-c1>http-equiv</span>=&quot;<span class=pl-s>X-UA-Compatible</span>&quot; <span class=pl-c1>content</span>=&quot;<span class=pl-s>IE=edge</span>&quot; /&gt;</td>
+          <td id="LC6" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>.</span><span class=pl-en>then</span><span class=pl-kos>(</span><span class=pl-kos>(</span><span class=pl-s1>cevap</span><span class=pl-kos>)</span> <span class=pl-c1>=&gt;</span> <span class=pl-s1>cevap</span><span class=pl-kos>.</span><span class=pl-en>json</span><span class=pl-kos>(</span><span class=pl-kos>)</span><span class=pl-kos>)</span></td>
         </tr>
         <tr>
           <td id="L7" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="7"></td>
-          <td id="LC7" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>meta</span> <span class=pl-c1>name</span>=&quot;<span class=pl-s>viewport</span>&quot; <span class=pl-c1>content</span>=&quot;<span class=pl-s>width=device-width, initial-scale=1.0</span>&quot; /&gt;</td>
+          <td id="LC7" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>.</span><span class=pl-en>then</span><span class=pl-kos>(</span><span class=pl-kos>(</span><span class=pl-s1>veri</span><span class=pl-kos>)</span> <span class=pl-c1>=&gt;</span> <span class=pl-kos>{</span></td>
         </tr>
         <tr>
           <td id="L8" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="8"></td>
-          <td id="LC8" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>title</span><span class=pl-kos>&gt;</span>Document<span class=pl-kos>&lt;/</span><span class=pl-ent>title</span><span class=pl-kos>&gt;</span></td>
+          <td id="LC8" class="blob-code blob-code-inner js-file-line">        <span class=pl-s1>showListe</span> <span class=pl-c1>=</span> <span class=pl-s1>veri</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L9" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="9"></td>
-          <td id="LC9" class="blob-code blob-code-inner js-file-line">    <span class=pl-c>&lt;!-- Bootstrap kutuphanesini harici olarak bagladik --&gt;</span></td>
+          <td id="LC9" class="blob-code blob-code-inner js-file-line">        <span class=pl-en>showIzle</span><span class=pl-kos>(</span><span class=pl-s1>showListe</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L10" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="10"></td>
-          <td id="LC10" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>link</span> <span class=pl-c1>href</span>=&quot;<span class=pl-s>https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css</span>&quot; <span class=pl-c1>rel</span>=&quot;<span class=pl-s>stylesheet</span>&quot; /&gt;</td>
+          <td id="LC10" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>}</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L11" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="11"></td>
-          <td id="LC11" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;/</span><span class=pl-ent>head</span><span class=pl-kos>&gt;</span></td>
+          <td id="LC11" class="blob-code blob-code-inner js-file-line">
+</td>
         </tr>
         <tr>
           <td id="L12" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="12"></td>
-          <td id="LC12" class="blob-code blob-code-inner js-file-line">
-</td>
+          <td id="LC12" class="blob-code blob-code-inner js-file-line"><span class=pl-c>//todo metot oluştur</span></td>
         </tr>
         <tr>
           <td id="L13" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="13"></td>
-          <td id="LC13" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>body</span><span class=pl-kos>&gt;</span></td>
+          <td id="LC13" class="blob-code blob-code-inner js-file-line"><span class=pl-c>//!   https://getbootstrap.com/docs/4.0/components/card/   bu siteden card alıyoruz</span></td>
         </tr>
         <tr>
           <td id="L14" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="14"></td>
-          <td id="LC14" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>div</span> <span class=pl-c1>class</span>=&quot;<span class=pl-s>card bg-warning</span>&quot;<span class=pl-kos>&gt;</span></td>
+          <td id="LC14" class="blob-code blob-code-inner js-file-line"><span class=pl-k>function</span> <span class=pl-en>showIzle</span><span class=pl-kos>(</span><span class=pl-s1>showListe</span><span class=pl-kos>)</span> <span class=pl-kos>{</span></td>
         </tr>
         <tr>
           <td id="L15" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="15"></td>
-          <td id="LC15" class="blob-code blob-code-inner js-file-line">        <span class=pl-kos>&lt;</span><span class=pl-ent>h1</span> <span class=pl-c1>class</span>=&quot;<span class=pl-s>text-center pt-3</span>&quot;<span class=pl-kos>&gt;</span>TV SHOWS<span class=pl-kos>&lt;/</span><span class=pl-ent>h1</span><span class=pl-kos>&gt;</span></td>
+          <td id="LC15" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>var</span> <span class=pl-s1>liste</span> <span class=pl-c1>=</span> <span class=pl-smi>document</span><span class=pl-kos>.</span><span class=pl-en>querySelector</span><span class=pl-kos>(</span><span class=pl-s>&quot;.liste&quot;</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L16" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="16"></td>
-          <td id="LC16" class="blob-code blob-code-inner js-file-line">        <span class=pl-kos>&lt;</span><span class=pl-ent>input</span> <span class=pl-c1>class</span>=&quot;<span class=pl-s>form-control search mb-4</span>&quot; <span class=pl-c1>type</span>=&quot;<span class=pl-s>text</span>&quot; /&gt;</td>
+          <td id="LC16" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1>showListe</span><span class=pl-kos>.</span><span class=pl-en>forEach</span><span class=pl-kos>(</span><span class=pl-kos>(</span><span class=pl-s1>a</span><span class=pl-kos>)</span> <span class=pl-c1>=&gt;</span> <span class=pl-kos>{</span></td>
         </tr>
         <tr>
           <td id="L17" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="17"></td>
-          <td id="LC17" class="blob-code blob-code-inner js-file-line">        <span class=pl-c>&lt;!-- Form-control input kismini daha estetik gosteriyor --&gt;</span></td>
+          <td id="LC17" class="blob-code blob-code-inner js-file-line">        <span class=pl-s1>liste</span><span class=pl-kos>.</span><span class=pl-c1>innerHTML</span> <span class=pl-c1>=</span></td>
         </tr>
         <tr>
           <td id="L18" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="18"></td>
-          <td id="LC18" class="blob-code blob-code-inner js-file-line">        <span class=pl-c>&lt;!-- Bu input elemanına form-control sınıfını atayarak Bootstrap’ın modern görünümünü elde etmiş oluyoruz. Eğer form-control sınıfını atamazsak html’de varsayılan klasik bir alan girişi oluşturulacaktır. --&gt;</span></td>
+          <td id="LC18" class="blob-code blob-code-inner js-file-line">            <span class=pl-s1>liste</span><span class=pl-kos>.</span><span class=pl-c1>innerHTML</span> <span class=pl-c1>+</span></td>
         </tr>
         <tr>
           <td id="L19" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="19"></td>
-          <td id="LC19" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;/</span><span class=pl-ent>div</span><span class=pl-kos>&gt;</span></td>
+          <td id="LC19" class="blob-code blob-code-inner js-file-line">            <span class=pl-s>`&lt;div class=&quot;card col-md-3&quot;  &gt;</span></td>
         </tr>
         <tr>
           <td id="L20" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="20"></td>
-          <td id="LC20" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>div</span> <span class=pl-c1>class</span>=&quot;<span class=pl-s>liste row p-5 g-5</span>&quot;<span class=pl-kos>&gt;</span><span class=pl-kos>&lt;/</span><span class=pl-ent>div</span><span class=pl-kos>&gt;</span></td>
+          <td id="LC20" class="blob-code blob-code-inner js-file-line"><span class=pl-s>        &lt;img class=&quot;card-img-top&quot; src=&quot;<span class=pl-s1><span class=pl-kos>${</span></span></span></td>
         </tr>
         <tr>
           <td id="L21" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="21"></td>
-          <td id="LC21" class="blob-code blob-code-inner js-file-line">
-</td>
+          <td id="LC21" class="blob-code blob-code-inner js-file-line"><span class=pl-s><span class=pl-s1>          <span class=pl-s1>a</span><span class=pl-kos>.</span><span class=pl-c1>show</span><span class=pl-kos>.</span><span class=pl-c1>image</span> ? <span class=pl-s1>a</span><span class=pl-kos>.</span><span class=pl-c1>show</span><span class=pl-kos>.</span><span class=pl-c1>image</span><span class=pl-kos>.</span><span class=pl-c1>medium</span> : <span class=pl-s>&quot;&quot;</span></span></span></td>
         </tr>
         <tr>
           <td id="L22" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="22"></td>
-          <td id="LC22" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>script</span> <span class=pl-c1>src</span>=&quot;<span class=pl-s>tvShow.js</span>&quot;<span class=pl-kos>&gt;</span><span class=pl-kos>&lt;/</span><span class=pl-ent>script</span><span class=pl-kos>&gt;</span></td>
+          <td id="LC22" class="blob-code blob-code-inner js-file-line"><span class=pl-s><span class=pl-s1>        <span class=pl-kos>}</span></span>&quot; alt=&quot;Card image cap&quot;&gt;</span></td>
         </tr>
         <tr>
           <td id="L23" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="23"></td>
-          <td id="LC23" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;/</span><span class=pl-ent>body</span><span class=pl-kos>&gt;</span></td>
+          <td id="LC23" class="blob-code blob-code-inner js-file-line"><span class=pl-s>        &lt;div class=&quot;card-body&quot;&gt;</span></td>
         </tr>
         <tr>
           <td id="L24" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="24"></td>
-          <td id="LC24" class="blob-code blob-code-inner js-file-line">
-</td>
+          <td id="LC24" class="blob-code blob-code-inner js-file-line"><span class=pl-s>          &lt;h5&gt;<span class=pl-s1><span class=pl-kos>${</span><span class=pl-s1>a</span><span class=pl-kos>.</span><span class=pl-c1>show</span><span class=pl-kos>.</span><span class=pl-c1>name</span><span class=pl-kos>}</span></span>&lt;/h5&gt;</span></td>
         </tr>
         <tr>
           <td id="L25" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="25"></td>
-          <td id="LC25" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;/</span><span class=pl-ent>html</span><span class=pl-kos>&gt;</span></td>
+          <td id="LC25" class="blob-code blob-code-inner js-file-line"><span class=pl-s>          &lt;a href=<span class=pl-s1><span class=pl-kos>${</span></span></span></td>
+        </tr>
+        <tr>
+          <td id="L26" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="26"></td>
+          <td id="LC26" class="blob-code blob-code-inner js-file-line"><span class=pl-s><span class=pl-s1>            <span class=pl-s1>a</span><span class=pl-kos>.</span><span class=pl-c1>show</span><span class=pl-kos>.</span><span class=pl-c1>url</span></span></span></td>
+        </tr>
+        <tr>
+          <td id="L27" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="27"></td>
+          <td id="LC27" class="blob-code blob-code-inner js-file-line"><span class=pl-s><span class=pl-s1>          <span class=pl-kos>}</span></span>target=&quot;_blank&quot; class=&quot;btn btn-success&quot;&gt;Detaylar&lt;/a&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L28" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="28"></td>
+          <td id="LC28" class="blob-code blob-code-inner js-file-line"><span class=pl-s>        &lt;/div&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L29" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="29"></td>
+          <td id="LC29" class="blob-code blob-code-inner js-file-line"><span class=pl-s>      &lt;/div&gt;`</span><span class=pl-kos>;</span></td>
+        </tr>
+        <tr>
+          <td id="L30" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="30"></td>
+          <td id="LC30" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>}</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+        </tr>
+        <tr>
+          <td id="L31" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="31"></td>
+          <td id="LC31" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>}</span></td>
         </tr>
   </table>
 </div>
@@ -2632,7 +2708,7 @@
             Copy permalink
           </clipboard-copy>
         </li>
-        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/erdemgocen44/JavaScript/blame/09efd10765b547e31943667097977203d57ff0a9/ders6-nesneler/tvShow/index.html">View git blame</a></li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/erdemgocen44/JavaScript/blame/09efd10765b547e31943667097977203d57ff0a9/ders6-nesneler/tvShow/tvShow.js">View git blame</a></li>
           <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/erdemgocen44/JavaScript/issues/new">Reference in new issue</a></li>
       </ul>
     </details-menu>
@@ -2654,6 +2730,17 @@
 </button>
 </form>    </details-dialog>
   </details>
+
+    <div class="Popover anim-scale-in js-tagsearch-popover"
+     hidden
+     data-tagsearch-url="/erdemgocen44/JavaScript/find-definition"
+     data-tagsearch-ref="master"
+     data-tagsearch-code-nav-context="BLOB_VIEW">
+  <div class="Popover-message Popover-message--large Popover-message--top-left TagsearchPopover mt-1 mb-4 mx-auto Box color-shadow-large">
+    <div class="TagsearchPopover-content js-tagsearch-popover-content overflow-auto" style="will-change:transform;">
+    </div>
+  </div>
+</div>
 
 
 </div>
@@ -2684,16 +2771,16 @@
       </li>
     </ul>
     <ul class="list-style-none d-flex flex-wrap col-12 col-lg-8 flex-justify-center flex-lg-justify-between mb-2 mb-lg-0">
-        <li class="mr-3 mr-lg-0"><a href="https://docs.github.com/en/github/site-policy/github-terms-of-service" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to terms&quot;,&quot;label&quot;:&quot;text:terms&quot;,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/ders6-nesneler/tvShow/index.html&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="34f03f019fd8ec5dfda862348ec7961470b28feb36a4dd892ec5a998e5c0f3dc" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to terms&quot;,&quot;label&quot;:&quot;text:terms&quot;}">Terms</a></li>
-        <li class="mr-3 mr-lg-0"><a href="https://docs.github.com/en/github/site-policy/github-privacy-statement" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to privacy&quot;,&quot;label&quot;:&quot;text:privacy&quot;,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/ders6-nesneler/tvShow/index.html&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="6a907789117a2e1e7917c9d41e1356bb89109a90dd919628c8944ab8a6a8085c" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to privacy&quot;,&quot;label&quot;:&quot;text:privacy&quot;}">Privacy</a></li>
-        <li class="mr-3 mr-lg-0"><a data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to security&quot;,&quot;label&quot;:&quot;text:security&quot;,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/ders6-nesneler/tvShow/index.html&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="25a34602808087eae3d9ab7391c7361d1fd2ef07af0ad64af629bcfe7c21d7c4" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to security&quot;,&quot;label&quot;:&quot;text:security&quot;}" href="https://github.com/security">Security</a></li>
-        <li class="mr-3 mr-lg-0"><a href="https://www.githubstatus.com/" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to status&quot;,&quot;label&quot;:&quot;text:status&quot;,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/ders6-nesneler/tvShow/index.html&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="110aeba162a26da2d712e487d80488fc9936959401ff44a81017a1935290e4e5" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to status&quot;,&quot;label&quot;:&quot;text:status&quot;}">Status</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://docs.github.com/en/github/site-policy/github-terms-of-service" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to terms&quot;,&quot;label&quot;:&quot;text:terms&quot;,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/ders6-nesneler/tvShow/tvShow.js&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="5a20cd09d02899cc7df25258bfccbb552d57526e3cce0cd2cc9f35a04bd326d3" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to terms&quot;,&quot;label&quot;:&quot;text:terms&quot;}">Terms</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://docs.github.com/en/github/site-policy/github-privacy-statement" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to privacy&quot;,&quot;label&quot;:&quot;text:privacy&quot;,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/ders6-nesneler/tvShow/tvShow.js&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="001166fd75498085dd31794962dc748d4c78d085c064c89de7c65f8b4709fa94" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to privacy&quot;,&quot;label&quot;:&quot;text:privacy&quot;}">Privacy</a></li>
+        <li class="mr-3 mr-lg-0"><a data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to security&quot;,&quot;label&quot;:&quot;text:security&quot;,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/ders6-nesneler/tvShow/tvShow.js&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="174f5e473b61121b4b45f82090e8af64b83915b43dec1b8341f63e4a276a1e19" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to security&quot;,&quot;label&quot;:&quot;text:security&quot;}" href="https://github.com/security">Security</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://www.githubstatus.com/" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to status&quot;,&quot;label&quot;:&quot;text:status&quot;,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/ders6-nesneler/tvShow/tvShow.js&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="6f34d8eed4aa2a47b7abcea204963973f8dffab496c23c2b0a3d3db9af7b70fc" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to status&quot;,&quot;label&quot;:&quot;text:status&quot;}">Status</a></li>
         <li class="mr-3 mr-lg-0"><a data-ga-click="Footer, go to help, text:Docs" href="https://docs.github.com">Docs</a></li>
-        <li class="mr-3 mr-lg-0"><a href="https://support.github.com?tags=dotcom-footer" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to contact&quot;,&quot;label&quot;:&quot;text:contact&quot;,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/ders6-nesneler/tvShow/index.html&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="4f9681b99e57b99ef4c03030d9283adb289a4c26a6c0775f07955eb1061b2b2f" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to contact&quot;,&quot;label&quot;:&quot;text:contact&quot;}">Contact GitHub</a></li>
-        <li class="mr-3 mr-lg-0"><a href="https://github.com/pricing" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to Pricing&quot;,&quot;label&quot;:&quot;text:Pricing&quot;,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/ders6-nesneler/tvShow/index.html&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="e006e5142e7c070951280aa4f8053f0ddb5ec07b7ffeca257bacb00d9e02c0be" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to Pricing&quot;,&quot;label&quot;:&quot;text:Pricing&quot;}">Pricing</a></li>
-      <li class="mr-3 mr-lg-0"><a href="https://docs.github.com" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to api&quot;,&quot;label&quot;:&quot;text:api&quot;,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/ders6-nesneler/tvShow/index.html&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="93ff36ecbf1163a24fc04cd9ba198cdeed5c4c1ae1a098a2236f1cfed1621a06" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to api&quot;,&quot;label&quot;:&quot;text:api&quot;}">API</a></li>
-      <li class="mr-3 mr-lg-0"><a href="https://services.github.com" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to training&quot;,&quot;label&quot;:&quot;text:training&quot;,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/ders6-nesneler/tvShow/index.html&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="f6575a90588a52bab1416c096c7ec34e8fefd639bb1b4416ca3c625ccb8cbb33" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to training&quot;,&quot;label&quot;:&quot;text:training&quot;}">Training</a></li>
-        <li class="mr-3 mr-lg-0"><a href="https://github.blog" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to blog&quot;,&quot;label&quot;:&quot;text:blog&quot;,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/ders6-nesneler/tvShow/index.html&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="de0a48cf8b2f3f546b7984d7bd0591946843ce4e57aa7eafa6a7380d665acc51" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to blog&quot;,&quot;label&quot;:&quot;text:blog&quot;}">Blog</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://support.github.com?tags=dotcom-footer" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to contact&quot;,&quot;label&quot;:&quot;text:contact&quot;,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/ders6-nesneler/tvShow/tvShow.js&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="cd6b22a27d2351b72922bb1c845f00b8b81e35d68cdf0df63fa4bb7b7c247158" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to contact&quot;,&quot;label&quot;:&quot;text:contact&quot;}">Contact GitHub</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://github.com/pricing" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to Pricing&quot;,&quot;label&quot;:&quot;text:Pricing&quot;,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/ders6-nesneler/tvShow/tvShow.js&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="b0dd559acbea139310ff7708e89e4f4941c1d70666f72f1157a7dbf35ac120b9" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to Pricing&quot;,&quot;label&quot;:&quot;text:Pricing&quot;}">Pricing</a></li>
+      <li class="mr-3 mr-lg-0"><a href="https://docs.github.com" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to api&quot;,&quot;label&quot;:&quot;text:api&quot;,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/ders6-nesneler/tvShow/tvShow.js&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="fc73118f0e3607e5e5a98e4ef3298981f632c5b2b0d4f1c3c37f9a4cf79df05d" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to api&quot;,&quot;label&quot;:&quot;text:api&quot;}">API</a></li>
+      <li class="mr-3 mr-lg-0"><a href="https://services.github.com" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to training&quot;,&quot;label&quot;:&quot;text:training&quot;,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/ders6-nesneler/tvShow/tvShow.js&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="c11fde0217305842f4b55fce70d5489ed9433bc2ff4cc4b2d77eaeee8783ea88" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to training&quot;,&quot;label&quot;:&quot;text:training&quot;}">Training</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://github.blog" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to blog&quot;,&quot;label&quot;:&quot;text:blog&quot;,&quot;originating_url&quot;:&quot;https://github.com/erdemgocen44/JavaScript/blob/master/ders6-nesneler/tvShow/tvShow.js&quot;,&quot;user_id&quot;:89189253}}" data-hydro-click-hmac="6c67b97c3b0e9b63f5fcbf95b868ed840f85cc5a36fc191d804590e8e5e493d9" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to blog&quot;,&quot;label&quot;:&quot;text:blog&quot;}">Blog</a></li>
         <li><a data-ga-click="Footer, go to about, text:about" href="https://github.com/about">About</a></li>
     </ul>
   </div>
